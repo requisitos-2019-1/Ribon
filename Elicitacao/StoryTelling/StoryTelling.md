@@ -8,7 +8,7 @@ Ao passar pelo tutorial, ela foi jogada para a tela de login, com duas opções,
 
 Ela selecionou a parte de pular o login e assim foi levada para a página de histórias, onde leu algumas e realmente ficou interessada com algumas histórias como uma sobre transpante de ouvido e outra sobre uma cortina purficadora de ar, e assim coletou alguns ribons.
 
-Então ela foi para a página de doações, onde logo de cara já viu os comprovantes de doações e achou muito interessante, pois trouxe mais confiabilidade para ela, logo após ela tentou doar fortificação alimentar, mas o app apresentou incosistencias e não efetuou a doação mesmo tentando várias vezes, então ela tentou doar dias de saude básica para uma pessoa e conseguiu, mas ao ver o saldo de ribons ela percebeu que os ribons correspondentes da outra tentativa de doação foram descontados.
+Então ela foi para a página de doações, onde logo de cara já viu os comprovantes de doações e achou muito interessante, pois trouxe mais confiabilidade para ela, logo após ela tentou doar fortificação alimentar, mas o app apresentou incosistencias e não efetuou a doação mesmo tentando várias vezes, então ela tentou doar dias de saude básica para uma pessoa e conseguiu, mas ao ver o saldo de ribons ela percebeu que os ribons correspondentes das outras tentativas de doações foram descontados.
 
 Logo após ela foi para a aba "Comunidade" e conheceu os dados de doações já efetuados no app, e disse que o nome da aba deveria ser "Informações" e não comunidade.
 
