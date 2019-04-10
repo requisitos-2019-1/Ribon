@@ -15,4 +15,4 @@ Logo após ela foi para a aba "Comunidade" e conheceu os dados de doações já 
 Então ela foi na aba de perfil e conseguiu ver os dados de suas doações, o saldo da doação que não havia sido 
 confirmada.
 
-Ao final do experimento ela ficou feliz ao descobrir esse app e disse que realmente utilizará o app diariamente para conletar os ribons e fazer doações pois era um desejo real dela poder ajudar mais os necessitados.
+Ao final do experimento ela ficou feliz ao descobrir esse app e disse que realmente utilizará o app diariamente para conletar os ribons e fazer doações pois era um desejo real dela poder ajudar mais os necessitados e possivelmente compartilhar a histórias e o app.
