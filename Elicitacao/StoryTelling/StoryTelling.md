@@ -1,4 +1,4 @@
-Era uma vez uma uma mulher chamada Dirce Cristina que sempre teve vontade de ajudar pessoas necessitadas, mas por falta de tempo ou condições financeiras nunca pode fazer.
+Era uma vez, uma uma estuante de ciências contábeis chamada Dirce Cristina que sempre teve vontade de ajudar pessoas necessitadas, mas por falta de tempo ou condições financeiras nunca pode fazer.
 
 Então, foi quando um membro do grupo apresentou o aplicativo Ribon para ela.
 
