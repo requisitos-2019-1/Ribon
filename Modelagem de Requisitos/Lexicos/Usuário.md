@@ -1,6 +1,6 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
-| 17/04/2019 | 1.0 | Criação do cenario  | Henrique Martins |
+| 17/04/2019 | 1.0 | Criação do léxico  | Henrique Martins |
 
 ## Título: Usuário
 
