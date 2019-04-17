@@ -1,10 +1,13 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
-| 17/04/2019 | 1.0 | Criação do cenario  | Victor Rodrigues |
+| 17/04/2019 | 1.0 | Criação do cenario    | Victor Rodrigues |
+| 17/04/2019 | 1.1 | Consertando identação | Victor Rodrigues |
 
 ## Título: Ler Histórias
 
-## Objetivo: Descrever as etapas de leitura de histórias inspiradoras por parte do usuário.
+## Objetivo:
+
+- Descrever as etapas de leitura de histórias inspiradoras por parte do usuário.
 
 ## Contexto/Pré-condição: 
 
@@ -36,6 +39,7 @@
 - Usuário não sabe ler.
 
 ## Exceções:
+
 - Celular deixa de funcionar 
 - Aplicativo trava 
 - Falha na internet 
