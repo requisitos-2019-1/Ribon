@@ -10,7 +10,7 @@
 
 ## Noção:
 
-- O aplicativo disponibiliza 4 causas:
+O aplicativo disponibiliza 4 causas:
 * Fortificação Alimentar (ONG: [Project Healthy Children](http://projecthealthychildren.com/))
 * Água Potável (ONG: [Evidence Action](https://www.evidenceaction.org/))
 * Saúde Básica (ONG: [Living Goods](https://livinggoods.org/))
