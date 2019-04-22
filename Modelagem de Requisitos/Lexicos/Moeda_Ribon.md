@@ -1,6 +1,9 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 17/04/2019 | 1.0 | Criação do léxico  | Henrique Martins |
+| 22/04/2019 | 1.0 | Descontinuando léxico  | Victor Rodrigues |
+
+Modelo não evoluído - Integrado ao Lexico XX - https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Moeda_Ribon.md
 
 ## Título: Ribon (moeda)
 
