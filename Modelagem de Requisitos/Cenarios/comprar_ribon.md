@@ -3,6 +3,7 @@
 | 17/04/2019 | 1.0 | Criação do cenario  | Rafael Teodosio |
 | 22/04/2019 | 1.1 | Correção do objetivo e nome do cenário| Victor Rodrigues |
 | 22/04/2019 | 1.2 | Adiconando espisódios | Victor Rodrigues |
+| 22/04/2019 | 1.3 | Modificando episódios e Pós-Condições | Guilherme de Lyra |
 
 # Titulo: Comprar Ribons.
 
@@ -10,13 +11,14 @@
 
 ## Contexto/Pré-condição:
 
+- Usuário instalou o app.
 - Usuário deseja comprar Ribons.
 - Usuário possui cartão de crédito com limite superior ao da compra.
 - Usuário possui conexão com a internet.
 
 ## Atores:
 
-- Usuário e Ribon (Moeda).
+- Usuário e Ribon.
 
 ## Recursos:
 
@@ -29,16 +31,24 @@
 
 - Usuário abre app.
 - Usuário navega para aba "perfil".
-- Usuário identifica card de compra de ribons.
-- Usuário seleciona a opção de comprar Ribons.
-- Usuário seleciona a quantidade de ribons desejada.
-- Usupario insere dados pessoais e cartão de crédito.
+- Usuário arrasta a tela pra baixo.
+- Usuário seleciona card "Compre ribons!"
+- Usuário escolhe algum dos pacotes de contribuição (6500 Ribons/R$7.9, 12500 Ribons/R$14.9, 21500 Ribons/R$23.9).
+- Usuário seleciona o botão "Contribuir".
+- Usuário preenche os dados de Email, Número do Cartão, Nome no Cartão, Validade (MM/AA) e Código CVV.
+- Usuário seleciona o botão "Efetuar Doação".
 - Usuário realiza a compra.
 
 ## Pós-Condições:
 
-- Usuário é notificado da realização da compra
 - Usuário recebe os ribons
+- Usuário é levado à uma tela que informa que:
+  * A empresa recebeu a doação
+  * O usuário já recebeu os Ribons
+- Usuário recebe notificação/alerta na barra de notificações informando que possui mais de 6200 ribons
+- Usuário recebe recibo de pagamento no email cadastrado
+- Caso seja a primeira compra, usuário recebe email informando que a onta fora criada
+- Usuário pode selecionar o botão "Voltar para o App"
 - Usuário pode comprar novos ribons.
 
 ## Restrições:
