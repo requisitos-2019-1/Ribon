@@ -21,3 +21,4 @@
 
 - Aplicação
 - Software
+- App
