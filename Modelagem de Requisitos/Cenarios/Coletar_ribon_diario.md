@@ -11,7 +11,7 @@
 
 - Descrever as etapas de coleta do [presente diário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Presente_diario.md) por parte do [usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usu%C3%A1rio.md).
 
-# Contexto/Pré-condição: 
+# Contexto: 
 - Local: Qualquer
 - Tempo: Qualquer horário após 00:00 (ou seja, pode coletar 23:59 e depois 00:01)
 - Pré-Condição:
