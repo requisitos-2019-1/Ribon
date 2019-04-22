@@ -4,7 +4,7 @@
 | 22/04/2019 | 1.1 | Correção do objetivo e nome do cenário| Victor Rodrigues |
 | 22/04/2019 | 1.2 | Adiconando espisódios | Victor Rodrigues |
 
-## Titulo: Comprar Ribons.
+# Titulo: Comprar Ribons.
 
 ## Objetivo: Descrever as etapas da compra de Ribons por parte do usuário.
 
