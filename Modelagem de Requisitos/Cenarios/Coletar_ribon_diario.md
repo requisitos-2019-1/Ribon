@@ -2,6 +2,7 @@
 |---|---|---|---|
 | 17/04/2019 | 1.0 | Criação do cenario     | Victor Rodrigues |
 | 22/04/2019 | 1.1 | Adicionando espisódios | Victor Rodrigues |
+| 22/04/2019 | 1.2 | Linkando léxicos | Victor Rodrigues |
 
 # Título: Coletar Presente Diário
 
