@@ -7,16 +7,16 @@
 
 # Objetivo: 
 
-- Descrever as etapas de coleta do presente diário por parte do usuário.
+- Descrever as etapas de coleta do [presente diário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Presente_diario.md) por parte do [usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usu%C3%A1rio.md).
 
 # Contexto/Pré-condição: 
 
-- Usuário instalou o app.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usu%C3%A1rio.md) instalou o [app](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md).
 - Usuário deseja coletar ribons.
 
 # Atores: 
 
-- Usuário e presente diário.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usu%C3%A1rio.md) e [presente diário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Presente_diario.md).
 
 # Recursos: 
 
