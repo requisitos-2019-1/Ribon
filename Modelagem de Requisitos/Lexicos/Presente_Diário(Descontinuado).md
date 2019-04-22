@@ -5,7 +5,7 @@
 
 Adicionado ao https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Presente_diario.md
 
-## Título: Presente Diário
+## Título: [Presente diário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Presente_diario.md)
 
 ## Classificação:
 
@@ -13,16 +13,16 @@ Adicionado ao https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%2
 
 ## Noção:
 
-- Pequena quantidade de moeda ribon dada aos usuários que entram no app.
-- Moeda usada no aplicativo Ribon.
+- Pequena quantidade de [Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md) dada aos [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md)s que entram no [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- [Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) usada no [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md).
 
 ## Impacto:
 
-- Ao ser coletado, o saldo de ribons de usuário é aumentado em 25.
+- Ao ser coletado, o saldo de [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) de [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) é aumentado em 25.
 
 ## Sinônimos:
 
-- Brinde diário
-- Ribon
-- Ribons
-- Moeda
+- [Brinde diário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Presente_diario.md)
+- [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md)
+- [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md)
+- [Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md)

@@ -10,14 +10,14 @@
 
 ## Noção:
 
-- Uma das causas que o usuário pode escolher ajudar.
-- Ajuda fornecendo saúde básica em comunidades em situação de extrema pobreza.
+- Uma das [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md)s que o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) pode escolher ajudar.
+- Ajuda fornecendo saúde básica em [Comunidade](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Comunidade.md)s em situação de extrema pobreza.
 
 ## Impacto:
 
-- Os Ribons doados para essa causa são convertidos em dinheiro e enviado à Living Goods.
-- Cada doação para esta causa custa 100 Ribons para o usuário.
-- Cada doação para esta causa ajuda com 1 dia de atendimento e produtos de saúde.
+- Os [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) doados para essa [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md) são convertidos em dinheiro e enviado à [Living Goods](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Living_Goods.md).
+- Cada [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md) para esta [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md) custa 100 [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) para o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md).
+- Cada [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md) para esta [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md) ajuda com 1 dia de atendimento e produtos de saúde.
 
 
 ## Sinônimos:

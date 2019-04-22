@@ -2,7 +2,7 @@
 |---|---|---|---|
 | 23/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
 
-## Título: Tutorial do app
+## Título: Tutorial do [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md)
 
 ## Classificação:
 
@@ -10,14 +10,14 @@
 
 ## Noção:
 
-- Explicação sobre como o aplicativo funciona.
-- Passo a passo da utilização da aplicação.
+- Explicação sobre como o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) funciona.
+- Passo a passo da utilização da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
 
 ## Impacto:
 
-- O usuário aprende como o aplicativo funciona.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) aprende como o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) funciona.
 
 ## Sinônimos:
 
-- Guia de uso do aplicativo.
-- Instruções de uso da aplicação.
+- Guia de uso do [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- Instruções de uso da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).

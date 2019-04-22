@@ -10,10 +10,10 @@
 
 ## Noção:
 
-- ONG parceira da Ribon.
+- [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ong.md) parceira da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md).
 
 ## Impacto:
 
-- Recebe recursos da Ribon destinados à medicamentos.
-- Atua no tratemento e erradicação de doenças tropicais com uma rede de distribuição de medicamentos.
-- Emite comprovante de doação.
+- Recebe recursos da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md) destinados à [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Medicamentos.md).
+- Atua no tratemento e erradicação de doenças tropicais com uma rede de distribuição de [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Medicamentos.md).
+- Emite comprovante de [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md).

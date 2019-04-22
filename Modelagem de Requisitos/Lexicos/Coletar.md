@@ -10,14 +10,14 @@
 
 ## Noção:
 
-- Maneira de conseguir Ribons gratuitamente
+- Maneira de conseguir [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) gratuitamente
 
 ## Impacto:
 
-- Usuário coleta Ribons em histórias
-- Usuário coleta Ribons diariamente
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) coleta [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) em [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md)s
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) coleta [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) diariamente
 
 ## Sinônimos:
 
 - Ganhar
-- Adquirir
+- [Adquirir](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Comprar.md)

@@ -10,12 +10,12 @@
 
 ## Noção:
 
-- Meio onde o usuário lê histórias
-- Meio onde o usuário faz doações
+- Meio onde o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) lê [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md)s
+- Meio onde o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) faz doações
 
 ## Impacto:
 
-- Possibilita todo o serviço oferecido pela Ribon
+- Possibilita todo o serviço oferecido pela [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md)
 
 ## Sinônimos:
 
