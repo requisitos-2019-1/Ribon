@@ -10,13 +10,13 @@
 
 ## Noção:
 
-- Ato do usuário quando deseja ter mais Ribons
+- Ato do [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) quando deseja ter mais [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md)
 
 ## Impacto:
 
-- Usuário usa Real (R$) para comprar Ribons
-- Ribons comprados são creditados na conta do usuário
-- Ribons comprados são totalmente doados para ONGs
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) usa Real (R$) para comprar [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md)
+- [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) comprados são creditados na conta do [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md)
+- [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) comprados são totalmente doados para [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ong.md)s
 
 ## Sinônimos:
 

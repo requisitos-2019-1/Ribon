@@ -2,7 +2,7 @@
 |---|---|---|---|
 | 21/04/2019 | 1.0 | Criação do léxico  | Henrique Martins |
 
-## Título: Aplicativo não Funciona
+## Título: [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) não Funciona
 
 ## Classificação:
 
@@ -10,15 +10,15 @@
 
 ## Noção:
 
-- Problemas ao abrir o aplicativo
-- Problemas durante o uso do aplicativo
+- [Problema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md)s ao abrir o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md)
+- [Problema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md)s durante o uso do [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md)
 
 ## Impacto:
 
-- O usuário fica incapaz de acessar o aplicativo e suas funcionalidades
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) fica incapaz de acessar o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) e suas funcionalidades
 
 ## Sinônimos:
 
-- Aplicativo não abre
-- Aplicativo trava
-- Aplicativo não responde
+- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) não abre
+- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) trava
+- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) não responde

@@ -10,13 +10,13 @@
 
 ## Noção:
 
-- Conjunto de usuários do aplicativo.
-- Conjunto de doações feitas pelos usuários da aplicação.
+- Conjunto de [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md)s do [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- Conjunto de doações feitas pelos [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md)s da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
 
 ## Impacto:
 
-- O usuário pode ver a quantidade de doações realizadas pelos usuários.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) pode ver a quantidade de doações realizadas pelos [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md)s.
 
 ## Sinônimos:
 
-- População da aplicação.
+- População da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).

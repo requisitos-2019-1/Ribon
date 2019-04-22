@@ -4,7 +4,7 @@
 | 17/04/2019 | 2.0 | Juntando léxicos repetidos  | Victor Rodrigues |
 
 
-## Título: Presente diário
+## Título: [Presente](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md) diário
 
 ## Classificação:
 
@@ -12,12 +12,12 @@
 
 ## Noção:
 
-- Uma quantidade bônus de moedas ribon dadas ao usuário.
-- Ribons gratuitos que podem ser coletados diariamente pelo usuário.
+- Uma quantidade bônus de [Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md)s [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md) dadas ao [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md).
+- [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) gratuitos que podem ser coletados diariamente pelo [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md).
 
 ## Impacto:
 
-- O usuário recebe Ribons.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) recebe [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md).
 
 ## Sinônimos:
 

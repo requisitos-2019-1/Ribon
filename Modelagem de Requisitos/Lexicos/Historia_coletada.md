@@ -2,7 +2,7 @@
 |---|---|---|---|
 | 23/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
 
-## Título: História coletada
+## Título: [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md) coletada
 
 ## Classificação:
 
@@ -10,12 +10,12 @@
 
 ## Noção:
 
-- História que foi coletada pelo usuário.
+- [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md) que foi coletada pelo [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md).
 
 ## Impacto:
 
-- O usuário recebe Ribons.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) recebe [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md).
 
 ## Sinônimos:
 
-- História recolhida.
+- [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md) recolhida.

@@ -10,10 +10,10 @@
 
 ## Noção:
 
-- ONG parceira da Ribon.
+- [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ong.md) parceira da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md).
 
 ## Impacto:
 
-- Recebe recursos da Ribon destinados à fortificação alimentar.
+- Recebe recursos da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md) destinados à [Fortificação alimentar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Fortificacao_alimentar.md).
 - Atua na distribuição de suplementos alimentares para crianças.
-- Emite comprovante de doação.
+- Emite comprovante de [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md).

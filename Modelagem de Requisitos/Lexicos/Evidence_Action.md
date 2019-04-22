@@ -10,10 +10,10 @@
 
 ## Noção:
 
-- ONG parceira da Ribon.
+- [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ong.md) parceira da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md).
 
 ## Impacto:
 
-- Recebe recursos da Ribon destinados a água potável.
-- Atua no tratamento e acesso à água segura e potável para consumo e higiene.
-- Emite comprovante de doação.
+- Recebe recursos da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md) destinados a [Água potável](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Agua_potavel.md).
+- Atua no tratamento e acesso à [Água](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Agua_potavel.md) segura e potável para consumo e higiene.
+- Emite comprovante de [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md).

@@ -15,8 +15,8 @@
 
 ## Impacto:
 
-- Possibilita separar elementos da aplicação de forma a melhorar a disposição das informações
+- Possibilita separar elementos da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) de forma a melhorar a disposição das informações
 
 ## Sinônimos:
 
-- Cartão
+- [Cartão](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Living_Goods.md)

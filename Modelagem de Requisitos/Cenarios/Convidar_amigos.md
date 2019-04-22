@@ -3,7 +3,7 @@
 | 17/04/2019 | 1.0    | Criação do cenario                         | Rafael Teodosio |
 | 22/04/2019 | 1.1    | Modificação nos espisódios e pós-condições | Rafael Teodosio |
 
-# Título: Convidar amigos para o aplicativo
+# Título: Convidar amigos para o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md)
 
 ## Objetivo:
 
@@ -11,32 +11,32 @@
 
 ## Contexto/Pré-condição:
 
-- Usuário instalou o app.
-- Usuário está logado.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) instalou o [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) está logado.
 
 ## Atores:
 
-- Usuário e Amigos.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) e Amigos.
 
 ## Recursos:
 
-- Celular
-- Aplicativo
+- [Celular](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Smartphone.md)
+- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md)
 - Conexão com a internet
 
 ## Episódios:
 
-- Usuário abre app.
-- Usuário navega para aba "Perfil"
-- Usuário puxa tela para cima.
-- Usuário seleciona a opção de "Convidar Amigos".
-- Usuário seleciona o aplicativo pra compartilhar.
-- Usuário compartilha o app.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) abre [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) navega para aba "Perfil"
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) puxa tela para cima.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) seleciona a opção de "Convidar Amigos".
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) seleciona o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) pra compartilhar.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) compartilha o [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
 
 ## Pós-Condições:
 
-- Usuário pode compartilhar em outro app.
-- Usuário deve receber 500 ribons.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) pode compartilhar em outro [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) deve receber 500 [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md).
 
 ## Restrições:
 
@@ -45,8 +45,8 @@
 
 ## Exceções:
 
-- Celular deixa de funcionar
-- Aplicativo trava
+- [Celular](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Smartphone.md) deixa de funcionar
+- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) trava
 - Falha na internet
-- Falha no app.
-- Falha nos apps que foram compartilhados.
+- Falha no [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- Falha nos [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md)s que foram compartilhados.

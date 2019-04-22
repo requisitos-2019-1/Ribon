@@ -5,7 +5,7 @@
 
 Modelo não evoluído - Integrado ao Lexico XX - https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Moeda_Ribon.md
 
-## Título: Ribon (moeda)
+## Título: [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md) (moeda)
 
 ## Classificação:
 
@@ -13,14 +13,14 @@ Modelo não evoluído - Integrado ao Lexico XX - https://github.com/requisitos-2
 
 ## Noção:
 
-- Moeda usada no aplicativo Ribon.
+- [Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Project_Healthy_Children.md) usada no [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md).
 
 ## Impacto:
 
-- Ao ser coletada, moeda Ribon é adicionada a conta do Usuário.
-- Ao ser doada, Ribon é debitada da conta do Usuário, convertida em Real (R$) e repassada para ONGs.
+- Ao ser coletada, [Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Project_Healthy_Children.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md) é adicionada a conta do [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md).
+- Ao ser doada, [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md) é debitada da conta do [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md), convertida em Real (R$) e repassada para [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ong.md)s.
 
 ## Sinônimos:
 
-- Ribons
-- Moeda
+- [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Project_Healthy_Children.md)
+- [Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Project_Healthy_Children.md)

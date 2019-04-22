@@ -10,32 +10,32 @@
   
 ## Contexto/Pré-condição: 
 
-- Usuário instalou o app.
-- Usuário deseja ler histórias/notícias.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) instalou o [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) deseja ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md)s/notícias.
 
 ## Atores: 
 
-- Usuário e Comprovantes.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) e Comprovantes.
 
 ## Recursos: 
 
-- Celular
-- Aplicativo
+- [Celular](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Smartphone.md)
+- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md)
 - Conexão com a internet
 
 ## Episódios: 
 
-- Usuário abre app.
-- Usuário navega para aba "Doações"
-- Usuário puxa tela para cima.
-- Usuário verifica card de comprovantes.
-- Usuário seleciona comprovante desejado.
-- Usuário visualiza o comprovante.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) abre [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md).
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) navega para aba "Doações"
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) puxa tela para cima.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) verifica [Card](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Card.md) de comprovantes.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) seleciona comprovante desejado.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) visualiza o comprovante.
 
 ## Pós-Condições: 
 
-- Usuário pode compartilhar comprovante.
-- Usuário pode comentar na página de comprovantes.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) pode compartilhar comprovante.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) pode comentar na página de comprovantes.
   
 ## Restrições:
 
@@ -43,7 +43,7 @@
 
 ## Exceções:
 
-- Celular deixa de funcionar 
-- Aplicativo trava 
+- [Celular](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Smartphone.md) deixa de funcionar 
+- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) trava 
 - Falha na internet 
 - Falha no sistema que realiza doações.

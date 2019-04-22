@@ -2,7 +2,7 @@
 |---|---|---|---|
 | 23/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
 
-## Título: História expirada
+## Título: [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md) expirada
 
 ## Classificação:
 
@@ -10,14 +10,14 @@
 
 ## Noção:
 
-- História cuja o tempo de publicação ultrapassa 10 dias.
+- [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md) cuja o tempo de publicação ultrapassa 10 dias.
 
 ## Impacto:
 
-- A história expirada não pode ser coletada.
-- O usuário não recebe ribons por aquela história.
+- A [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md) expirada não pode ser coletada.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) não recebe [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) por aquela [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md).
 
 ## Sinônimos:
 
-- História vencida.
-- História fora do prazo.
+- [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md) vencida.
+- [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md) fora do prazo.

@@ -10,14 +10,14 @@
 
 ## Noção:
 
-- Uma das causas que o usuário pode escolher ajudar.
+- Uma das [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md)s que o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) pode escolher ajudar.
 - Ajuda com tratamento e acesso à água segura e potável para consumo e higiene.
 
 ## Impacto:
 
-- Os Ribons doados para essa causa são convertidos em dinheiro e enviado à Evidence Action.
-- Cada doação para esta causa custa 70 Ribons para o usuário.
-- Cada doação para esta causa ajuda uma pessoa com um dia de água potável.
+- Os [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) doados para essa [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md) são convertidos em dinheiro e enviado à [Evidence Action](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Evidence_Action.md).
+- Cada [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md) para esta [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md) custa 70 [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) para o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md).
+- Cada [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md) para esta [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Causa.md) ajuda uma pessoa com um dia de água potável.
 
 
 ## Sinônimos:
