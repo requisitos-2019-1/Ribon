@@ -1,9 +1,10 @@
-| Data | Versão | Descrição | Autor |
-|---|---|---|---|
-| 17/04/2019 | 1.0 | Criação do cenario  | Rafael Teodosio |
-| 22/04/2019 | 1.1 | Correção do objetivo e nome do cenário| Victor Rodrigues |
-| 22/04/2019 | 1.2 | Adiconando espisódios | Victor Rodrigues |
-| 22/04/2019 | 1.3 | Modificando episódios e Pós-Condições | Guilherme de Lyra |
+| Data       | Versão | Descrição                              | Autor             |
+| ---------- | ------ | -------------------------------------- | ----------------- |
+| 17/04/2019 | 1.0    | Criação do cenario                     | Rafael Teodosio   |
+| 22/04/2019 | 1.1    | Correção do objetivo e nome do cenário | Victor Rodrigues  |
+| 22/04/2019 | 1.2    | Adiconando espisódios                  | Victor Rodrigues  |
+| 22/04/2019 | 1.3    | Modificando episódios e Pós-Condições  | Guilherme de Lyra |
+| 22/04/2019 | 2.0    | Absorvendo cenário 002.1               | Victor Rodrigues  |
 
 # Titulo: Comprar Ribons.
 
@@ -12,7 +13,7 @@
 ## Contexto/Pré-condição:
 
 - Usuário instalou o app.
-- Usuário deseja comprar Ribons.
+- Usuário deseja comprar moedas Ribon.
 - Usuário possui cartão de crédito com limite superior ao da compra.
 - Usuário possui conexão com a internet.
 

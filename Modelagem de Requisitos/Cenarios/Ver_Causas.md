@@ -1,8 +1,10 @@
-| Data | Versão | Descrição | Autor |
-|---|---|---|---|
-| 21/04/2019 | 1.0 | Criação do cenario  | Henrique Martins |
+| Data       | Versão | Descrição                 | Autor            |
+| ---------- | ------ | ------------------------- | ---------------- |
+| 21/04/2019 | 1.0    | Criação do cenario        | Henrique Martins |
+| 21/04/2019 | 1.1    | Adicionando Espisódios    | Victor Rodrigues |
+| 22/04/2019 | 1.2    | Adicionando Pós-Condições | Victor Rodrigues |
 
-## Título: Ver causas
+# Título: Ver causas
 
 ## Objetivo:
 
@@ -19,20 +21,27 @@
 
 ## Recursos:
 
-- Smartphone, Aplicativo, Conexão com a Internet.
+- Smartphone
+- Aplicativo
+- Conexão com a internet.
 
 ## Episódios:
 
-- Usuário abre o menu de doações
-- Aplicativo mostra uma lista com as causas disponíveis para doar.
+- Usuário abre app.
+- Usuário navega para aba "Doações".
+- Usuário abre os cards de doações.
+- Aplicativo mostra uma seleção de causas disponíveis para doação.
+
+## Pós-Condições: 
+
+- Usuário pode realizar doações para a causa desejada.
 
 ## Restrições:
 
-- O usuário deve estar logado no aplicativo.
 - O usuário deve ter conexão com a Internet.
 
 ## Exceções:
 
 - Problemas com o Smartphone.
 - Aplicativo não funciona.
-- Falta de Conexão com a Internet.
+- Falta de conexão com a internet.

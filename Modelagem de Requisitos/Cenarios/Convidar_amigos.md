@@ -1,8 +1,9 @@
-| Data | Versão | Descrição | Autor |
-|---|---|---|---|
-| 17/04/2019 | 1.0 | Criação do cenario    | Rafael Teodosio |
+| Data       | Versão | Descrição                                  | Autor           |
+| ---------- | ------ | ------------------------------------------ | --------------- |
+| 17/04/2019 | 1.0    | Criação do cenario                         | Rafael Teodosio |
+| 22/04/2019 | 1.1    | Modificação nos espisódios e pós-condições | Rafael Teodosio |
 
-## Título: Convidar amigos para o aplicativo
+# Título: Convidar amigos para o aplicativo
 
 ## Objetivo:
 
@@ -31,11 +32,11 @@
 - Usuário seleciona a opção de "Convidar Amigos".
 - Usuário seleciona o aplicativo pra compartilhar.
 - Usuário compartilha o app.
-- Usuário ganhar 500 ribons.
 
 ## Pós-Condições:
 
 - Usuário pode compartilhar em outro app.
+- Usuário deve receber 500 ribons.
 
 ## Restrições:
 

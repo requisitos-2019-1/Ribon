@@ -1,29 +1,29 @@
-| Data | Versão | Descrição | Autor |
-|---|---|---|---|
-| 18/04/2019 | 1.0 | Criação do cenario | Victor Rodrigues |
+| Data       | Versão | Descrição          | Autor            |
+| ---------- | ------ | ------------------ | ---------------- |
+| 18/04/2019 | 1.0    | Criação do cenario | Victor Rodrigues |
 
 # Título: Doar água potável
 
-# Objetivo: 
+## Objetivo: 
 
 - Descrever as etapas de doação para a causa de água potável.
 
-# Contexto/Pré-condição: 
+## Contexto/Pré-condição: 
 
 - Usuário instalou o app.
 - Usuário deseja doar ribons.
 
-# Atores: 
+## Atores: 
 
 - Usuário e água potável.
 
-# Recursos: 
+## Recursos: 
 
 - Celular
 - Aplicativo
 - Conexão com a internet
 
-# Episódios: 
+## Episódios: 
 
 - Usuário abre o app.
 - Usuário navega para aba "Doações".
@@ -32,17 +32,17 @@
 - Usuário seleciona quatidade desejada para doação.
 - Usuário confirma doação.
 
-# Pós-Condições: 
+## Pós-Condições: 
 
 - Usuário é descontado de seu saldo de ribons.
 - Usuário pode compartilhar sua doação.
 - Usuário pode voltar para a página anterior e doar novamente.
 
-# Restrições: 
+## Restrições: 
 
 - Usuário não possui saldo de ribons suficiente.
 
-# Exceções:
+## Exceções:
 
 - Celular deixa de funcionar 
 - Aplicativo trava 

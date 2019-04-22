@@ -2,7 +2,7 @@
 |---|---|---|---|
 | 21/04/2019 | 1.0 | Criação do cenario  | Henrique Martins |
 
-## Título: Esclher causas
+# Título: Esclher causas
 
 ## Objetivo:
 
@@ -19,7 +19,9 @@
 
 ## Recursos:
 
-- Smartphone, Aplicativo, Conexão com a Internet.
+- Smartphone
+- Aplicativo
+- Conexão com a Internet.
 
 ## Episódios:
 

@@ -4,27 +4,27 @@
 
 # Título: Doar saúde básica
 
-# Objetivo: 
+## Objetivo: 
 
 - Descrever as etapas de doação para a causa de saúde básica.
 
-# Contexto/Pré-condição: 
+## Contexto/Pré-condição: 
 
 - Usuário instalou o app.
 - Usuário deseja doar ribons.
 - Usuário deseja doar atendimento e produtos de saúde.
 
-# Atores: 
+## Atores: 
 
 - Usuário e saúde básica.
 
-# Recursos: 
+## Recursos: 
 
 - Celular
 - Aplicativo
 - Conexão com a internet
 
-# Episódios: 
+## Episódios: 
 
 - Usuário abre o app.
 - Usuário navega para aba "Doações".
@@ -33,17 +33,17 @@
 - Usuário seleciona quatidade desejada para doação.
 - Usuário confirma doação.
 
-# Pós-Condições: 
+## Pós-Condições: 
 
 - Usuário é descontado de seu saldo de ribons.
 - Usuário pode compartilhar sua doação.
 - Usuário pode voltar para a página anterior e doar novamente.
 
-# Restrições: 
+## Restrições: 
 
 - Usuário não possui saldo de ribons suficiente.
 
-# Exceções:
+## Exceções:
 
 - Celular deixa de funcionar 
 - Aplicativo trava 

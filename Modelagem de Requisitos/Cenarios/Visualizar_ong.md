@@ -1,8 +1,9 @@
-| Data | Versão | Descrição | Autor |
-|---|---|---|---|
-| 17/04/2019 | 1.0 | Criação do cenario    | Rafael Teodosio |
+| Data       | Versão | Descrição          | Autor           |
+| ---------- | ------ | ------------------ | --------------- |
+| 17/04/2019 | 1.0    | Criação do cenario | Rafael Teodosio |
+| 22/04/2019 | 1.1    | Adicionando Pós-Condições | Rafael Teodosio |
 
-## Título: Convidar amigos para o aplicativo
+# Título: Convidar amigos para o aplicativo
 
 ## Objetivo:
 
@@ -27,11 +28,12 @@
 - Usuário abre app.
 - Usuário navega para aba "Perfil"
 - Usuário seleciona o ícone relacionado à ONG.
-- Usuário lê sobre a ONG.
+- Usuário pode ler sobre a ONG.
 
 ## Pós-Condições:
 
 - Usuário pode visualizar outras ONGs.
+- Usuário pode doar ribons para as causas específicas de cada ONG.
 
 ## Restrições:
 

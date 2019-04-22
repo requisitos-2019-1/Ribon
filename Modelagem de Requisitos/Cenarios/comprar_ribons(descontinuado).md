@@ -1,8 +1,12 @@
-| Data | Versão | Descrição | Autor |
-|---|---|---|---|
-| 17/04/2019 | 1.0 | Criação do cenario  | Henrique Martins |
+| Data       | Versão | Descrição                 | Autor            |
+| ---------- | ------ | ------------------------- | ---------------- |
+| 17/04/2019 | 1.0    | Criação do cenario        | Henrique Martins |
+| 22/04/2019 | 1.0    | Descontinuação do cenário | Victor Rodrigues |
 
-## Título: Comprar Ribons
+
+Modelo não evoluído - Integrado ao Cenário 002 - https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/comprar_ribon.md
+
+# Título: Comprar Ribons
 
 ## Objetivo:
 
@@ -14,7 +18,7 @@
 
 ## Atores:
 
-- Usuário.
+- Usuário e moeda Ribon
 
 ## Recursos:
 

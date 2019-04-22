@@ -1,8 +1,8 @@
-| Data | Versão | Descrição | Autor |
-|---|---|---|---|
-| 17/04/2019 | 1.0 | Criação do cenario  | Henrique Martins |
+| Data       | Versão | Descrição          | Autor            |
+| ---------- | ------ | ------------------ | ---------------- |
+| 17/04/2019 | 1.0    | Criação do cenario | Henrique Martins |
 
-## Título: Criar Conta
+# Título: Criar Conta
 
 ## Objetivo:
 
@@ -15,11 +15,13 @@
 
 ## Atores:
 
-- Usuário.
+- Usuário e aplicativo Ribon.
 
 ## Recursos:
 
-- Smartphone, Aplicativo, Conexão com a Internet.
+- Smartphone
+- Aplicativo
+- Conexão com a Internet.
 
 ## Episódios:
 

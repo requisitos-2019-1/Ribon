@@ -4,7 +4,7 @@
 | 17/04/2019 | 1.1 | Consertando identação | Victor Rodrigues |
 | 20/04/2019 | 1.2 | Adicionando Espisódio | Victor Rodrigues |
 
-## Título: Ler Histórias
+# Título: Ler Histórias
 
 ## Objetivo:
 
