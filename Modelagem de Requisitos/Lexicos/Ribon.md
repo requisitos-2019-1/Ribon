@@ -11,12 +11,16 @@
 ## Noção:
 
 - Moeda virtual do aplicativo.
+- Empresa.
+- Aplicativo.
 
 ## Impacto:
 
 - O usuário ganha Ribons.
 - O usuário doa Ribons.
 - A empresa converte Ribons doados em dinheiro real.
+- O aplicativo ajuda comunidades carentes.
+
 
 ## Sinônimos:
 
