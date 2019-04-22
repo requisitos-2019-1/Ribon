@@ -1,15 +1,13 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 17/04/2019 | 1.0 | Criação do cenario    | Victor Rodrigues |
-| 17/04/2019 | 1.1 | Consertando identação | Victor Rodrigues |
-| 20/04/2019 | 1.2 | Adicionando Espisódio | Victor Rodrigues |
 
-## Título: Ler Histórias
+## Título: Verificar comprovantes de doações
 
 ## Objetivo:
 
-- Descrever as etapas de leitura de histórias inspiradoras por parte do usuário.
-
+- Descrever as etapas para visualização de comprovantes de doações.
+  
 ## Contexto/Pré-condição: 
 
 - Usuário instalou o app.
@@ -17,30 +15,31 @@
 
 ## Atores: 
 
-- Usuário e História.
+- Usuário e Comprovantes.
 
 ## Recursos: 
 
 - Celular
 - Aplicativo
 - Conexão com a internet
-- Saber ler
 
 ## Episódios: 
 
 - Usuário abre app.
-- Usuário lê títulos de histórias.
-- Usuário seleciona qual história deseja ler.
-- Usuário lê introdução da história.
-- Usuário lê história completa.
+- Usuário navega para aba "Doações"
+- Usuário puxa tela para cima.
+- Usuário verifica card de comprovantes.
+- Usuário seleciona comprovante desejado.
+- Usuário visualiza o comprovante.
 
 ## Pós-Condições: 
 
-- Usuário pode coletar ribons dessa história.
+- Usuário pode compartilhar comprovante.
+- Usuário pode comentar na página de comprovantes.
   
 ## Restrições:
 
-- Usuário não sabe ler.
+- Conexão com internet.
 
 ## Exceções:
 
