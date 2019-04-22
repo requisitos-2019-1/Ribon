@@ -3,7 +3,7 @@
 | 17/04/2019 | 1.0    | Criação do cenario | Rafael Teodosio |
 | 22/04/2019 | 1.1    | Adicionando Pós-Condições | Rafael Teodosio |
 
-# Título: Visualizar ONG [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ong.md)
+# Título: Visualizar [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ong.md)
 
 ## Objetivo:
 
