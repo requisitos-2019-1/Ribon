@@ -2,7 +2,7 @@
 | ---------- | ------ | ------------------------------- | ---------------- |
 | 22/04/2019 | 1.0    | Criação do léxico               | Lucas Kishima    |
 | 22/04/2019 | 1.1    | Adicionando noções              | Victor Rodrigues |
-| 22/04/2019 | 2.0    | incorporando léxico moeda_ribon | Victor Rodrigues |
+| 22/04/2019 | 2.0    | incorporando léxico L26.1 | Victor Rodrigues |
 
 # Título: Ribon
 
