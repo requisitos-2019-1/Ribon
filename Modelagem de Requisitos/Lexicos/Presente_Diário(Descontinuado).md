@@ -1,6 +1,9 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 17/04/2019 | 1.0 | Criação do léxico  | Victor Rodrigues |
+| 17/04/2019 | 1.0 | Descontinuação do léxico  | Victor Rodrigues |
+
+Adicionado ao https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Presente_diario.md
 
 ## Título: Presente Diário
 
