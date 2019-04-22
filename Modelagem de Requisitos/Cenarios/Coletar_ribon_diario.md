@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
-| 17/04/2019 | 1.0 | Criação do cenario    | Victor Rodrigues |
+| 17/04/2019 | 1.0 | Criação do cenario     | Victor Rodrigues |
+| 22/04/2019 | 1.1 | Adicionando espisódios | Victor Rodrigues |
 
 # Título: Coletar Presente Diário
 
@@ -25,6 +26,8 @@
 
 # Episódios: 
 
+- Usuário abre o app.
+- Usuário identifica icone de presente.
 - Usuário coleta o presente.
 
 # Pós-Condições: 
@@ -33,7 +36,6 @@
 
 # Restrições: 
 
-- Usuário não sabe ler.
 - Usuário só pode coletar uma vez ao dia.
 
 # Exceções:

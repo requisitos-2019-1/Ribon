@@ -22,6 +22,7 @@
 
 ## Sinônimos:
 
+- Água.
 - Água limpa.
 - Água boa para consumo.
 - Água adequada para consumo.
