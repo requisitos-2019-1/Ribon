@@ -2,7 +2,7 @@
 |---|---|---|---|
 | 22/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
 
-## Título: Ribons
+## Título: Ribon
 
 ## Classificação:
 
