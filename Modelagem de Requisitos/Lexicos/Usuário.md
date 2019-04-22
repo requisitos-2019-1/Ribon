@@ -15,7 +15,7 @@
 ## Impacto:
 
 - Usuário lê [Notícia](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md)s.
-- Usuário compra, coleta e doa [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Moeda_Ribon.md) (moeda).
+- Usuário compra, coleta e doa [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md) (moeda).
 
 ## Sinônimos:
 
