@@ -2,7 +2,7 @@ import re
 import glob
 from contextlib import suppress
 
-url_base_path = 'https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/'
+url_base_path = 'https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/'
 lexicos_path = 'Lexicos/'
 cenarios_path = 'Cenarios/'
 title_re = re.compile('(?<=Título: ).*')
