@@ -22,5 +22,6 @@
 
 ## Sinônimos:
 
+- Medicamento.
 - Remédios.
 - Fármacos.

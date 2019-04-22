@@ -19,6 +19,7 @@
 
 ## Sinônimos:
 
+- App
 - Aplicação
 - Software
 - App
