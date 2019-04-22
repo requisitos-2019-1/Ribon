@@ -43,32 +43,3 @@ for current_filename in glob.iglob(lexicos_path+'*.md', recursive=True):
 
         sub(cenarios_path, current_filename, all_files)
         sub(lexicos_path, current_filename, all_files)
-        # for filename in glob.iglob(cenarios_path+'*.md', recursive=True):
-        #     if (filename != current_filename):
-        #         f2 = open(filename, 'r+')
-        #         content = f2.read()
-        #         for sin in all_files:
-        #             rg_str = r'(?<![_/[])'+sin+r'((?!(.md))(?!\)))'
-        #             # >>> la = re.compile('(?<![_/])word((?!(.md))(?!\)))', re.IGNORECASE)
-
-        #             rgx = re.compile(rg_str, re.IGNORECASE)
-                    
-        #             content = re.sub(rgx, hyper(sin, current_filename.split('/')[1]), content) 
-                    
-        #         f2.seek(0)
-        #         f2.truncate()
-        #         f2.write(content)
-        #         f2.close()
-
-
-
-#>>> z = '''
-#... mywordLLD
-#... myword@ld
-#... myword.dff
-#... '''
-#>>> la = re.compile('word(?!@)', re.IGNORECASE)
-#>>> k = re.sub(la, 'oinc', z.rstrip())
-#>>> k
-# (?<!a)b matches a "b" that is not preceded by an "a",
-# (?<!_)wor
