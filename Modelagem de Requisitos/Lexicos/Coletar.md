@@ -10,14 +10,14 @@
 
 ## Noção:
 
-- Maneira de conseguir [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) gratuitamente
+- Maneira de conseguir [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Moeda_Ribon.md) gratuitamente
 
 ## Impacto:
 
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) coleta [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) em [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md)s
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) coleta [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) diariamente
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) coleta [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Moeda_Ribon.md) em [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md)s
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) coleta [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Moeda_Ribon.md) diariamente
 
 ## Sinônimos:
 
 - Ganhar
-- [Adquirir](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Comprar.md)
+- [Adquirir](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Comprar.md)

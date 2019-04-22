@@ -10,15 +10,15 @@
 
 ## Noção:
 
-- Conta um fato, curiosidade ou notícia para o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md).
-- Informação adquirida através de sites de terceiros e repassada ao [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md).
+- Conta um fato, curiosidade ou notícia para o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md).
+- Informação adquirida através de sites de terceiros e repassada ao [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md).
 
 ## Impacto:
 
-- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) lê a história.
-- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) compartilha história.
-- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) coleta história.
-- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Usuário.md) acessa página de terceiros para ler mais sobre aquela história.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) lê a história.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) compartilha história.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) coleta história.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) acessa página de terceiros para ler mais sobre aquela história.
 
 ## Sinônimos:
 

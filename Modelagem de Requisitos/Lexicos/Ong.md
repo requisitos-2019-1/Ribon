@@ -11,13 +11,13 @@
 ## Noção:
 
 - Organização sem fins lucrativos.
-- Parceira da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md).
+- Parceira da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md).
 
 ## Impacto:
 
-- Recebe recursos da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md).
-- Repassa os recusos recebidos para [Comunidade](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Comunidade.md)s carentes.
-- Emite comprovante de [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Doação.md).
+- Recebe recursos da [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md).
+- Repassa os recusos recebidos para [Comunidade](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Comunidade.md)s carentes.
+- Emite comprovante de [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Doação.md).
 
 ## Sinônimos:
 

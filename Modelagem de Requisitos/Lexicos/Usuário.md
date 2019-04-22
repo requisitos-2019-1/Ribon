@@ -10,12 +10,12 @@
 
 ## Noção:
 
-- Pessoa que utiliza o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Aplicativo.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Ribon.md).
+- Pessoa que utiliza o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md).
 
 ## Impacto:
 
-- Usuário lê [Notícia](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Historia.md)s.
-- Usuário compra, coleta e doa [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem de Requisitos/Lexicos/Moeda_Ribon.md) (moeda).
+- Usuário lê [Notícia](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md)s.
+- Usuário compra, coleta e doa [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Moeda_Ribon.md) (moeda).
 
 ## Sinônimos:
 
