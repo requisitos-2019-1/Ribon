@@ -2,7 +2,7 @@
 |---|---|---|---|
 | 24/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/52ff519d8e6cbb11d5d0cd97237ecb48f591df4e) | Criação modelo  | Victor Rodrigues |
 
-# Água potável
+# Título do Léxico
 
 ## Classificação
 
