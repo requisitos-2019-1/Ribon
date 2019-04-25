@@ -1,6 +1,8 @@
 | Data       | Versão  | Descrição         | Autor            |
 | ---------- | ------- | ----------------- | ---------------- |
 | 24/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/ea04c1a33efcd6f3ddfe177af28bfca12eb48b56) | Criação do modelo | Victor Rodrigues |
+| 24/04/2019 | [1.1]() | Modificações de template | Victor Rodrigues |
+
 
 # UCXX: Nome do caso de uso
 
@@ -15,7 +17,6 @@ Breve descrição do caso de uso
 ## 2. Descrição dos atores
 
 ### 2.1. Nome do ator
-Descrição
 
 ## 3. Pré-condição
 Pré condição
@@ -27,17 +28,8 @@ Pré condição
 4. < fluxo básico: passo n>
 5. O caso de uso termina.
 
-## 5. Fluxos alternativos
-
-### 5.1 Fluxo alternativo 1
-Se no passo < x > do fluxo básico o < ator ou sistema faz algo>, que:
-1. < descreva o fluxo > 
-2. O caso de uso continua no passo < y >
+## 5. Fluxo alternativo
 
 ## 6. Cenário chave
 
-
-
 ## 7. Pós-condição
-
-### 7.1 <Pós condição 1>
