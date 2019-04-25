@@ -1,10 +1,13 @@
 | Data       | Versão  | Descrição         | Autor            |
 | ---------- | ------- | ----------------- | ---------------- |
-| 24/04/2019 | [1.0]() | Criação do modelo | Victor Rodrigues |
-
-![Exemplo Diagrama](use-case-example-online-shopping.png)
+| 24/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/ea04c1a33efcd6f3ddfe177af28bfca12eb48b56) | Criação do modelo | Victor Rodrigues |
 
 # UCXX: Nome do caso de uso
+
+## Diagramas
+![Exemplo Diagrama](use-case-example-online-shopping.png)
+versão 1.
+
 
 ## 1. Descrição
 Breve descrição do caso de uso
