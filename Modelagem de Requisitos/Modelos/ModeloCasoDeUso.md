@@ -1,7 +1,7 @@
 | Data       | Versão  | Descrição         | Autor            |
 | ---------- | ------- | ----------------- | ---------------- |
 | 24/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/ea04c1a33efcd6f3ddfe177af28bfca12eb48b56) | Criação do modelo | Victor Rodrigues |
-| 24/04/2019 | [1.1]() | Modificações de template | Victor Rodrigues |
+| 24/04/2019 | [1.1](https://github.com/requisitos-2019-1/Ribon/commit/c187252f99217bfc114c309cf5eeb0d661b397aa) | Modificações de template | Victor Rodrigues |
 
 
 # UCXX: Nome do caso de uso
