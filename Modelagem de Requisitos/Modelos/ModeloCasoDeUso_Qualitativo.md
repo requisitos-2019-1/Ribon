@@ -3,7 +3,8 @@
 ## Casos de Uso
 * Fazer os 20% casos importantes (considerando cenarios positivos) e depois os 80% de exceções etc (principio de pareto)
 * Fazer tabela de casos de uso
-    - ID | Nome | Principal ator | Complexidade | Prioridade
+    - | ID | Nome | Principal ator | Complexidade | Prioridade |
+      | -- | ---- | -------------- | ------------ | ---------- |
  
 * Cada passo deve ser/mostrar uma ação
     - Um caso de uso é uma história, histórias que não andam pra frente são chatas (e ruins de ler); Então, cada passo no diagrama de Casos de Uso deve mostrar algum progresso em direção ao objetivo
