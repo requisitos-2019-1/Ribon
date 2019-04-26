@@ -38,6 +38,7 @@ Normalmente uma entidade que atua com um certo papel; não é uma pessoa em si
 
 ## Relacionamentos
 Existem 5 tipos de relacionamentos 
+
 | Tipo de Relacionamento | Descrição | Sintaxe [PlantUML](http://plantuml.com/use-case-diagram) |
 | ------------- |:-------------:| ------ |
 | Associação entre ator e caso de uso | <li> Um ator tem de estar associado à 1 ou vários casos de uso</li><br><li> Multiplos atores podem estar associado à 1 unico caso de uso </li> | ator -- (caso)  |
