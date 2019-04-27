@@ -42,11 +42,11 @@ Existem 5 tipos de relacionamentos
 
 | Tipo de Relacionamento | Descrição | Sintaxe [PlantUML](http://plantuml.com/use-case-diagram) |
 | ------------- |:-------------:| ------ |
-| Associação entre ator e caso de uso | <li> Um ator tem de estar associado à 1 ou vários casos de uso</li><br><li> Multiplos atores podem estar associado à 1 unico caso de uso </li> | ator -- (caso)  |
-| Generalização de um ator | <li> Filho herda todos os casos de uso do pai, e tem ao menos um caso de uso que o pai nao tem |   pai <\|-- filho  |
-| Extend entre dois casos de uso | <li> A extensão (filho) depende do extendido (pai)</li><br><li>O extendido tem de ser completo por si so (nao depende do comportamento do filho)</li><br><li>Pode ser opcional</li> |   (pai) <.. (filho) : << extends >>  |
-| Include entre dois casos de uso | <li> Caso base é incompleto sem o caso incluído</li><br><li>O caso a ser incluido é obrigatorio e não opcional</li> |  (marido) ..> (mulher) : << includes >>  |
-| Generalização de um caso de uso | <li>Mesma coisa que generalização de atores</li> | pai <\|-- filho |
+| Associação entre ator e caso de uso | <li> Um ator tem de estar associado à 1 ou vários casos de uso</li><br><li> Multiplos atores podem estar associado à 1 unico caso de uso </li> | `ator -- (caso)` |
+| Generalização de um ator | <li> Filho herda todos os casos de uso do pai, e tem ao menos um caso de uso que o pai nao tem |   `pai <\|-- filho`  |
+| Extend entre dois casos de uso | <li> A extensão (filho) depende do extendido (pai)</li><br><li>O extendido tem de ser completo por si so (nao depende do comportamento do filho)</li><br><li>Pode ser opcional</li> |   `(pai) <.. (filho) : << extends >>`  |
+| Include entre dois casos de uso | <li> Caso base é incompleto sem o caso incluído</li><br><li>O caso a ser incluido é obrigatorio e não opcional</li> |  `(marido) ..> (mulher) : << includes >>`  |
+| Generalização de um caso de uso | <li>Mesma coisa que generalização de atores</li> | `pai <\|-- filho` |
 
 
 ## Bibliografia
