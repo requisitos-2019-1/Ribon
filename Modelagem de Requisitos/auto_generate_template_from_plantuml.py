@@ -4,6 +4,7 @@ import collections as ct
 from contextlib import suppress
 import datetime
 import subprocess
+import os
 
 cdu = 'Casos_de_uso/'
 now = datetime.datetime.now()
@@ -40,10 +41,6 @@ for plantuml in glob.iglob(cdu+'/**/*.txt', recursive=True):
 			dic_relations[alias].append(related)
 	dic_relations = dict(dic_relations)
 
-	# print(dic_relations)
-	# print('\n',dic_name)
-	# print('\n', plantuml.split('/')[-1].replace('txt', 'png'))
-	# print('\n', ', '.join(map(str, actors)))
 	for alias, relateds in dic_relations.items():
 		flux = ''.join(['1. O usuário realiza o caso \"'+dic_name[x]+'\"\n' for x in relateds if x != 'u' and x != 'ong'])
 		case_name = dic_name[alias]
@@ -55,7 +52,12 @@ for plantuml in glob.iglob(cdu+'/**/*.txt', recursive=True):
 		new_case = new_case.replace('1. Passo 1\n1. Passo 2, etc', ']]]insere passos aqui]]]')
 		new_case = new_case.replace(']]]insere passos aqui]]]', flux)
 		new_case = new_case.replace('|  |  |  |  |', '| {0} | {1} | {2} | {3} |'.format(today, '1.0', 'Adicionando caso', user))
-		new_file = open(path+case_name.replace('-', '').replace('  ', ' ').replace(' ', '_')+'.md', 'w')
+		filename = path+case_name.replace('-', '').replace('  ', ' ').replace(' ', '_')+'.md'
+		try:
+			new_file = open(filename, 'r')
+			continue
+		except FileNotFoundError:
+			new_file = open(filename, 'w')
 		new_file.write(new_case)
 		new_file.close()
 

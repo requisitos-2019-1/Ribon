@@ -1,3 +1,9 @@
+| Data       | Versão  | Descrição         | Autor            |
+| ---------- | ------- | ----------------- | ---------------- |
+| 28/04/2019 | 1.0 | Adicionando Template | Guilherme de Lyra |
+
+# Template de Diagrama de Caso de Uso
+```
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
 |  |  |  |  |
@@ -50,3 +56,4 @@ Ex: Gerente, Cliente
 | ID  | Cenário |
 | ---------- | ------- |
 |  |  |
+```
