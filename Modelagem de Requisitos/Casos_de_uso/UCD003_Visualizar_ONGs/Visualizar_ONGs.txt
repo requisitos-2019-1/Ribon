@@ -1,0 +1,19 @@
+@startuml
+skinparam packageStyle rectangle
+actor :Usuário: as u
+rectangle "Visualizar ONGs" {
+    (UC017 - Abrir Menu de\nDoações) as amd
+    (UC018 - Ver Causas) as vc
+    (UC003 - Selecionar Causa) as ec
+    (UC019 - Verificar Comprovantes) as verif
+    (UC020 - Visualizar ONGs) as vo
+    (UC008 - Doar Ribons) as dr
+
+    u -up- amd
+    amd <.up. vc : << extends >>
+    amd <.up. verif : << extends >>
+    vc .up.> ec : << extends >>
+    ec .up.> dr : << extends >>
+    ec .up.> vo : << extends >>
+}
+@enduml

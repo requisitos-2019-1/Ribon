@@ -5,7 +5,7 @@ from contextlib import suppress
 import datetime
 import subprocess
 
-cdu = 'Casos_de_Uso/'
+cdu = 'Casos_de_uso/'
 now = datetime.datetime.now()
 user = str(subprocess.check_output(['git', 'config', 'user.name'])).replace('\\n', '').replace('\'', '').replace('b', '')
 today = str(now.day)+'/'+str(now.month)+'/'+str(now.year)
