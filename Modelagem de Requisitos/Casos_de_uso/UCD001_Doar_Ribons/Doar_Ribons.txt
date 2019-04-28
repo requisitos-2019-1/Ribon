@@ -1,0 +1,34 @@
+@startuml
+skinparam packageStyle rectangle
+actor :Usuário: as u
+actor :ONG: as ong
+rectangle "Doar Ribons" {
+    (UC001 - Visualizar Quantidade\nde Ribons) as vqdr
+    (UC002 - Abrir Menu\nde Doações) as amdd
+    (UC003 - Selecionar Causa) as sc
+    (UC004 - Selecionar\nÁgua Potável) as sap
+    (UC005 - Selecionar\nFortificação alimentar) as sfa
+    (UC006 - Selecionar\nSaúde Básica) as ssb
+    (UC007 - Selecionar\nMedicamentos) as sm
+    (UC008 - Doar\na Quantidade de\nRibons Desejada) as dqrd
+    (UC009 - Atualizar Quantidade\nde Ribons) as aqdr
+    (UC010 - Receber\nDoação) as rd
+    u -up- vqdr
+    u -up- amdd
+    vqdr <.up. sc : << extends >>
+    amdd <.up. sc : << extends >>
+    sc .up.> sap : << extends >>
+    sc .up.> sfa : << extends >>
+    sc .up.> ssb : << extends >>
+    sc .up.> sm : << extends >>
+    
+    sap <.up. dqrd : << extends >>
+    sfa <.up. dqrd : << extends >>
+    ssb <.up. dqrd : << extends >>
+    sm <.up. dqrd : << extends >>
+
+    dqrd <.right. aqdr : << extends >> 
+    dqrd <.left. rd : << extends >>
+    rd -left- ong 
+}
+@enduml
