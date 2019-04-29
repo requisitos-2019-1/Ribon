@@ -3,7 +3,7 @@
 | 29/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
 
 
-# UC022 - Convidar Amigos
+# [UC022](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Convidar_amigos.md) - Convidar Amigos
 
 
 ![diagrama](Receber_Ribons.png)
