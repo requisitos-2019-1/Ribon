@@ -14,13 +14,13 @@ Versão 1.0.
 Lorem ipsum...
 
 # Principal(is) Ator(es)
-[Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md)
+[Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md)
 
 # Pre-condições (incluindo trigger)
 ...
 
 # Fluxo básico de eventos
-1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) realiza o caso "UC026 - Escolher Pacote de Contribuição"
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) realiza o caso "UC026 - Escolher Pacote de Contribuição"
 1. [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) preenche os dados de Email, Número do [Cartão](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Card.md), Nome no [Cartão](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Card.md), Validade (MM/AA) e Código CVV.
 1. O caso de uso termina.
 

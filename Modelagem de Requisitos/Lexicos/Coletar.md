@@ -19,5 +19,5 @@
 
 ## Sinônimos:
 
-- [Ganhar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Project_Healthy_Children.md)
+- [Ganhar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Project_Healthy_Children.md)
 - [Adquirir](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Comprar.md)
