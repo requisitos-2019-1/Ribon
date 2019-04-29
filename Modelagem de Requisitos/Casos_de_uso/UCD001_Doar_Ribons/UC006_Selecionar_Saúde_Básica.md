@@ -18,9 +18,7 @@ Usuário
 1. Nenhuma.
 
 # Fluxo básico de eventos
-1. O caso se inicia quando o usuário inicia o aplicativo e está no Menu Principal (de Histórias).
-1. O usuário realiza o caso "UC001 - Visualizar Quantidade de Ribons" ou "UC002 - Abrir Menu de Doações".
-1. O usuário vislumbra diante de si as causas disponíveis.
+1. O usuário realiza o caso "UC003 - Selecionar Causa"
 1. O usuário seleciona o card de Saúde Básica.
 1. O caso de uso termina.
 
