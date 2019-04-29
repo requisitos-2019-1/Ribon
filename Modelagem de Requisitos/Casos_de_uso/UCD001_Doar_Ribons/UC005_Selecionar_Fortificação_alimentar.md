@@ -2,7 +2,7 @@
 | ---------- | ------- | --------------- | ---------------- |
 | 27/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/6b1347bf4e0f5150c9028dd87ac3d11453156d2a#diff-4981ba7f4161c4314c2a2c72f38f31e2) | Adicionando caso  | Guilherme de Lyra |
 
-# UC004 - Selecionar [Fortificação alimentar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Fortificacao_alimentar.md)
+# [UC004](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Doar_Fortifica%C3%A7%C3%A3o_alimentar.md) - Selecionar [Fortificação alimentar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Fortificacao_alimentar.md)
 
 ![diagrama](Doar_Ribons.png)
 
