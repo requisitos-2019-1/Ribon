@@ -3,7 +3,7 @@
 | 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
 
 
-# UC018 - Ver [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Causa.md)s
+# [UC018](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Ver_Causas.md) - Ver [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Causa.md)s
 
 
 ![diagrama](Visualizar_ONGs.png)
