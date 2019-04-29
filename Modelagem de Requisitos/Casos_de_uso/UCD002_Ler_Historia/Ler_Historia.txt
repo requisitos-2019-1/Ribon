@@ -4,10 +4,10 @@ actor :Usuário: as u
 rectangle "Ler Histórias" {
     (UC011 - Abrir Menu de\nHistórias) as amh
     (UC012 - Selecionar História) as sh
-    (UC013 - Compartilhar História) as ch
-    (UC014 - Coletar Ribon) as cr
+    (UC013 - Compartilhar\nHistória) as ch
+    (UC014 - Coletar 100 Ribons) as cr
     (UC015 - Visitar Site de\nOrigem da História) as vsoh
-    (UC016 - Saber mais sobre Patrocinador) as smsp
+    (UC016 - Saber mais sobre\nPatrocinador) as smsp
 
     u -up- amh
     amh <.up. sh : << extends >>
