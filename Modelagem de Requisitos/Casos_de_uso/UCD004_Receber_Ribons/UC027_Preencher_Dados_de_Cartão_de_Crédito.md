@@ -3,7 +3,7 @@
 | 29/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
 
 
-# UC027 - Preencher Dados de Cartão de Crédito
+# [UC027](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Comprar_Ribon.md) - Preencher Dados de Cartão de Crédito
 
 
 ![diagrama](Receber_Ribons.png)
