@@ -12,9 +12,9 @@
 
 ## Noção:
 
-- [Moeda virtual](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Evidence_Action.md) do [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md) utilizada nas doações com valor aproximado de R$ 0,000908333 cada Ribon.
-- Empresa Ribon dona do [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md).
-- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md) Ribon.
+- [Moeda virtual](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Evidence_Action.md) do [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md) utilizada nas doações com valor aproximado de R$ 0,000908333 cada Ribon.
+- Empresa Ribon dona do [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md).
+- [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md) Ribon.
 
 ## Impacto:
 
@@ -25,6 +25,6 @@
 
 ## Sinônimos:
 
-- [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Evidence_Action.md)
-- [Moeda virtual](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Evidence_Action.md).
-- [Dinheiro virtual](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Evidence_Action.md).
+- [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Evidence_Action.md)
+- [Moeda virtual](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Evidence_Action.md).
+- [Dinheiro virtual](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Evidence_Action.md).

@@ -2,15 +2,15 @@ import re
 import glob
 from contextlib import suppress
 
-url_base_path = 'https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/'
 lexicos_path = 'Lexicos/'
 cenarios_path = 'Cenarios/'
+casos_path = 'Casos_de_uso/'
 
-def hyper(st, filename):
-    return '['+st+']('+url_base_path+lexicos_path+filename+')'
     
 def sub(path, pat1, pat2):
-    for filename in glob.iglob(path+'*.md', recursive=True):
+    path = path+'*.md' if path != casos_path else path+'/**/*.md'
+
+    for filename in glob.iglob(path, recursive=True):
         f = open(filename, 'r+')
         content = f.read()
 
@@ -21,5 +21,6 @@ def sub(path, pat1, pat2):
         f.write(content)
         f.close()
 
-sub(lexicos_path, '[Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Project_Healthy_Children.md)', '[Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md)')
-sub(cenarios_path, '[Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Project_Healthy_Children.md)', '[Moeda](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md)')
+sub(lexicos_path, 'Modelagem%%20de%%20Requisitos', r'Modelagem%20de%20Requisitos')
+sub(cenarios_path, 'Modelagem%%20de%%20Requisitos', r'Modelagem%20de%20Requisitos')
+sub(casos_path, 'Modelagem%%20de%%20Requisitos', r'Modelagem%20de%20Requisitos')
