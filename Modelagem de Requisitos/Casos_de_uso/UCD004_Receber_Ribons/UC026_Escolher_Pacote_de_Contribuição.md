@@ -11,7 +11,7 @@
 Versão 1.0.
 
 # Breve Descrição
-Lorem ipsum...
+O usuário pode escolher algum pacote de contribuição para comprar, sendo possivel, por exemplo, comprar 21500 Ribons por ~24 reais.
 
 # Principal(is) Ator(es)
 [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md)
