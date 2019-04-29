@@ -3,7 +3,7 @@
 | 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
 
 
-# UC012 - Selecionar [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md)
+# [UC012](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Ler_Historias.md) - Selecionar [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md)
 
 
 ![diagrama](Ler_Historia.png)
