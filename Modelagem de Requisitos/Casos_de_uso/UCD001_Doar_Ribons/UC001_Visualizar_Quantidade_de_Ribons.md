@@ -3,7 +3,7 @@
 | 27/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-7c2c5fc71b881ff54894719cc9cd9593) | Adicionando caso  | Guilherme de Lyra |
 
 
-# UC001 - Visualizar Quantidade de [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md)s
+# [UC001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Doar_ribons.md) - Visualizar Quantidade de [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md)s
 
 ![diagrama](Doar_Ribons.png)
 
