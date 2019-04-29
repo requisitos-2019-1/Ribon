@@ -2,7 +2,7 @@
 | ---------- | ------- | --------------- | ---------------- |
 | 27/04/2019 | 1.0 | Adicionando caso  | Guilherme de Lyra |
 
-# UC004 - Selecionar Saúde Básica
+# UC006 - Selecionar Saúde Básica
 
 ![diagrama](Doar_Ribons.png)
 
