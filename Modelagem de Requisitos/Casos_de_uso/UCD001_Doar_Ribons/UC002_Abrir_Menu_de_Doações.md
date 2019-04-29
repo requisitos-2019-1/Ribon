@@ -3,7 +3,7 @@
 | 27/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-08909320c53979f8474d583cc5d47a66) | Adicionando caso  | Guilherme de Lyra |
 
 
-# UC002 - Abrir Menu de Doações
+# [UC002](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Ver_Causas.md) - Abrir Menu de Doações
 
 ![diagrama](Doar_Ribons.png)
 
