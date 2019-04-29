@@ -1,29 +1,28 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Henrike100 |
+| 27/04/2019 | 1.0 | Adicionando caso  | Guilherme de Lyra |
 
 
 # UC003 - Selecionar Causa
 
-
-![diagrama](Visualizar_ONGs.png)
+![diagrama](Doar_Ribons.png)
 
 Versão 1.0.
 
 # Breve Descrição
-Lorem ipsum...
+Usuário pode escolher alguma das causas disponíveis.
 
 # Principal(is) Ator(es)
 Usuário
 
-# Pre-condições (incluindo trigger)
-...
+# Pre-condições
+1. Nenhuma.
 
 # Fluxo básico de eventos
-1. O usuário realiza o caso "UC018 - Ver Causas"
-1. O usuário realiza o caso "UC008 - Doar Ribons"
-1. O usuário realiza o caso "UC020 - Visualizar ONGs"
+1. O caso se inicia quando o usuário inicia o aplicativo e está no Menu Principal (de Histórias).
+1. O usuário realiza o caso "UC001 - Visualizar Quantidade de Ribons" ou "UC002 - Abrir Menu de Doações".
+1. O usuário vislumbra diante de si as causas disponíveis.
+1. O caso de uso termina.
 
-
-# Garantias/Pós-condições (o que deve ser verdade apos o final do caso de uso)
-1. item 1...
+# Pós-condições
+1. Usuário deve poder escolher alguma dentre as causas disponíveis para doação.
