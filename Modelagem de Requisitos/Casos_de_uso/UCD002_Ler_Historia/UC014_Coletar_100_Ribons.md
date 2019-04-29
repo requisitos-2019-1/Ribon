@@ -6,7 +6,7 @@
 # UC014 - Coletar 100 Ribons
 
 
-![diagrama](Receber_Ribons.png)
+![diagrama](Ler_Historia.png)
 
 Versão 1.0.
 
