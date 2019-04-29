@@ -3,7 +3,7 @@
 | 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
 | 29/4/2019 | 1.1 | Complementando fluxo | Guilherme de Lyra |
 
-# UC011 - Abrir Menu de [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md)s
+# [UC011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Ler_Historias.md) - Abrir Menu de [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md)s
 
 
 ![diagrama](Ler_Historia.png)
