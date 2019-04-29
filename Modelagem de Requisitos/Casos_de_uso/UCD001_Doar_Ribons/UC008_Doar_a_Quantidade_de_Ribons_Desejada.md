@@ -1,6 +1,6 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
+| 28/4/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-bd1fe4d2254429811642331b774a3983) | Adicionando caso | Guilherme de Lyra |
 
 
 # UC008 - Doar a Quantidade de Ribons Desejada
