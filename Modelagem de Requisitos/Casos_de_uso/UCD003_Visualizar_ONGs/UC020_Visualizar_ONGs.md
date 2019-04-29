@@ -1,6 +1,6 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
+| 28/4/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/cb1de9f3d807ba21598fba82598a6f0330745382#diff-14dd3fbf30c00483fd9dbd03b183882d) | Adicionando caso | Henrique Martins |
 
 
 # UC020 - Visualizar ONGs
