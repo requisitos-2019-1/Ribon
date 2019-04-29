@@ -1,6 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
 | 29/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
+| 29/4/2019 | 2.0 | Atualizando descrição e pós-condição | Henrique Martins |
 
 
 # UC025 - [Comprar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Comprar.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md)s
@@ -11,7 +12,7 @@
 Versão 1.0.
 
 # Breve Descrição
-Lorem ipsum...
+O usuário pode contribuir mais para as causas comprando Ribon usando a moeda Real (R$).
 
 # Principal(is) Ator(es)
 [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md)
@@ -29,4 +30,4 @@ Lorem ipsum...
 1. O caso de uso termina.
 
 # Garantias/Pós-condições (o que deve ser verdade apos o final do caso de uso)
-1. Nenhuma.
+1. O [usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) terá mais Ribons, de acordo com o pacote que comprou
