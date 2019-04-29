@@ -1,6 +1,6 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Henrike100 |
+| 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
 
 
 # UC012 - Selecionar História
@@ -11,21 +11,19 @@
 Versão 1.0.
 
 # Breve Descrição
-Lorem ipsum...
+Usuário pode escolher alguma das histórias disponíveis para ler.
 
 # Principal(is) Ator(es)
 Usuário
 
-# Pre-condições (incluindo trigger)
-...
+# Pre-condições
+1. Nenhuma.
 
 # Fluxo básico de eventos
-1. O usuário realiza o caso "UC011 - Abrir Menu de Histórias"
-1. O usuário realiza o caso "UC013 - Compartilhar História"
-1. O usuário realiza o caso "UC014 - Coletar Ribon"
-1. O usuário realiza o caso "UC015 - Visitar Site de Origem da História"
-1. O usuário realiza o caso "UC016 - Saber mais sobre Patrocinador"
+1. O caso se inicia quando o usuário está no Menu Principal (de Histórias).
+1. O usuário vislumbra diante de si as histórias disponíveis para leitura.
+1. O caso de uso termina.
 
 
-# Garantias/Pós-condições (o que deve ser verdade apos o final do caso de uso)
-1. item 1...
+# Pós-condições
+1. Usuário deve poder escolher alguma dentre as histórias disponíveis para leitura.
