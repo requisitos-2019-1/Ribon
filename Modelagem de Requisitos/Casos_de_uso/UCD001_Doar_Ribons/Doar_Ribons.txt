@@ -17,10 +17,10 @@ rectangle "Doar Ribons" {
     u -up- amdd
     vqdr <.up. sc : << extends >>
     amdd <.up. sc : << extends >>
-    sc .up.> sap : << extends >>
-    sc .up.> sfa : << extends >>
-    sc .up.> ssb : << extends >>
-    sc .up.> sm : << extends >>
+    sc .up.> sap : << includes >>
+    sc .up.> sfa : << includes >>
+    sc .up.> ssb : << includes >>
+    sc .up.> sm : << includes >>
     
     sap <.up. dqrd : << extends >>
     sfa <.up. dqrd : << extends >>
