@@ -1,6 +1,6 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 27/04/2019 | 1.0 | Adicionando caso  | Guilherme de Lyra |
+| 27/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-ab50b0b4f170fb647015213777dcafa0) | Adicionando caso  | Guilherme de Lyra |
 
 
 # UC003 - Selecionar Causa
