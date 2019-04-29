@@ -11,7 +11,7 @@
 Versão 1.0.
 
 # Breve Descrição
-Lorem ipsum...
+Usuário insere no site os dados necessários para compra de ribons.
 
 # Principal(is) Ator(es)
 [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md)
