@@ -3,7 +3,7 @@
 | 28/4/2019 | 1.0 | Adicionando caso | Henrike100 |
 
 
-# UC014 - Coletar Ribon
+# UC014 - Coletar 100 Ribons
 
 
 ![diagrama](Ler_Historia.png)

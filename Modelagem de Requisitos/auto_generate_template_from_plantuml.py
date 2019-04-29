@@ -42,7 +42,7 @@ for plantuml in glob.iglob(cdu+'/**/*.txt', recursive=True):
 	dic_relations = dict(dic_relations)
 
 	for alias, relateds in dic_relations.items():
-		flux = ''.join(['1. O usuário realiza o caso \"'+dic_name[x]+'\"\n' for x in relateds if x != 'u' and x != 'ong'])
+		flux = ''.join(['1. O usuário realiza o caso \"'+dic_name[x]+'\"\n' for x in relateds if x != 'u' and x != 'ong' and x != 'c']) #gambiarra atores
 		case_name = dic_name[alias]
 		new_case = template_cdu.replace('Título/Objetivo', case_name)
 		new_case = new_case.replace('Ex: Navegar até X', '')
