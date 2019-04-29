@@ -2,7 +2,7 @@
 | ---------- | ------- | --------------- | ---------------- |
 | 27/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-48f4038a3904e4419635da283cd0dc37) | Adicionando caso  | Guilherme de Lyra |
 
-# UC007 - Selecionar [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Medicamentos.md)
+# [UC007](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Doar_medicamentos.md) - Selecionar [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Medicamentos.md)
 
 ![diagrama](Doar_Ribons.png)
 
