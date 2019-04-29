@@ -6,7 +6,7 @@
 # UC010 - Receber [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Doação.md)
 
 
-![diagrama]([Doar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Doar.md)_Ribons.png)
+![diagrama](Doar_Ribons.png)
 
 Versão 1.0.
 
