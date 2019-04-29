@@ -3,7 +3,7 @@
 | 29/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
 
 
-# UC028 - Utilizar [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md) Mediante Convite
+# [UC028](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Convidar_amigos.md) - Utilizar [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md) Mediante Convite
 
 
 ![diagrama](Receber_Ribons.png)
