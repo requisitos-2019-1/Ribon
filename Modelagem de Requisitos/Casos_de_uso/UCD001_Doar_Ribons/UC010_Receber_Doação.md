@@ -1,6 +1,6 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
+| 28/4/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-aa46673e1e292aca8f1befdc2165a503) | Adicionando caso | Guilherme de Lyra |
 
 
 # UC010 - Receber Doação
