@@ -1,6 +1,6 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Henrike100 |
+| 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
 
 
 # UC011 - Abrir Menu de Histórias
@@ -11,17 +11,20 @@
 Versão 1.0.
 
 # Breve Descrição
-Lorem ipsum...
+Através do botão Histórias, o Usuário abre menu de histórias.
 
 # Principal(is) Ator(es)
 Usuário
 
-# Pre-condições (incluindo trigger)
-...
+# Pre-condições
+1. Nenhuma.
 
 # Fluxo básico de eventos
-1. O usuário realiza o caso "UC012 - Selecionar História"
+1. O caso se inicia quando o usuário está em um menu diferente do Menu Principal (de Histórias).
+1. O usuário seleciona o botão Histórias.
+1. O usuário é redirecionado ao menu de Histórias com sucesso.
+1. O caso de uso termina.
 
 
-# Garantias/Pós-condições (o que deve ser verdade apos o final do caso de uso)
-1. item 1...
+# Pós-condições
+1. Usuário deve poder visualizar as histórias disponíveis para leitura.
