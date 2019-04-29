@@ -2,25 +2,25 @@
 | ---------- | ------- | --------------- | ---------------- |
 | 27/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-48f4038a3904e4419635da283cd0dc37) | Adicionando caso  | Guilherme de Lyra |
 
-# UC007 - Selecionar Medicamentos
+# UC007 - Selecionar [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Medicamentos.md)
 
-![diagrama](Doar_Ribons.png)
+![diagrama]([Doar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Doar.md)_Ribons.png)
 
 Versão 1.0.
 
 # Breve Descrição
-Através do Menu Doações, o usuário decide selecionar o card de Medicamentos.
+Através do Menu Doações, o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) decide selecionar o [Card](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Card.md) de [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Medicamentos.md).
 
 # Principal(is) Ator(es)
-Usuário
+[Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md)
 
 # Pre-condições
 1. Nenhuma.
 
 # Fluxo básico de eventos
-1. O usuário realiza o caso "UC003 - Selecionar Causa"
-1. O usuário seleciona o card de Medicamentos.
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) realiza o caso "UC003 - Selecionar [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Causa.md)"
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) seleciona o [Card](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Card.md) de [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Medicamentos.md).
 1. O caso de uso termina.
 
 # Pós-condições
-1. Usuário deve poder visualizar as causas disponíveis para doação.
+1. [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) deve poder visualizar as [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Causa.md)s disponíveis para [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Doação.md).

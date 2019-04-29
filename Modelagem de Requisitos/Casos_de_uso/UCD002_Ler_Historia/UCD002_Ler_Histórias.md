@@ -3,43 +3,43 @@
 | 29/4/2019 | 1.0 | Adicionando diagrama | Henrique Martins |
 
 
-# UCD002 - Ler História
+# UCD002 - Ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)
 
 ![diagrama](Ler_Historia.png)
 
 Versão 1.0.
 
 # Descrição
-Através do aplicativo Ribon, o usuário é capaz de ler histórias motivadoras
+Através do [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Ribon.md), o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) é capaz de ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)s motivadoras
 # Principal(is) Ator(es)
-Usuário
+[Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md)
 
 # Pre-condições (incluindo trigger)
 - O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) deve ter conexão com a Internet.
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) ter [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md) instalado.
 
-# Fluxo principal (happy day)
-1. O caso se inicia quando o usuário inicia o aplicativo e está no Menu Principal (de Histórias).
-1. Usuário escolhe uma das histórias disponíveis para ler.
+# Fluxo principal (h[App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md)y day)
+1. O caso se inicia quando o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) inicia o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md) e está no Menu Principal (de [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)s).
+1. [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) escolhe uma das [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)s disponíveis para ler.
 1. O caso de uso termina.
 
 # Fluxos alternativos
 ## Variação 1:
-1. O caso se inicia quando o usuário está em um menu diferente do Menu Principal (de Histórias).
+1. O caso se inicia quando o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) está em um menu diferente do Menu Principal (de [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)s).
 1. O fluxo continua a partir do 2º passo do fluxo principal.
     
 # Exceções (narrando a possibilidade de voltar ao fluxo principal, ou como isso é impedido)
 
 ## Exceção 1 - Sem Conexão com Internet:
-1. O caso se inicia quando o usuário inicia o aplicativo e está no Menu Principal (de Histórias).
-1. O usuário é notificado de que não há conexão à internet.
-1. O usuário poderá ler apenas uma parte da história
-1. O aplicativo não irá mostrar novas histórias
+1. O caso se inicia quando o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) inicia o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md) e está no Menu Principal (de [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)s).
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) é notificado de que não há conexão à internet.
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) poderá ler apenas uma parte da [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)
+1. O [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md) não irá mostrar novas [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)s
 
 # Garantias/Pós-condições (o que deve ser verdade apos o final do caso de uso)
 ## Pós-sucesso:
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) pode compartilhar [história](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md).
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) pode coletar 100 [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md).
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) pode [Coletar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Coletar.md) 100 [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md).
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) pode conhecer mais sobre o Instituto Bancorbrás.
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) pode visitar site de origem da [história](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md).
 ## Pós-falha (o que deve ser verdade mesmo em alguns cenarios de exceção):
@@ -48,12 +48,12 @@ Usuário
 # Casos de Uso neste Diagrama
 | ID  | Caso de Uso |
 | ---------- | ------- |
-| UC011 | Abrir Menu de Histórias |
-| UC012 | Selecionar História |
-| UC013 | Compartilhar História |
-| UC014 | Coletar 100 Ribons |
-| UC015 | Visitar Site de Origem da História |
-| UC016 | Saber mais sobre Patrocinador |
+| UC011 | Abrir Menu de [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)s |
+| UC012 | Selecionar [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md) |
+| UC013 | Compartilhar [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md) |
+| UC014 | [Coletar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Coletar.md) 100 [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Ribon.md)s |
+| UC015 | Visitar Site de Origem da [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md) |
+| UC016 | Saber mais sobre [Patrocinador](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Patrocinador.md) |
 
 
 # Possíveis Requisitos Não Funcionais que se aplicam à esse caso de uso
@@ -68,4 +68,4 @@ Usuário
 # Cenários Envolvidos
 | ID  | Cenário |
 | ---------- | ------- |
-| CN009 | Ler Histórias |
+| CN009 | Ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Historia.md)s |

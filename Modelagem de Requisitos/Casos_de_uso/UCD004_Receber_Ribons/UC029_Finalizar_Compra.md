@@ -14,7 +14,7 @@ Versão 1.0.
 Lorem ipsum...
 
 # Principal(is) Ator(es)
-Usuário, Sistema
+[Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md), [Sistema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md)
 
 # Pre-condições (incluindo trigger)
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) instalou o [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md).
@@ -23,10 +23,10 @@ Usuário, Sistema
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) possui conexão com a internet.
 
 # Fluxo básico de eventos
-1. O usuário realiza o caso "UC027 - Preencher Dados de Cartão de Crédito"
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) realiza o caso "UC027 - Preencher Dados de Cartão de Crédito"
 1. [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Usuário.md) seleciona o botão "Efetuar [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Doação.md)".
-1. O usuário finaliza a compra.
-1. O sistema bonifica o convidado com quantos Ribons ele comprou, realizando o caso "UC009 - Atualizar Quantidade de Ribons".
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Usuário.md) finaliza a compra.
+1. O [Sistema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Aplicativo.md) bonifica o convidado com quantos [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Ribon.md)s ele comprou, realizando o caso "UC009 - Atualizar Quantidade de [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%%20de%%20Requisitos/Lexicos/Ribon.md)s".
 1. O caso de uso termina.
 
 # Garantias/Pós-condições (o que deve ser verdade apos o final do caso de uso)
