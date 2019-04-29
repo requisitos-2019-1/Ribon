@@ -3,7 +3,7 @@
 | 29/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
 
 
-# UC026 - Escolher Pacote de Contribuição
+# [UC026](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Comprar_Ribon.md) - Escolher Pacote de Contribuição
 
 
 ![diagrama](Receber_Ribons.png)
