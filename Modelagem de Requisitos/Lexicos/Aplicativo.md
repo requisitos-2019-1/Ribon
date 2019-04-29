@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 21/04/2019 | 1.0 | Criação do léxico  | Henrique Martins |
+| 28/04/2019 | 1.1 | Adicionando Sinônimo  | Guilherme de Lyra |
 
 ## Título: Aplicativo
 
@@ -22,4 +23,4 @@
 - App
 - Aplicação
 - Software
-- App
+- Sistema
