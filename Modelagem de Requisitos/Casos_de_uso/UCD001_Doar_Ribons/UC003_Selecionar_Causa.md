@@ -3,7 +3,7 @@
 | 27/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-ab50b0b4f170fb647015213777dcafa0) | Adicionando caso  | Guilherme de Lyra |
 
 
-# UC003 - Selecionar [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Causa.md)
+# [UC003](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Escolher_Causa.md) - Selecionar [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Causa.md)
 
 ![diagrama](Doar_Ribons.png)
 
