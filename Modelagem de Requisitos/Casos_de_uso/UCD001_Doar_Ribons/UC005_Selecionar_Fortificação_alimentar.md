@@ -4,7 +4,7 @@
 
 # UC004 - Selecionar [Fortificação alimentar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Fortificacao_alimentar.md)
 
-![diagrama]([Doar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Doar.md)_Ribons.png)
+![diagrama](Doar_Ribons.png)
 
 Versão 1.0.
 
