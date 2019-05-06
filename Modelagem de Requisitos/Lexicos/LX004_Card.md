@@ -15,8 +15,8 @@
 
 ## Impacto:
 
-- Possibilita separar elementos da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md) de forma a melhorar a disposição das informações
+- Possibilita separar elementos da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) de forma a melhorar a disposição das informações
 
 ## Sinônimos:
 
-- [Cartão](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Living_Goods.md)
+- [Cartão](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX017_Living_Goods.md)
