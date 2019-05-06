@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 18/04/2019 | 1.0 | Criação do cenario | Victor Rodrigues |
+| 06/05/2019 | 1.1 | Adicionando Ribon como recurso | Henrique Martins |
 
 # Título: [Doar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Doar.md) [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Medicamentos.md)
 
@@ -23,6 +24,7 @@
 - [Celular](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Smartphone.md)
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Aplicativo.md)
 - Conexão com a internet
+- [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Ribon.md)
 
 ## Episódios: 
 
