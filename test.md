@@ -1,3 +1,0 @@
-| esta é uma coluna 1 |  esta é uma coluna 1 |  esta é uma coluna 1 |  esta é uma coluna 1 |  esta é uma coluna 1 |  esta é uma coluna 1 |  esta é uma coluna 1 |  esta é uma coluna 1 |  esta é uma coluna 1 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| este é um texto relativamente grande mas ok |  este é um texto relativamente grande mas ok |  este é um texto relativamente grande mas ok |  este é um texto relativamente grande mas ok |  este é um texto relativamente grande mas ok |  este é um texto relativamente grande mas ok |  este é um texto relativamente grande mas ok |  este é um texto relativamente grande mas ok |  este é um texto relativamente grande mas ok |
