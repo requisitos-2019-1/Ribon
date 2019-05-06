@@ -21,5 +21,12 @@
 
 ## [Módulo IV - Modelagem](https://github.com/requisitos-2019-1/Ribon/wiki/M%C3%B3dulo-IV---Modelagem)
 
+### Modelagem Inicial
+
 * [Cenários](https://github.com/requisitos-2019-1/Ribon/wiki/Cen%C3%A1rios)
 * [Léxicos](https://github.com/requisitos-2019-1/Ribon/wiki/L%C3%A9xicos)
+
+### Modelagem Tradicional
+
+* [Casos de uso](https://github.com/requisitos-2019-1/Ribon/wiki/Casos-de-uso)
+* [Especificação suplementar](https://github.com/requisitos-2019-1/Ribon/wiki/Especifica%C3%A7%C3%A3o-suplementar) 
