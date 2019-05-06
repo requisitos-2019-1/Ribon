@@ -1,7 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
 | 29/04/2019 | 1.0 | Adicionando diagrama | Henrique Martins |
-| 06/05/2019 | 1.0 | Arrumando diagrama | Henrique Martins |
+| 06/05/2019 | 1.1 | Arrumando diagrama | Henrique Martins |
 
 
 # UCD002 - Ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/Historia.md)

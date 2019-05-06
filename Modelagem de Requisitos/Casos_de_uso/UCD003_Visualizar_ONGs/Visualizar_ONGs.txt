@@ -12,8 +12,8 @@ rectangle "Visualizar ONGs" {
     u -up- amd
     amd <.up. vc : << extends >>
     amd <.up. verif : << extends >>
-    vc .up.> ec : << extends >>
-    ec .up.> dr : << extends >>
-    ec .up.> vo : << extends >>
+    vc .up.> ec : << includes >>
+    ec <.up. dr : << extends >>
+    ec <.up. vo : << extends >>
 }
 @enduml

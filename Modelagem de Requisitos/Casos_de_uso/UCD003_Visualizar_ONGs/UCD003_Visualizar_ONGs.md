@@ -1,6 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 29/4/2019 | 1.0 | Adicionando diagrama | Henrique Martins |
+| 29/04/2019 | 1.0 | Adicionando diagrama | Henrique Martins |
+| 06/05/2019 | 1.1 | Arrumando diagrama | Henrique Martins |
 
 
 # UCD003 - Visualizar ONGs
