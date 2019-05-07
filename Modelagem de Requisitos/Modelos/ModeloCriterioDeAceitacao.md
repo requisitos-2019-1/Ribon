@@ -21,3 +21,5 @@
   - [ ] *[Criterio 2]*
   - [ ] *[Criterio 3]*
 -----
+
+## Refêrencias
