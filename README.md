@@ -29,4 +29,8 @@
 ### Modelagem Tradicional
 
 * [Casos de uso](https://github.com/requisitos-2019-1/Ribon/wiki/Casos-de-uso)
-* [Especificação suplementar](https://github.com/requisitos-2019-1/Ribon/wiki/Especifica%C3%A7%C3%A3o-suplementar) 
+* [Especificação suplementar](https://github.com/requisitos-2019-1/Ribon/wiki/Especifica%C3%A7%C3%A3o-suplementar)
+
+### Modelagem Ágil
+* [Backlog de Produto](https://github.com/requisitos-2019-1/Ribon/wiki/Backlog-de-Produto)
+* [Critérios de aceitação](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o)
