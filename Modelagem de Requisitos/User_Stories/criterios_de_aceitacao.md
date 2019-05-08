@@ -17,11 +17,17 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O sistema informe ao usuário quais dados não são válidos.
   - [ ] O sistema informe ao usuário o motivo pelo qual aquele dado não é válido.   
 
-### US002- *[Nome da US]*
-  - [ ] *[Criterio 1]*
-  - [ ] *[Criterio 2]*
-  - [ ] *[Criterio 3]*
+### US002- conectar com o Facebook
+  - [ ] O usuário deve poder realizar login com Facebook.
+  - [ ] O sistema deve pedir permissão ao usuário para acessar as informações do Facebook.
+  - [ ] O sistema deve mostrar uma mensagem de erro caso o login não seja realizado.
 
+### US003- visualizar meu perfil
+  - [ ] O usuário deve poder visualizar seu nome de usuário.
+  - [ ] O usuário deve poder visualizar sua foto.
+  - [ ] O usuário deve poder visualizar a quantidade de Ribons que ele possui.
+  - [ ] O usuário deve poder visualizar a quantidade de Ribons doados.
+  - [ ] O usuário deve poder visualizar a quantidade de dias que ele ajudou cada causa.
 
 ## Refêrencias
 - https://github.com/victorhdcoelho/Requisitos-uber-2018.2/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o
