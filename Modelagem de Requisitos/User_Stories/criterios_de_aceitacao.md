@@ -3,6 +3,8 @@
 | 06/05/2019 | 1.0 | Criando Modelo de Criterio De Aceitação  | Rafael Teodosio |
 | 07/05/2019 | 1.1 | Criando Introdução | Lucas kishima |
 | 07/05/2019 | 1.2 | Criando Objetivo | Lucas kishima |
+| 07/05/2019 | 1.3 | Adicionando Criterios | Rafael Teodosio |
+
 ## Introdução
 Os critérios de aceitação são uma lista de critérios necessários para que a história seja concluída de forma que atenda os requisitos do usuário e seja aceita pelo Product Owner.
 ## Objetivo
@@ -75,7 +77,8 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
 
 ### US012 - visualizar um tutorial
   - [ ] O tutorial deve poder ser acessado a partir da página de configurações.
-
+  - [ ] O usuário deve poder re-fazer o tutorial.
+  - [ ] O tutorial deve ser de fácil entendimento.
 
 ### US013 - entrar em contato com a equipe do app
   - [ ] O usuário deve poder entrar em contato com a equipe do Ribon.
@@ -92,6 +95,7 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
 ### US016 - fazer login		
   - [ ] O usuário deve poder logar no aplicativo
   - [ ] O sistema deve válidar os dados utilizados pelo usuário no login.
+  - [ ] O usuário deve poder logar com o Facebook
 
 ### US017 - ser esclarecido sobre como o app funciona pela primeira vez
   - [ ] Apenas novos usuário devem ser apresentados ao tutorial em sua primeira vez no app
@@ -105,16 +109,24 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O usuário deve ter acesso há uma página com os dados compilados para que possa ser visualizado o impacto das doações realizada pelo Ribon.
 
 ### US020- compartilhar as histórias
-  - [ ] O usuário deve poder compartilhar histórias com pessoas que não usam o aplicativo
+  - [ ] O usuário deve poder compartilhar histórias com pessoas que não usam o aplicativo.
+  - [ ] As histórias podem ser compartilhadas em redes sociais.
+  - [ ] As histórias devem poder ser compartilhadas em aplicativos de mensagens instantâneas.
 
 ### US021- compartilhar as doações
-  - [ ] O usuário deve poder compartilhar histórico de doações com pessoas que não usam o aplicativo
+  - [ ] O usuário deve poder compartilhar histórico de doações com pessoas que não usam o aplicativo.
+  - [ ] As doações podem ser compartilhadas em redes sociais.
+  - [ ] As doações devem poder ser compartilhadas em aplicativos de mensagens instântaneas.
 
 ### US022- convidar amigos para usar o app
   - [ ] O usuário deve poder convidar alguém que não usa o aplicativo para usá-lo
+  - [ ] O usuário deve receber Ribons pelo convite
+  - [ ] O usuário deve poder convidar por redes sociasl
+  - [ ] O usuário deve poder convidar por aplicativos de mensagens instântaneas.
 
 ### US023- navegar por um feed de histórias
   - [ ] O sistema deve mostrar as histórias
+  - [ ] As histórias devem estár em destaque
 
 ### US024- visualizar quantos ribons possuo
   - [ ] O sistema deve informar a quantidade verdadeira de Ribons
@@ -138,6 +150,7 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
 
 ### US029- comunicar o usuário a respeito de produtos, serviços, promoções e pesquisas
   - [ ] O usuário deve poder ignorar e recursar os produtos, serviços, promoções e pesquisas mostradas
+  - [ ] O usuário deve poder aceitar os produtos, serviços, promoções e pesquisas mostradas.
 
 
 
