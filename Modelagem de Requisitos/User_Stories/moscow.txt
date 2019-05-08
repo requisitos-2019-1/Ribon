@@ -1,0 +1,77 @@
+| Tema | Eu como | Quero | Para que | Notas | Prioridade | Status | ID Rastro | Rastro |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Funcional | Usuário | criar uma conta | realizar doações | Must | RFOAP01 | Observação e Análise de Protocolo | RF1 | MoSCoW |
+| Funcional | Usuário | conectar com o Facebook | facilitar a criação de uma conta | Should | RFOAP02 | Observação e Análise de Protocolo | RF2 | MoSCoW |
+| Funcional | Usuário | visualizar meu perfil | ver minhas informações | Should | RFOAP10 | Observação e Análise de Protocolo | RF3 | MoSCoW |
+| Funcional | Usuário | visualizar as doações feitas | visualizar com quantas doaçõeseu já cotribuí | Must | RFOAP11, RFST05 | Observação e Análise de Protocolo, Storytelling | RF4 | MoSCoW |
+| Funcional | Usuário | visualizar | quais instituições são feitas as doações | Could | RFOAP12 | Observação e Análise de Protocolo | RF5 | MoSCoW |
+| Funcional | Usuário | ler notícias | se sentir informado | Must | RFOAP05 | Observação e Análise de Protocolo | RF6 | MoSCoW |
+| Funcional | Usuário | coletar ribons | poder doá-los | Must | RFOAP06, RFST07 | Observação e Análise de Protocolo, Storytelling | RF7 | MoSCoW |
+| Funcional | Usuário | doar Ribons | ajudar quem precisa | Must | RFOAP07, RFST08 | Observação e Análise de Protocolo, Storytelling | RF8 | MoSCoW |
+| Funcional | Usuário | ter liberdade | escolher a causa que estarei ajudando | Must | RFOAP08 | Observação e Análise de Protocolo | RF9 | MoSCoW |
+| Funcional | Usuário | visualizarum comprovante de doações | me certificar de que elas realmente estão sendo feitas | Should | RFOAP09, RFST10 | Observação e Análise de Protocolo, Storytelling | RF10 | MoSCoW |
+| Funcional | Usuário | comprar ribons | poder doar do seu próprio dinheiro | Must | RFOAP13, RFST09 | Observação e Análise de Protocolo, Storytelling | RF11 | MoSCoW |
+| Funcional | Usuário | visualizar um tutorial | aprender sobre o funcionamento do app | Could | RFOAP04 | Observação e Análise de Protocolo | RF12 | MoSCoW |
+| Funcional | Usuário | entrar em contato com a equipe do app | dúvidas, sugestões, criticas e elogios | Would | RFOAP14 | Observação e Análise de Protocolo | RF13 | MoSCoW |
+| Funcional | Usuário | ter acesso às perguntas frequentes | tirar dúvidas | Could | RFOAP15 | Observação e Análise de Protocolo | RF14 | MoSCoW |
+| Funcional | Usuário | ler a política de privacidade | saber como são tratados os meus dados. | Must | RFOAP16 | Observação e Análise de Protocolo | RF15 | MoSCoW |
+| Funcional | Usuário | fazer login | ter acesso ao meu perfil | Must | RFOAP03, RFST04 | Observação e Análise de Protocolo, Storytelling | RF16 | MoSCoW |
+| Funcional | Usuário | ser esclarecido sobre como o app funciona pela primeira vez, | não me sinta confuso | Should | RFST02 | Storytelling | RF31 | MoSCoW |
+| Funcional | Usuário | coletar o presente diário | para poder aumentar meu saldo de moedas ribon | Must | RFIU01 | Introspecção | RF36 | MoSCoW |
+| Funcional | Usuário | visualizar quantos ribons já foram doados pela comunidade do Ribon | Para conseguir ver o impacto realizado pela comunidade ribon | Must | RFIU03 | Introspecção | RF39 | MoSCoW |
+| Funcional | Usuário | compartilhar as histórias | Para poder interagir com amigos e compartilhar informação | Must | RFIU04 | Introspecção | RF40 | MoSCoW |
+| Funcional | Usuário | compartilhar as doações | Para que assim eu possa incentivar amigos e conhecidos a doarem tambem | Must | RFIU05 | Introspecção | RF41 | MoSCoW |
+| Funcional | Usuário | convidar amigos para usar o app | Para que assim eu possa ganhar mais ribons e ainda ajudar o aplicativo a crescer impactando em mais doaçoes | Must | RFIU06 | Introspecção | RF42 | MoSCoW |
+| Funcional | Usuário | navegar por um feed de histórias | Para que assim eu consiga acessar de maneira simplificada as historias inspiradoras compartilhadas pelo app | Must | RFIU012 | Introspecção | RF48 | MoSCoW |
+| Funcional | Usuário | visualizar quantos ribons possuo | Para que assim eu possa fazer um gerenciamento melhor do meu saldo de ribons | Must | RFIU07, RFST06 | Introspecção, Storytelling | RF43 | MoSCoW |
+| Funcional | Usuário | sair de minha conta | Para que, possivelmente eu possa desvincular minha conta do aplicativo. | Must | RFIU08 | Introspecção | RF44 | MoSCoW |
+| Funcional | Usuário | visualizar quem publicou a história | para que eu saiba a procedência e a validade da mesma notícia, podendo averiguar, caso queira, a idôneidade do veículo em questão | Must | RFIU09 | Introspecção | RF45 | MoSCoW |
+| Funcional | Usuário | visualizar a data de publicação da história | Para que eu não seja ludibriado sobre o impacto da mesma, acaso, por exemplo, ela seja muito antiga e ja não tenha mais validade/aplicabilidade | Must | RFIU010 | Introspecção | RF46 | MoSCoW |
+| Funcional | Usuário | clicar na história para ler a mesma por completo | Para terminar de ler a história e ver os personagens/contexto envolvidos | Must | RFIU011 | Introspecção | RF47 | MoSCoW |
+
+
+
+| Funcional | Patrocinador | comunicar o usuário a respeito de produtos, serviços, promoções e pesquisas | Para poder direcionar melhor meus produtos e serviços para cada tipo | Must | RFIP03 | Introspecção | RF33 | MoSCoW
+
+
+
+
+
+
+
+
+
+
+
+| Funcional | Aplicativo | poder publicar notícias de terceiros | deve publicar noticias para o usuário ler | Must | RFIP01 | Introspecção | RF17 | MoSCoW
+
+| Funcional | Aplicativo | ser capaz de coletar padrões de utilização, frequência e alcance do uso | deve coletar padrões para se aperfeiçoar | Must | RFIC03 | Introspecção | RF18 | MoSCoW
+
+| Funcional | Aplicativo | poder coletar o conteúdo que o usuário lê, usa ou cria e os anúncios clicados pelo usuário | deve coletar o conteúdo sobre o usuário para se aperfeiçoar | Must | RFIC01 | Introspecção | RF19 | MoSCoW
+
+| Funcional | Aplicativo | poder coletar a duração das sessões do usuário | deve coletar a duração das sessões do usuário para se aperfeiçoar | Should | RFIC04 | Introspecção | RF20 | MoSCoW
+
+| Funcional | Aplicativo | poder criar um histórico de informação detalhada do usuário e ligar todas as informações com a sua conta | deve salvar o histórico de atividades do usário para futuras consultas | Must | RFIC02 | Introspecção | RF21 | MoSCoW
+
+| Funcional | Aplicativo | poder determinar o tipo de navegador utilizado para acessar o app | deve determinar o tipo de navegador utilizado para conhecer melhor seus usuários | Should | RFIC05 | Introspecção | RF22 | MoSCoW
+
+| Funcional | Aplicativo | poder coletar data e hora de acesso ao app | deve coletar data e hora de acesso para conhecer melhor seu usuário | Should | RFIC06 | Introspecção | RF23 | MoSCoW
+
+| Funcional | Aplicativo | poder coletar páginas acessadas através do app | deve coletar páginas acessadas para se aperfeiçoar | Should | RFIC07 | Introspecção | RF24 | MoSCoW
+
+| Funcional | Aplicativo | poder coletar localização geográfica do usuário | deve coletar localização geográfica do usuário para conhecer melhor seu usuário | Should | RFIC08 | Introspecção | RF25 | MoSCoW
+
+| Funcional | Aplicativo | ser capaz de determinar se o app foi acessado através de um link e determinar o endereço deste site | deve saber de onde foi acessado para se aperfeiçoar | Could | RFIC09 | Introspecção | RF26 | MoSCoW
+
+| Funcional | Aplicativo | ser capaz de Identificar o dispositivo utilizado | deve identificar o dispositivo utilizado para conhecer melhor seu público | Could | RFIC010 | Introspecção | RF27 | MoSCoW
+
+| Funcional | Aplicativo | ser capaz de proteger informações do usuário | deve proteger as informações do usuário para que ele se sinta seguro | Must | RFIU013 | Introspecção | RF28 | MoSCoW
+
+| Funcional | Aplicativo | ser capaz de repassar informações dos usuários | deve repassar informações dos usuários para gerar propaganda | Must | RFIP02 | Introspecção | RF29 | MoSCoW
+
+| Funcional | Aplicativo | ser capaz de retornar o sucesso da doação feita pelo usuário | deve retornar o sucesso da doação feita pelo usuário para que o usuário saiba que o Aplicativo é confiável | Must | RFST01 | Storytelling | RF30 | MoSCoW
+
+| Funcional | Aplicativo | possibilitar o compartilhamento de histórias | deve possibilitar o compartilhamento de histórias para amigos, conecidos ou quem desejarmos | Must | RFST03 | Storytelling | RF32 | MoSCoW
+| Funcional | Aplicativo | poder redirecionar o usuário à página da notícia | deve possibilitar o direcionamento do usuário | Must | RFIP04 | Introspecção | RF34 | MoSCoW
+
+| Funcional | Aplicativo | poder redirecionar o usuário ao site da bancorbrás | deve possibilitar o o redirecionamento ao site do patrocinador | Must | RFIP05 | Introspecção | RF35 | MoSCoW

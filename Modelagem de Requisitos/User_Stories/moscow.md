@@ -1,0 +1,36 @@
+| Tema | Eu como | Quero | Para que | Notas | Prioridade | Status | ID Rastro | Rastro |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Funcional | Usuário | criar uma conta | eu possa realizar doações | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP01 | Observação e Análise de Protocolo | RF1 | MoSCoW |
+| Funcional | Usuário | conectar com o Facebook | eu possa facilitar a criação de uma conta | - | Should | {done, in progress, not coded yet*(?), to do} | RFOAP02 | Observação e Análise de Protocolo | RF2 | MoSCoW |
+| Funcional | Usuário | visualizar meu perfil | eu possa ver minhas informações | - | Should | {done, in progress, not coded yet*(?), to do} | RFOAP10 | Observação e Análise de Protocolo | RF3 | MoSCoW |
+| Funcional | Usuário | visualizar as doações feitas | eu possa visualizar com quantas doações eu já cotribuí | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP11, RFST05 | Observação e Análise de Protocolo, Storytelling | RF4 | MoSCoW |
+| Funcional | Usuário | visualizar para quais instituições são feitas as doações | eu possa saber e pesquisar a procedência dessa instituição | - | Could | {done, in progress, not coded yet*(?), to do} | RFOAP12 | Observação e Análise de Protocolo | RF5 | MoSCoW |
+| Funcional | Usuário | ler notícias | eu possa me sentir informado | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP05 | Observação e Análise de Protocolo | RF6 | MoSCoW |
+| Funcional | Usuário | coletar ribons | eu possa doá-los | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP06, RFST07 | Observação e Análise de Protocolo, Storytelling | RF7 | MoSCoW |
+| Funcional | Usuário | doar Ribons | para que eu possa ajudar quem precisa | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP07, RFST08 | Observação e Análise de Protocolo, Storytelling | RF8 | MoSCoW |
+| Funcional | Usuário | ter liberdade para escolher a causa que estarei ajudando | eu possa doar para a causa que me sensibilizo mais no momento | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP08 | Observação e Análise de Protocolo | RF9 | MoSCoW |
+| Funcional | Usuário | visualizar um comprovante de doações | eu possa me certificar de que elas realmente estão sendo feitas | - | Should | {done, in progress, not coded yet*(?), to do} | RFOAP09, RFST10 | Observação e Análise de Protocolo, Storytelling | RF10 | MoSCoW |
+| Funcional | Usuário | comprar ribons | eu possa doar do meu próprio dinheiro, contribuindo ainda mais com as comunidades carentes | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP13, RFST09 | Observação e Análise de Protocolo, Storytelling | RF11 | MoSCoW |
+| Funcional | Usuário | visualizar um tutorial | eu possa aprender sobre o funcionamento do app, no sentido de captação e transferencia de dinheiro etc | - | Could | {done, in progress, not coded yet*(?), to do} | RFOAP04 | Observação e Análise de Protocolo | RF12 | MoSCoW |
+| Funcional | Usuário | entrar em contato com a equipe do app | eu possa mandar dúvidas, sugestões, criticas e elogios | - | Would | {done, in progress, not coded yet*(?), to do} | RFOAP14 | Observação e Análise de Protocolo | RF13 | MoSCoW |
+| Funcional | Usuário | ter acesso às perguntas frequentes | eu possa tirar dúvidas | - | Could | {done, in progress, not coded yet*(?), to do} | RFOAP15 | Observação e Análise de Protocolo | RF14 | MoSCoW |
+| Funcional | Usuário | ler a política de privacidade | eu possa saber como são tratados os meus dados. | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP16 | Observação e Análise de Protocolo | RF15 | MoSCoW |
+| Funcional | Usuário | fazer login | eu possa ter acesso ao meu perfil | - | Must | {done, in progress, not coded yet*(?), to do} | RFOAP03, RFST04 | Observação e Análise de Protocolo, Storytelling | RF16 | MoSCoW |
+| Funcional | Usuário | ser esclarecido sobre como o app funciona pela primeira vez | eu não me sinta confuso | - | Should | {done, in progress, not coded yet*(?), to do} | RFST02 | Storytelling | RF31 | MoSCoW |
+| Funcional | Usuário | coletar o presente diário | eu possa aumentar meu saldo de moedas ribon | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU01 | Introspecção | RF36 | MoSCoW |
+| Funcional | Usuário | visualizar quantos ribons já foram doados pela comunidade do Ribon | eu consiga ver o impacto realizado pela comunidade ribon | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU03 | Introspecção | RF39 | MoSCoW |
+| Funcional | Usuário | compartilhar as histórias | eu possa interagir com amigos e compartilhar informação | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU04 | Introspecção | RF40 | MoSCoW |
+| Funcional | Usuário | compartilhar as doações | assim eu possa incentivar amigos e conhecidos a doarem tambem | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU05 | Introspecção | RF41 | MoSCoW |
+| Funcional | Usuário | convidar amigos para usar o app | assim eu possa ganhar mais ribons e ainda ajudar o aplicativo a crescer impactando em mais doaçoes | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU06 | Introspecção | RF42 | MoSCoW |
+| Funcional | Usuário | navegar por um feed de histórias | assim eu consiga acessar de maneira simplificada as historias inspiradoras compartilhadas pelo app | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU012 | Introspecção | RF48 | MoSCoW |
+| Funcional | Usuário | visualizar quantos ribons possuo | assim eu possa fazer um gerenciamento melhor do meu saldo de ribons | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU07, RFST06 | Introspecção, Storytelling | RF43 | MoSCoW |
+| Funcional | Usuário | sair de minha conta | eu possivelmente possa desvincular minha conta do aplicativo. | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU08 | Introspecção | RF44 | MoSCoW |
+| Funcional | Usuário | visualizar quem publicou a história | eu saiba a procedência e a validade da mesma notícia, podendo averiguar, caso queira, a idôneidade do veículo em questão | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU09 | Introspecção | RF45 | MoSCoW |
+| Funcional | Usuário | visualizar a data de publicação da história | eu não seja ludibriado sobre o impacto da mesma, acaso, por exemplo, ela seja muito antiga e ja não tenha mais validade/aplicabilidade | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU010 | Introspecção | RF46 | MoSCoW |
+| Funcional | Usuário | clicar na história para ler a mesma por completo | eu possa terminar de ler a história e ver os personagens/contexto envolvidos | - | Must | {done, in progress, not coded yet*(?), to do} | RFIU011 | Introspecção | RF47 | MoSCoW |
+| Funcional | Patrocinador | comunicar o usuário a respeito de produtos, serviços, promoções e pesquisas | eu possa direcionar melhor meus produtos e serviços para cada tipo | Must | RFIP03 | Introspecção | RF33 | MoSCoW
+
+
+### possiveis requisitos nao funcionais
+
+SER RAPIDO PARA RESPONDER
