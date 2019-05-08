@@ -49,6 +49,44 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ]
 
 
+### US011 - comprar ribons
+  - [ ] O usuário deve poder comprar ribons
+  - [ ] Os dados de pagamento devem ser validados pelo sistema
+  - [ ] O sistema deve retornar sucesso na compra dos ribons
+  - [ ] O dados de cartão de crédito devem ser manipulados de maneira sigilosa.
+
+
+### US012 - visualizar um tutorial
+  - [ ] O tutorial deve poder ser acessado a partir da página de configurações.
+
+
+### US013 - entrar em contato com a equipe do app	
+  - [ ] O usuário deve poder entrar em contato com a equipe do Ribon.
+  - [ ] Deve haver um chat em tempo real que deverá ser acessado a partir da página de configuações.
+
+### US014 - ter acesso às perguntas frequentes	
+  - [ ] O usuário deve poder acessar um página de "FAQ" para tirar possíceis dúvidas.
+  - [ ] O usuário deve acessar a página de perguntas frequentes a partir das configuações.
+
+### US015 - ler a política de privacidade		
+  - [ ] O usuário deve poder acessar a política de privacidade do aplicativo.
+  - [ ] O usuário deverá encontrar á pagina de política de privacidade a partir das configurações.
+
+### US016 - fazer login		
+  - [ ] O usuário deve poder logar no aplicativo
+  - [ ] O sistema deve válidar os dados utilizados pelo usuário no login.
+
+### US017 - ser esclarecido sobre como o app funciona pela primeira vez	
+  - [ ] Apenas novos usuário devem ser apresentados ao tutorial em sua primeira vez no app
+
+### US018 - coletar o presente diário	
+  - [ ] O usuário deve poder coletar diáriamente uma quantidade ribons como "presente"
+  - [ ] O sistema não deve aceitar coletas do presente no mesmo dia pelo mesmo usuário.
+
+### US019 - visualizar quantos ribons já foram doados pela comunidade do Ribon	
+  - [ ] O sistema deve armazenar o histórico de doações de toda a comunidade.
+  - [ ] O usuário deve ter acesso há uma página com os dados compilados para que possa ser visualizado o impacto das doações realizada pelo Ribon.
+
 ## Refêrencias
 - https://github.com/victorhdcoelho/Requisitos-uber-2018.2/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15, 46 Slides. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
