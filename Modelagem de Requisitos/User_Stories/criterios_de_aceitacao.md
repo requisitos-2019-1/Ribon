@@ -29,6 +29,26 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O usuário deve poder visualizar a quantidade de Ribons doados.
   - [ ] O usuário deve poder visualizar a quantidade de dias que ele ajudou cada causa.
 
+### US004- visualizar as doações feitas
+  - [ ] O usuário deve poder visualizar com quantos ribons ele ajudou cada causa.
+  - [ ] O usuário deve poder visualizar com quantos dias de ajuda ele contribuiu para cada causa.
+  - [ ] O usuário deve poder visualizar com quantos ribons a comunidade do Ribon ajudou cada causa.
+  - [ ] O usuário deve poder visualizar a quantidade de dias que a comunidade do Ribon ajudou cada causa.
+
+### US005- visualizar para quais instituições são feitas as doações
+  - [ ] O usuário deve poder visualizar informações sobre cada instituição parceira da Ribon.
+  - [ ] O usuário deve poder acessar a página da instituição parceira da Ribon.
+
+### US006- ler notícias
+  - [ ] O usuário deve poder visualizar história.
+  - [ ] O usuário deve poder visualizar quem publicou a história.
+  - [ ] O usuário deve poder visualizar data de publicação da história.
+
+### US007- coletar ribons
+  - [ ] O usuário deve poder coletar Ribons história.
+  - [ ]
+
+
 ## Refêrencias
 - https://github.com/victorhdcoelho/Requisitos-uber-2018.2/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15, 46 Slides. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
