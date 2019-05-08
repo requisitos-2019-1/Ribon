@@ -152,6 +152,9 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O usuário deve poder ignorar e recursar os produtos, serviços, promoções e pesquisas mostradas
   - [ ] O usuário deve poder aceitar os produtos, serviços, promoções e pesquisas mostradas.
 
+### US047 - design do sistema intuitivo
+  - [ ] O sistema deve possi ícones intuitivos
+  - [ ] Ajudar a guiar o usuário através do uso da aplicação
 
 
 ## Refêrencias
