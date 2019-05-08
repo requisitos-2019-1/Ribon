@@ -49,6 +49,13 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O sistema deve verificar os Ribons daquela história já foram coletados.
   - [ ] O sistema deve verificar se os Ribons daquela história foram expirados.
 
+### US008- doar ribons
+  - [ ] O usuário deve poder doar Ribons.
+  - [ ] O usuário deve poder escolher para qual causa doar.
+  - [ ] O sistema deve verificar se usuário possui Ribons suficientes para realizar a doação.
+  - [ ] O sistema deve descontar os Ribons doados dos Ribons possuídos pelo usuário.
+  - [ ] O sistema deve mostrar uma mensagem de erro indicando o motivo pelo qual não foi possível realizar a doação.
+  - [ ] O sistema deve mostrar uma mensagem de sucesso caso a doação tenha sido realizada.
 
 ### US011 - comprar ribons
   - [ ] O usuário deve poder comprar ribons
@@ -98,7 +105,7 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O usuário deve poder convidar alguém que não usa o aplicativo para usá-lo
 
 ### US023- navegar por um feed de histórias
-  - [ ] O sistema deve mostrar as histórias 
+  - [ ] O sistema deve mostrar as histórias
 
 ### US024- visualizar quantos ribons possuo
   - [ ] O sistema deve informar a quantidade verdadeira de Ribons
@@ -107,7 +114,7 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O usuário deve deslogar da conta
 
 ### US026- visualizar quem publicou a história
-  - [ ] O sistema deve informar o verdadeiro 
+  - [ ] O sistema deve informar o verdadeiro
 
 ### US027- visualizar a data de publicação da história
   - [ ] O sistema deve informar a verdadeira data de publicação de uma história
