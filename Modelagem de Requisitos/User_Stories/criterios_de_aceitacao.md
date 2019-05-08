@@ -57,6 +57,15 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O sistema deve mostrar uma mensagem de erro indicando o motivo pelo qual não foi possível realizar a doação.
   - [ ] O sistema deve mostrar uma mensagem de sucesso caso a doação tenha sido realizada.
 
+### US009- ter liberdade para escolher a causa que estarei ajudando
+  - [ ] O usuário deve poder escolher para qual causa doar.
+  - [ ] O usuário deve poder visualizar informações sobre a causa.
+
+### US010- visualizar um comprovante de doações
+  - [ ] O usuário deve poder visualizar o comprovante de doações mensais.
+  - [ ] O usuário deve poder visualizar o histórico de ribons doados.
+  - [ ] O usuário deve poder fazer comentários.
+
 ### US011 - comprar ribons
   - [ ] O usuário deve poder comprar ribons
   - [ ] Os dados de pagamento devem ser validados pelo sistema
