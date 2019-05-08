@@ -46,7 +46,8 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
 
 ### US007- coletar ribons
   - [ ] O usuário deve poder coletar Ribons história.
-  - [ ]
+  - [ ] O sistema deve verificar os Ribons daquela história já foram coletados.
+  - [ ] O sistema deve verificar se os Ribons daquela história foram expirados.
 
 
 ### US011 - comprar ribons
@@ -60,11 +61,11 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O tutorial deve poder ser acessado a partir da página de configurações.
 
 
-### US013 - entrar em contato com a equipe do app	
+### US013 - entrar em contato com a equipe do app
   - [ ] O usuário deve poder entrar em contato com a equipe do Ribon.
   - [ ] Deve haver um chat em tempo real que deverá ser acessado a partir da página de configuações.
 
-### US014 - ter acesso às perguntas frequentes	
+### US014 - ter acesso às perguntas frequentes
   - [ ] O usuário deve poder acessar um página de "FAQ" para tirar possíceis dúvidas.
   - [ ] O usuário deve acessar a página de perguntas frequentes a partir das configuações.
 
@@ -76,48 +77,16 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O usuário deve poder logar no aplicativo
   - [ ] O sistema deve válidar os dados utilizados pelo usuário no login.
 
-### US017 - ser esclarecido sobre como o app funciona pela primeira vez	
+### US017 - ser esclarecido sobre como o app funciona pela primeira vez
   - [ ] Apenas novos usuário devem ser apresentados ao tutorial em sua primeira vez no app
 
-### US018 - coletar o presente diário	
+### US018 - coletar o presente diário
   - [ ] O usuário deve poder coletar diáriamente uma quantidade ribons como "presente"
   - [ ] O sistema não deve aceitar coletas do presente no mesmo dia pelo mesmo usuário.
 
-### US019 - visualizar quantos ribons já foram doados pela comunidade do Ribon	
+### US019 - visualizar quantos ribons já foram doados pela comunidade do Ribon
   - [ ] O sistema deve armazenar o histórico de doações de toda a comunidade.
   - [ ] O usuário deve ter acesso há uma página com os dados compilados para que possa ser visualizado o impacto das doações realizada pelo Ribon.
-
-### US020- compartilhar as histórias
-  - [ ] O usuário deve poder compartilhar histórias com pessoas que não usam o aplicativo
-
-### US021- compartilhar as doações
-  - [ ] O usuário deve poder compartilhar histórico de doações com pessoas que não usam o aplicativo
-
-### US022- convidar amigos para usar o app
-  - [ ] O usuário deve poder convidar alguém que não usa o aplicativo para usá-lo
-
-### US023- navegar por um feed de histórias
-  - [ ] O sistema deve mostrar as histórias 
-
-### US024- visualizar quantos ribons possuo
-  - [ ] O sistema deve informar a quantidade verdadeira de Ribons
-
-### US025- sair de minha conta
-  - [ ] O usuário deve deslogar da conta
-
-### US026- visualizar quem publicou a história
-  - [ ] O sistema deve informar o verdadeiro 
-
-### US027- visualizar a data de publicação da história
-  - [ ] O sistema deve informar a verdadeira data de publicação de uma história
-
-### US028- clicar na história para ler a mesma por completo
-  - [ ] O sistema deve mostrar o texto completo da história
-  - [ ] O usuário deve poder compartilhar a história que está lendo
-  - [ ] O usuário deve poder ver quem publicou a história
-
-### US029- comunicar o usuário a respeito de produtos, serviços, promoções e pesquisas
-  - [ ] O usuário deve poder ignorar os produtos, serviços, promoções e pesquisas mostradas
 
 ## Refêrencias
 - https://github.com/victorhdcoelho/Requisitos-uber-2018.2/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o
