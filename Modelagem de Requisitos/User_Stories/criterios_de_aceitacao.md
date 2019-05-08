@@ -2,10 +2,11 @@
 |---|---|---|---|
 | 06/05/2019 | 1.0 | Criando Modelo de Criterio De Aceitação  | Rafael Teodosio |
 | 07/05/2019 | 1.1 | Criando Introdução | Lucas kishima |
+| 07/05/2019 | 1.2 | Criando Objetivo | Lucas kishima |
 ## Introdução
 Os critérios de aceitação são uma lista de critérios necessários para que a história seja concluída de forma que atenda os requisitos do usuário e seja aceita pelo Product Owner.
 ## Objetivo
-
+Os critérios de aceitação tem como objetivo ajudar o time a entender melhor o objetivo daquela história e auxiliar o P.O. a entender os requisitos necessários para aceitação daquela história.
 ## Metodologia
 
 ## Criterios de Aceitação
