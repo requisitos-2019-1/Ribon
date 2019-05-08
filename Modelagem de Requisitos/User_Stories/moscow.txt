@@ -1,5 +1,5 @@
-| Tema | Eu como | Quero | Para que | Notas | Prioridade | Status | ID Rastro | Rastro |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+ID User Story | Tema | Eu como | Quero | Para que | Notas | Prioridade | Status | ID Rastro | Rastro |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Funcional | Usuário | criar uma conta | realizar doações | Must | RFOAP01 | Observação e Análise de Protocolo | RF1 | MoSCoW |
 | Funcional | Usuário | conectar com o Facebook | facilitar a criação de uma conta | Should | RFOAP02 | Observação e Análise de Protocolo | RF2 | MoSCoW |
 | Funcional | Usuário | visualizar meu perfil | ver minhas informações | Should | RFOAP10 | Observação e Análise de Protocolo | RF3 | MoSCoW |
