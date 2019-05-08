@@ -43,35 +43,20 @@ ID User Story | Tema | Eu como | Quero | Para que | Notas | Prioridade | Status 
 
 
 
-| Funcional | Aplicativo | poder publicar notícias de terceiros | deve publicar noticias para o usuário ler | Must | RFIP01 | Introspecção | RF17 | MoSCoW
-
-| Funcional | Aplicativo | ser capaz de coletar padrões de utilização, frequência e alcance do uso | deve coletar padrões para se aperfeiçoar | Must | RFIC03 | Introspecção | RF18 | MoSCoW
-
-| Funcional | Aplicativo | poder coletar o conteúdo que o usuário lê, usa ou cria e os anúncios clicados pelo usuário | deve coletar o conteúdo sobre o usuário para se aperfeiçoar | Must | RFIC01 | Introspecção | RF19 | MoSCoW
-
-| Funcional | Aplicativo | poder coletar a duração das sessões do usuário | deve coletar a duração das sessões do usuário para se aperfeiçoar | Should | RFIC04 | Introspecção | RF20 | MoSCoW
-
-| Funcional | Aplicativo | poder criar um histórico de informação detalhada do usuário e ligar todas as informações com a sua conta | deve salvar o histórico de atividades do usário para futuras consultas | Must | RFIC02 | Introspecção | RF21 | MoSCoW
-
-| Funcional | Aplicativo | poder determinar o tipo de navegador utilizado para acessar o app | deve determinar o tipo de navegador utilizado para conhecer melhor seus usuários | Should | RFIC05 | Introspecção | RF22 | MoSCoW
-
-| Funcional | Aplicativo | poder coletar data e hora de acesso ao app | deve coletar data e hora de acesso para conhecer melhor seu usuário | Should | RFIC06 | Introspecção | RF23 | MoSCoW
-
-| Funcional | Aplicativo | poder coletar páginas acessadas através do app | deve coletar páginas acessadas para se aperfeiçoar | Should | RFIC07 | Introspecção | RF24 | MoSCoW
-
-| Funcional | Aplicativo | poder coletar localização geográfica do usuário | deve coletar localização geográfica do usuário para conhecer melhor seu usuário | Should | RFIC08 | Introspecção | RF25 | MoSCoW
-
-| Funcional | Aplicativo | ser capaz de determinar se o app foi acessado através de um link e determinar o endereço deste site | deve saber de onde foi acessado para se aperfeiçoar | Could | RFIC09 | Introspecção | RF26 | MoSCoW
-
-| Funcional | Aplicativo | ser capaz de Identificar o dispositivo utilizado | deve identificar o dispositivo utilizado para conhecer melhor seu público | Could | RFIC010 | Introspecção | RF27 | MoSCoW
-
-| Funcional | Aplicativo | ser capaz de proteger informações do usuário | deve proteger as informações do usuário para que ele se sinta seguro | Must | RFIU013 | Introspecção | RF28 | MoSCoW
-
-| Funcional | Aplicativo | ser capaz de repassar informações dos usuários | deve repassar informações dos usuários para gerar propaganda | Must | RFIP02 | Introspecção | RF29 | MoSCoW
-
-| Funcional | Aplicativo | ser capaz de retornar o sucesso da doação feita pelo usuário | deve retornar o sucesso da doação feita pelo usuário para que o usuário saiba que o Aplicativo é confiável | Must | RFST01 | Storytelling | RF30 | MoSCoW
-
-| Funcional | Aplicativo | possibilitar o compartilhamento de histórias | deve possibilitar o compartilhamento de histórias para amigos, conecidos ou quem desejarmos | Must | RFST03 | Storytelling | RF32 | MoSCoW
-| Funcional | Aplicativo | poder redirecionar o usuário à página da notícia | deve possibilitar o direcionamento do usuário | Must | RFIP04 | Introspecção | RF34 | MoSCoW
-
-| Funcional | Aplicativo | poder redirecionar o usuário ao site da bancorbrás | deve possibilitar o o redirecionamento ao site do patrocinador | Must | RFIP05 | Introspecção | RF35 | MoSCoW
+| Funcional | Aplicativo | poder publicar notícias de terceiros | deve publicar noticias para o usuário ler | Must | RF017, RFIP01 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | ser capaz de coletar padrões de utilização, frequência e alcance do uso | deve coletar padrões para se aperfeiçoar | Must | RF018, RFIC03 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | poder coletar o conteúdo que o usuário lê, usa ou cria e os anúncios clicados pelo usuário | deve coletar o conteúdo sobre o usuário para se aperfeiçoar | Must | RF019, RFIC01 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | poder coletar a duração das sessões do usuário | deve coletar a duração das sessões do usuário para se aperfeiçoar | Should | RF020, RFIC04 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | poder criar um histórico de informação detalhada do usuário e ligar todas as informações com a sua conta | deve salvar o histórico de atividades do usário para futuras consultas | Must | RF021, RFIC02 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | poder determinar o tipo de navegador utilizado para acessar o app | deve determinar o tipo de navegador utilizado para conhecer melhor seus usuários | Should | RF022, RFIC05 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | poder coletar data e hora de acesso ao app | deve coletar data e hora de acesso para conhecer melhor seu usuário | Should | RF023, RFIC06 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | poder coletar páginas acessadas através do app | deve coletar páginas acessadas para se aperfeiçoar | Should | RF024, RFIC07 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | poder coletar localização geográfica do usuário | deve coletar localização geográfica do usuário para conhecer melhor seu usuário | Should | RF025, RFIC08 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | ser capaz de determinar se o app foi acessado através de um link e determinar o endereço deste site | deve saber de onde foi acessado para se aperfeiçoar | Could | RF026, RFIC09 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | ser capaz de Identificar o dispositivo utilizado | deve identificar o dispositivo utilizado para conhecer melhor seu público | Could | RF027, RFIC010 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | ser capaz de proteger informações do usuário | deve proteger as informações do usuário para que ele se sinta seguro | Must | RF028, RFIU013 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | ser capaz de repassar informações dos usuários | deve repassar informações dos usuários para gerar propaganda | Must | RF029, RFIP02 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | ser capaz de retornar o sucesso da doação feita pelo usuário | deve retornar o sucesso da doação feita pelo usuário para que o usuário saiba que o Aplicativo é confiável | Must | RF030, RFST01 | MoSCoW, Storytelling |
+| Funcional | Aplicativo | possibilitar o compartilhamento de histórias | deve possibilitar o compartilhamento de histórias para amigos, conecidos ou quem desejarmos | Must | RF032, RFST03 | MoSCoW, Storytelling |
+| Funcional | Aplicativo | poder redirecionar o usuário à página da notícia | deve possibilitar o direcionamento do usuário | Must | RF034, RFIP04 | MoSCoW, Introspecção |
+| Funcional | Aplicativo | poder redirecionar o usuário ao site da bancorbrás | deve possibilitar o o redirecionamento ao site do patrocinador | Must | RF035, RFIP05 | MoSCoW, Introspecção |
