@@ -87,6 +87,38 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O sistema deve armazenar o histórico de doações de toda a comunidade.
   - [ ] O usuário deve ter acesso há uma página com os dados compilados para que possa ser visualizado o impacto das doações realizada pelo Ribon.
 
+### US020- compartilhar as histórias
+  - [ ] O usuário deve poder compartilhar histórias com pessoas que não usam o aplicativo
+
+### US021- compartilhar as doações
+  - [ ] O usuário deve poder compartilhar histórico de doações com pessoas que não usam o aplicativo
+
+### US022- convidar amigos para usar o app
+  - [ ] O usuário deve poder convidar alguém que não usa o aplicativo para usá-lo
+
+### US023- navegar por um feed de histórias
+  - [ ] O sistema deve mostrar as histórias 
+
+### US024- visualizar quantos ribons possuo
+  - [ ] O sistema deve informar a quantidade verdadeira de Ribons
+
+### US025- sair de minha conta
+  - [ ] O usuário deve deslogar da conta
+
+### US026- visualizar quem publicou a história
+  - [ ] O sistema deve informar o verdadeiro 
+
+### US027- visualizar a data de publicação da história
+  - [ ] O sistema deve informar a verdadeira data de publicação de uma história
+
+### US028- clicar na história para ler a mesma por completo
+  - [ ] O sistema deve mostrar o texto completo da história
+  - [ ] O usuário deve poder compartilhar a história que está lendo
+  - [ ] O usuário deve poder ver quem publicou a história
+
+### US029- comunicar o usuário a respeito de produtos, serviços, promoções e pesquisas
+  - [ ] O usuário deve poder ignorar os produtos, serviços, promoções e pesquisas mostradas
+
 ## Refêrencias
 - https://github.com/victorhdcoelho/Requisitos-uber-2018.2/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15, 46 Slides. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
