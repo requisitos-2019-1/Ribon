@@ -109,12 +109,15 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
 
 ### US024- visualizar quantos ribons possuo
   - [ ] O sistema deve informar a quantidade verdadeira de Ribons
+  - [ ] O usuário deve poder ver as opções de doações ao clicar na quantidade de Ribons que possui
 
 ### US025- sair de minha conta
-  - [ ] O usuário deve deslogar da conta
+  - [ ] O usuário deve poder deslogar da conta
+  - [ ] O sistema deve pedir as informações do usuário novamente para ele poder fazer login
 
 ### US026- visualizar quem publicou a história
-  - [ ] O sistema deve informar o verdadeiro
+  - [ ] O sistema deve informar a verdadeira fonte de publicação da história
+  - [ ] O usuário deve poder acessar o site de publicação através do nome do site de origem da história
 
 ### US027- visualizar a data de publicação da história
   - [ ] O sistema deve informar a verdadeira data de publicação de uma história
@@ -125,7 +128,7 @@ Os integrantes do grupo levantaram através de argumentação e introspecção o
   - [ ] O usuário deve poder ver quem publicou a história
 
 ### US029- comunicar o usuário a respeito de produtos, serviços, promoções e pesquisas
-  - [ ] O usuário deve poder ignorar os produtos, serviços, promoções e pesquisas mostradas
+  - [ ] O usuário deve poder ignorar e recursar os produtos, serviços, promoções e pesquisas mostradas
 
 
 
