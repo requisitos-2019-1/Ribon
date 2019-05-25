@@ -1,25 +1,53 @@
 import os, fnmatch, re
+from tempfile import mkstemp
+from shutil import move
+from os import fdopen, remove
 
-lexicos_path = 'Lexicos/'
-cases_path = 'Casos_de_uso/'
-cenarios_path = 'Cenarios/'
+url_base_path = r'https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos'
+rfs = r'https://github.com/requisitos-2019-1/Ribon/wiki/MoSCoW'
+rnfs = r'https://github.com/requisitos-2019-1/Ribon/wiki/Especifica%C3%A7%C3%A3o-suplementar'
 
-def findReplace(directory, find, replace, filePattern):
+def findReplace(directory, filePattern, pattern):
     for path, dirs, files in os.walk(os.path.abspath(directory)):
         for filename in fnmatch.filter(files, filePattern):
             filepath = os.path.join(path, filename)
-            with open(filepath) as f:
-                s = f.read()
-            s = s.replace(find, replace)
-            with open(filepath, "w") as f:
-                f.write(s)
+            # print(filename)
+            if pattern.match(filename):
+                link = url_base_path + filepath.split('Modelagem de Requisitos')[1]
+                return link
+    return False
 
-replaces = ['LX001_Agua_potavel.md', 'LX002_Aplicativo.md', 'LX003_Aplicativo_nao_Funciona.md', 'LX004_Card.md', 'LX005_Causa.md', 'LX006_Coletar.md', 'LX007_Comprar.md', 'LX008_Comprovante_de_doaçoes.md', 'LX009_Comunidade.md', 'LX010_Doar.md', 'LX011_Doação.md', 'LX012_Evidence_Action.md', 'LX013_Fortificacao_alimentar.md', 'LX014_Historia.md', 'LX015_Historia_coletada.md', 'LX016_Historia_expirada.md', 'LX017_Living_Goods.md', 'LX018_Medicamentos.md', 'LX019_Ong.md', 'LX020_Patrocinador.md', 'LX021_Perfil.md', 'LX022_1_Presente_Diário(Descontinuado).md', 'LX022_Presente_diario.md', 'LX023_Presente_diario_coletado.md', 'LX024_Problemas_com_o_Smartphone.md', 'LX025_Project_Healthy_Children.md', 'LX026_1_Moeda_Ribon(Descontinuado).md', 'LX026_Ribon.md', 'LX027_Saude_basica.md', 'LX028_Schistosomiasis_Control_Initiative.md', 'LX029_Smartphone.md', 'LX030_Tutorial_do_app.md', 'LX031_Usuário.md']
+f = open('User_Stories/backlog_de_produto.md', 'r')
+result = f.read()
+f.close()
+f = open('User_Stories/backlog_de_produto.md', 'r')
+flag = 0
+dir = os.path.dirname(os.path.abspath(__file__))
+get_id = re.compile(r'([A-Z].*?)(?=\d)')
+get_nums = re.compile(r'\d+')
+get_rf = re.compile(r'RF(?=\d)')
+get_rnf = re.compile(r'(RNF.*?)(?=\d)')
 
-for replace_w_this in replaces:
-    find_this = re.sub('\d', '', replace_w_this)
-    find_this = find_this.replace('LX_', '')
+for line in f.readlines():
+    if (flag <= 1):
+        flag+=1
+        continue
+    else:
+        id_rastros = line.split('|')[9].replace(' ', '').strip(',').split(',')
+        for i in id_rastros:
+            # print(i)
+            idx = get_id.findall(i)[0]
+            num = get_nums.findall(i)[0].lstrip('0')
+            if (len(num) == 1):
+                num = '0'+num
 
-    findReplace(lexicos_path, find_this, replace_w_this, "*.md")
-    findReplace(cases_path, find_this, replace_w_this, "*.md")
-    findReplace(cenarios_path, find_this, replace_w_this, "*.md")
+            pattern = re.compile(idx+"\d+"+num+"\_\w+\.md")
+            link = findReplace(dir, '*.md', pattern)
+            if (link):
+                result = result.replace(i, '['+i+']'+'('+link+')')
+            else:
+                if get_rf.match(i):
+                    result = result.replace(i, '['+i+']'+'('+rfs+')')
+                if get_rnf.match(i):
+                    result = result.replace(i, '['+i+']'+'('+rnfs+')')
+print (result)
