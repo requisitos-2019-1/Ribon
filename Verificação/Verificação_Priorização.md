@@ -1,5 +1,5 @@
 | Data | Versão | Descrição | Autor |
-| ---- | - | - | - | - |
+| - | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 
 # Verificação - Inspeção Priorização
