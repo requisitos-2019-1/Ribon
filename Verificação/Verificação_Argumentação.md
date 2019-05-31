@@ -1,5 +1,5 @@
 | Data | Versão | Descrição | Autor |
-| ---- | - | - | - | - |
+| ---- | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 | 31/05/2019 | 2.0 | Criação da Verificação de Argumentação | Henrique Martins |
 
