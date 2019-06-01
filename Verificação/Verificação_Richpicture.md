@@ -29,11 +29,11 @@
 
 | RichPicture | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | ---- | - | - | - | - | - | - | - | - | - | - |
-| Ribon (Henrique) |  |  |  |  |  |  |  |  |  |  |
-| Ribon (Victor)|  |  |  |  |  |  |  |  |  |  |  
-| Ribon (Guilherme) |  |  |  |  |  |  |  |  |  |  |      
-| Aplicativo (Lucas) |  |  |  |  |  |  |  |  |  |  |      
-| Aplicativo (Rafael) |  |  |  |  |  |  |  |  |  |  |  
+| Ribon (Henrique) |  | &#10003; |  |  |  | &#10003; | &#10003; | &#10003; |  |  |
+| Ribon (Victor)|  |  | &#10003; |  |  |  |  | &#10003; |  |  |  
+| Ribon (Guilherme) |  | &#10003; |  |  |  |  | &#10003; | &#10003; |  |  |      
+| Aplicativo (Lucas) |  | &#10003; |  |  |  | &#10003; | &#10003; | &#10003; |  |  |      
+| Aplicativo (Rafael) |  | &#10003; | &#10003; |  |  | &#10003; | &#10003; | &#10003; |  |  |  
 
 ## Qualidade do Modelo
 
