@@ -3,34 +3,45 @@
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 | 31/05/2019 | 1.1 | Criação da Verificação de Argumentação | Henrique Martins |
 | 05/01/2019 | 1.2 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
+| 05/01/2019 | 1.3 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+
+
 # Verificação - Inspeção [Argumentação](https://github.com/requisitos-2019-1/Ribon/wiki/Argumenta%C3%A7%C3%A3o)
 ## Perguntas
 
-| Questão | Impacto | Contexto |
-| ------- | :-----: | :------: |
-| 1 - A escrita das proposições está coerente? | alto/médio/baixo | |
-| 2 - Todos os vértices possuem rótulo? | alto/médio/baixo | |
-| 3 - A argumentação possui mais de uma inferência? | alto/médio/baixo | |
-| 4 - A argumentação possui mais de um conflito? | alto/médio/baixo | |
-| 5 - A argumentação possui mais de uma preferência? | alto/médio/baixo | |
-| 6 - A escrita das inferências está coerente? | alto/médio/baixo | |
-| 7 - As inferências relacionam, no mínimo, duas proposições? | alto/médio/baixo | |
-| 8 - Os conflitos relacionam, no mínimo, duas proposições? | alto/médio/baixo | |
-| 9 - A escrita dos conflitos está coerente? | alto/médio/baixo | |
-| 10 - Os conflitos possuem solução? | alto/médio/baixo | |
-| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição preferida? | alto/médio/baixo | |
-| 12 - As preferências relacionam duas proposições? | alto/médio/baixo | |
-| 13 - A argumentação possui conclusão? | alto/médio/baixo | |
-| 14 - O fluxo de inferência, conflito, preferência e conclusão está certo? | alto/médio/baixo | |
-| 15 - A argumentação possui rastreabilidade? | alto/médio/baixo | |
+| Questão | Impacto | Contexto | Justificativa | Tipo |
+| ------- | :-----: | :------: | :-----------: | :--: |
+| 1 - A escrita das proposições está coerente? | alto/médio/baixo | | | |
+| 2 - Todos os vértices possuem rótulo? | alto/médio/baixo | | | |
+| 3 - A argumentação possui mais de uma inferência? | alto/médio/baixo | | | |
+| 4 - A argumentação possui mais de um conflito? | alto/médio/baixo | | | |
+| 5 - A argumentação possui mais de uma preferência? | alto/médio/baixo | | | |
+| 6 - A escrita das inferências está coerente? | alto/médio/baixo | | | |
+| 7 - As inferências relacionam, no mínimo, duas proposições? | alto/médio/baixo | | | |
+| 8 - Os conflitos relacionam, no mínimo, duas proposições? | alto/médio/baixo | | | |
+| 9 - A escrita dos conflitos está coerente? | alto/médio/baixo | | | |
+| 10 - Os conflitos possuem solução? | alto/médio/baixo | | | |
+| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição preferida? | alto/médio/baixo | | | |
+| 12 - As preferências relacionam duas proposições? | alto/médio/baixo | | | |
+| 13 - A argumentação possui conclusão? | alto/médio/baixo | | | |
+| 14 - O fluxo de inferência, conflito, preferência e conclusão está certo? | alto/médio/baixo | | | |
+| 15 - A argumentação possui rastreabilidade? | alto/médio/baixo | | | |
 
 ## Tabela
+### Checklist
 
 | Argumentação | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 | ---- | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | RichPicture | &#10003; | &#10003; |   | &#10003; |   |   |   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |
 | Empresarial | &#10003; | &#10003; |   |   |   | &#10003; | &#10003; |   |   |   |   |   | &#10003; |   |  |
 | Investidores | &#10003; | &#10003; |   | &#10003; |   |   |   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |   |  |
+
+### Relevâncias
+
+| Artefato | Ranking |
+| -------- | :-----: |
+| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
 
 ## Qualidade do Modelo
 
@@ -67,9 +78,23 @@
 ## Números:																																														
 |   | Resultado |
 | - | :---------: |
-| Número de Análises de argumentações: | |
+| Número de argumentações: | |
 | Total de indicadores (Argumentações x Perguntas): |	|
-| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
-| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
-<!-- https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf -->
+## Léxicos importantes identificados:
+- <Léxico X> [x]
+- <Léxico X> [x]
+- <Léxico X> [x]
+
+
+## Validação Geral:
+| Artefato | Nota Geral | Menção | Resultado |
+| -------- | :--------: | :----: | :-------: |
+| Artefato01 | 5.55 | MM | Reprovado |
+| Artefato02 | 4.44 | MI | Reprovado |
+| Artefato03 | 7.77 | MS | Aprovado |
+
+## Bibliografia
+> https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf

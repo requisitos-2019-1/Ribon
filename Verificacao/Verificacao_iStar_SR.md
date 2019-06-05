@@ -2,33 +2,35 @@
 | - | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 | 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
+| 05/01/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
 
 # Verificação - Inspeção [i*](https://github.com/requisitos-2019-1/Ribon/wiki/iStar)
 ## Perguntas
 
-| Questão | Impacto | Contexto |
-| ------- | :-----: | :------: |
-| 1 - O centro do modelo é uma meta? | alto/médio/baixo | |
-| 2 - As setas estão corretamente direcionadas? | alto/médio/baixo | |
-| 3 - As tarefas estão apresentadas por meio de verbos? | alto/médio/baixo | |
-| 4 - Existem ao menos 2 recursos/informações apresentados no modelo? | alto/médio/baixo | |
-| 5 - Existem ao menos 2 critérios de qualidade apresentados no modelo? | alto/médio/baixo | |
-| 6 - As metas são válidas e estão escritas corretamente? | alto/médio/baixo | |
-| 7 - Há clareza na ordem sequencial/cronológica dos artefatos? | alto/médio/baixo | |
-| 8 - Existe dependência externa ao SR? | alto/médio/baixo | |
-| 9 - As dependências no SD estão devidamente representadas (graficamente e semanticamente)? | alto/médio/baixo | |
-| 10 - As tarefas estão descritas de forma correta? | alto |
-| 11 - As metas estão descritas na voz passiva? | médio |
-| 12 - Todos os termos específicos estão presentes nos léxicos? | médio |
-| 13 - A notação está padronizada ? | alto |
-| 14 - Os elementos com apenas um dependente possuem relação OR? | médio |
-| 15 - Os recursos mais importantes foram abordados?  | médio |
-| 16 - O uso das softgoals estão corretas? | alto |
-| 17 - A decomposição em tarefas está correta? | alto |
-| 18 - Os links de contribuição estão corretos/foram utilizados? | médio |
+| Questão | Impacto | Contexto | Justificativa | Tipo |
+| ------- | :-----: | :------: | :-----------: | :--: |
+| 1 - O centro do modelo é uma meta? | alto/médio/baixo | | | |
+| 2 - As setas estão corretamente direcionadas? | alto/médio/baixo | | | |
+| 3 - As tarefas estão apresentadas por meio de verbos? | alto/médio/baixo | | | |
+| 4 - Existem ao menos 2 recursos/informações apresentados no modelo? | alto/médio/baixo | | | |
+| 5 - Existem ao menos 2 critérios de qualidade apresentados no modelo? | alto/médio/baixo | | | |
+| 6 - As metas são válidas e estão escritas corretamente? | alto/médio/baixo | | | |
+| 7 - Há clareza na ordem sequencial/cronológica dos artefatos? | alto/médio/baixo | | | |
+| 8 - Existe dependência externa ao SR? | alto/médio/baixo | | | |
+| 9 - As dependências no SD estão devidamente representadas (graficamente e semanticamente)? | alto/médio/baixo | | | |
+| 10 - As tarefas estão descritas de forma correta? | alto | | | |
+| 11 - As metas estão descritas na voz passiva? | médio | | | |
+| 12 - Todos os termos específicos estão presentes nos léxicos? | médio | | | |
+| 13 - A notação está padronizada ? | alto | | | |
+| 14 - Os elementos com apenas um dependente possuem relação OR? | médio | | | |
+| 15 - Os recursos mais importantes foram abordados?  | médio | | | |
+| 16 - O uso das softgoals estão corretas? | alto | | | |
+| 17 - A decomposição em tarefas está correta? | alto | | | |
+| 18 - Os links de contribuição estão corretos/foram utilizados? | médio | | | |
 
 
 ## Tabela
+### Checklist
 
 | i* | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | ---- | - | - | - | - | - | - | - | - | - |
@@ -40,6 +42,12 @@
 | SR06 - Ler Histórias |  |  |  |  |  |  |  |  |  |
 | SR07 - Verificar Comprovantes |  |  |  |  |  |  |  |  |  |
 | SR08 - Visualizar ONGs |  |  |  |  |  |  |  |  |  |
+
+### Relevâncias
+| Artefato | Ranking |
+| -------- | :-----: |
+| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
 
 ## Qualidade do Modelo
 
@@ -71,12 +79,26 @@
   - Avaliado 2
     - Falha 1
     - Falha 2
+
+## Léxicos importantes identificados:
+- <Léxico X> [x]
+- <Léxico X> [x]
+- <Léxico X> [x]
+
 ## Números:																																														
 |   | Resultado |
 | - | :---------: |
-| Número de Análises de SRs: | |
+| Número de SRs: | |
 | Total de indicadores (SRs x Perguntas): |	|
-| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
-| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
-<!-- https://aprender.ead.unb.br/pluginfile.php/348668/mod_resource/content/10/Requisitos%20-%20Aula%20020a.pdf -->
+## Validação Geral:
+| Artefato | Nota Geral | Menção | Resultado |
+| -------- | :--------: | :----: | :-------: |
+| Artefato01 | 5.55 | MM | Reprovado |
+| Artefato02 | 4.44 | MI | Reprovado |
+| Artefato03 | 7.77 | MS | Aprovado |
+
+## Bibliografia
+> https://aprender.ead.unb.br/pluginfile.php/348668/mod_resource/content/10/Requisitos%20-%20Aula%20020a.pdf

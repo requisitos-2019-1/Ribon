@@ -50,18 +50,18 @@ class App:
         self.root.after(500, self.xd)
         self.root.mainloop()
 
-    def retrieve_questions(self, path, depth=1, ext='.md', base='Verificação/'):
-        end = '/*'*depth+ext
-        for current_filename in glob.iglob(base+path+end, recursive=True):
-            model = current_filename.split('/')[-1].split('Verificação_')[-1].split('.md')[0]
+    # def retrieve_questions(self, path, depth=1, ext='.md', base='Verificação/'):
+    #     end = '/*'*depth+ext
+    #     for current_filename in glob.iglob(base+path+end, recursive=True):
+    #         model = current_filename.split('/')[-1].split('Verificação_')[-1].split('.md')[0]
             
-        perguntas='''
-        1 - Os itens classificados estão realmente de acordo com a prioridade que devia estar?
-        2 - Existe duplicidade de requisitos?
-        3 - Existe Rastro do requisito?
-        4 - Existe ambiguidade na escrita do requisito?
-        '''.split('\n')
-        return
+    #     perguntas='''
+    #     1 - Os itens classificados estão realmente de acordo com a prioridade que devia estar?
+    #     2 - Existe duplicidade de requisitos?
+    #     3 - Existe Rastro do requisito?
+    #     4 - Existe ambiguidade na escrita do requisito?
+    #     '''.split('\n')
+    #     return
 
     # def rsvp_display(self, current_question):
 	# 	self.begin_edit()

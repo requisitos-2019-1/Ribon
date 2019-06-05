@@ -2,18 +2,20 @@
 | - | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 | 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
+| 05/01/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
 
 # Verificação - Inspeção Priorização
 ## Perguntas
 
-| Questão | Impacto | Contexto |
-| ------- | :-----: | :------: |
-| 1 - Os itens classificados estão realmente de acordo com a prioridade que devia estar? | alto/médio/baixo | |
-| 2 - Existe duplicidade de requisitos? | alto/médio/baixo | |
-| 3 - Existe Rastro do requisito? | alto/médio/baixo | |
-| 4 - Existe ambiguidade na escrita do requisito? | alto/médio/baixo | |
+| Questão | Impacto | Contexto | Justificativa | Tipo |
+| ------- | :-----: | :------: | :-----------: | :--: |
+| 1 - Os itens classificados estão realmente de acordo com a prioridade que devia estar? | alto/médio/baixo | | | |
+| 2 - Existe duplicidade de requisitos? | alto/médio/baixo | | | |
+| 3 - Existe Rastro do requisito? | alto/médio/baixo | | | |
+| 4 - Existe ambiguidade na escrita do requisito? | alto/médio/baixo | | | |
 
 ## Tabela
+### Checklist
 
 | Priorização | 1 | 2 | 3 | 4 |
 | ---- | - | - | - | - |
@@ -66,6 +68,13 @@
 | RF47 |  |  |  |  |
 | RF48 |  |  |  |  |
 
+### Relevâncias
+| Artefato | Ranking |
+| -------- | :-----: |
+| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+
+
 ## Qualidade do Modelo
 
 ### Critérios de qualidade:
@@ -100,8 +109,22 @@
 ## Números:																																														
 |   | Resultado |
 | - | :---------: |
-| Número de Análises de priorizações: | |
+| Número de priorizações: | |
 | Total de indicadores (Priorizações x Perguntas): |	|
-| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
-| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
-<!-- https://aprender.ead.unb.br/pluginfile.php/348648/mod_resource/content/3/Requisitos%20-%20Aula%2007.pdf -->
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+
+## Léxicos importantes identificados:
+- <Léxico X> [x]
+- <Léxico X> [x]
+- <Léxico X> [x]
+
+## Validação Geral:
+| Artefato | Nota Geral | Menção | Resultado |
+| -------- | :--------: | :----: | :-------: |
+| Artefato01 | 5.55 | MM | Reprovado |
+| Artefato02 | 4.44 | MI | Reprovado |
+| Artefato03 | 7.77 | MS | Aprovado |
+
+## Bibliografia
+> https://aprender.ead.unb.br/pluginfile.php/348648/mod_resource/content/3/Requisitos%20-%20Aula%2007.pdf

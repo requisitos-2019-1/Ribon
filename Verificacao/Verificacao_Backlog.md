@@ -4,27 +4,29 @@
 | 04/06/2019 | 1.1 | Respondendo as perguntas | Henrique Martins |
 | 04/06/2019 | 1.2 | Verificando Qualidade das histórias de usuário | Henrique Martins |
 | 05/01/2019 | 1.3 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
+| 05/01/2019 | 1.4 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
 
 # Verificação - Inspeção [Backlog de Produto](https://github.com/requisitos-2019-1/Ribon/wiki/Backlog-de-Produto)
 ## Perguntas
 
-| Questão | Impacto | Contexto |
-| ------- | :-----: | :------: |
-| 1 - A história é separada por tema? | alto/médio/baixo | |
-| 2 - A história está em um único padrão de escrita? | alto/médio/baixo | |
-| 3 - A história apresenta épico? | alto/médio/baixo | |
-| 4 - A história apresenta features? | alto/médio/baixo | |
-| 5 - A história possui um ID de especificação enumerada em ordem crescente? | alto/médio/baixo | |
-| 6 - A história é pontuada de acordo com a sequência de Fibonacci? | alto/médio/baixo | |
-| 7 - A história é priorizada pelo modelo MoSCoW? | alto/médio/baixo | |
-| 8 - A descrição do tema e épico da história são coerentes? | alto/médio/baixo | |
-| 9 - A Sprint dessa história está pontuado? | alto/médio/baixo | |
-| 10 - A história especifica ao menos 1 critério de aceitação? | alto/médio/baixo | |
-| 11 - A história identifica o usuário principal? | alto/médio/baixo | |
-| 12 - A história apresenta um ou mais links dos seus respectivos rastreamentos? | alto/médio/baixo | |
-| 13 - "O que” e o “para que” estão definidos na descrição da história? | alto/médio/baixo | |
+| Questão | Impacto | Contexto | Justificativa | Tipo |
+| ------- | :-----: | :------: | :-----------: | :--: |
+| 1 - A história é separada por tema? | alto/médio/baixo | | | |
+| 2 - A história está em um único padrão de escrita? | alto/médio/baixo | | | |
+| 3 - A história apresenta épico? | alto/médio/baixo | | | |
+| 4 - A história apresenta features? | alto/médio/baixo | | | |
+| 5 - A história possui um ID de especificação enumerada em ordem crescente? | alto/médio/baixo | | | |
+| 6 - A história é pontuada de acordo com a sequência de Fibonacci? | alto/médio/baixo | | | |
+| 7 - A história é priorizada pelo modelo MoSCoW? | alto/médio/baixo | | | |
+| 8 - A descrição do tema e épico da história são coerentes? | alto/médio/baixo | | | |
+| 9 - A Sprint dessa história está pontuado? | alto/médio/baixo | | | |
+| 10 - A história especifica ao menos 1 critério de aceitação? | alto/médio/baixo | | | |
+| 11 - A história identifica o usuário principal? | alto/médio/baixo | | | |
+| 12 - A história apresenta um ou mais links dos seus respectivos rastreamentos? | alto/médio/baixo | | | |
+| 13 - "O que” e o “para que” estão definidos na descrição da história? | alto/médio/baixo | | | |
 
 ## Tabela
+### Checklist
 
 | Backlog de Produto | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 | ---- | - | - | - | - | - | - | - | - | - | - | - | - | - |
@@ -83,6 +85,12 @@
 | US053 | &#10003; | &#10003; |  |  | &#10003; |  | &#10003; |  |  |  | &#10003; |  | &#10003; |
 | US054 | &#10003; | &#10003; |  |  | &#10003; |  | &#10003; |  |  |  | &#10003; |  | &#10003; |
 
+### Relevâncias
+| Artefato | Ranking |
+| -------- | :-----: |
+| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+
 ## Qualidade do Modelo
 
 ### Critérios de qualidade:
@@ -112,9 +120,23 @@
 ## Números:																																														
 |   | Resultado |
 | - | :---------: |
-| Número de Análises de backlogs: | |
+| Número de backlogs: | |
 | Total de indicadores (Backlogs x Perguntas): |	|
-| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
-| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
-<!-- https://aprender.ead.unb.br/pluginfile.php/348662/mod_resource/content/5/Requisitos%20-%20Aula%2015a.pdf -->
-<!-- -->
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+
+## Léxicos importantes identificados:
+- <Léxico X> [x]
+- <Léxico X> [x]
+- <Léxico X> [x]
+
+
+## Validação Geral:
+| Artefato | Nota Geral | Menção | Resultado |
+| -------- | :--------: | :----: | :-------: |
+| Artefato01 | 5.55 | MM | Reprovado |
+| Artefato02 | 4.44 | MI | Reprovado |
+| Artefato03 | 7.77 | MS | Aprovado |
+
+## Bibliografia
+> https://aprender.ead.unb.br/pluginfile.php/348662/mod_resource/content/5/Requisitos%20-%20Aula%2015a.pdf -->
