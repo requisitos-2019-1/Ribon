@@ -75,3 +75,5 @@
 
  ### Qualidade Alta
   - Não houve argumentação com 1 reprovação ou menos
+
+<!-- https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf -->
