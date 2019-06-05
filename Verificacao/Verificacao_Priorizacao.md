@@ -1,17 +1,17 @@
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
+| 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 
 # Verificação - Inspeção Priorização
 ## Perguntas
 
-1 - Os itens classificados estão realmente de acordo com a prioridade que devia estar?
-
-2 - Existe duplicidade de requisitos?
-
-3 - Existe Rastro do requisito?
-
-4 - Existe ambiguidade na escrita do requisito?
+| Questão | Impacto | Contexto |
+| ------- | :-----: | :------: |
+| 1 - Os itens classificados estão realmente de acordo com a prioridade que devia estar? | alto/médio/baixo | |
+| 2 - Existe duplicidade de requisitos? | alto/médio/baixo | |
+| 3 - Existe Rastro do requisito? | alto/médio/baixo | |
+| 4 - Existe ambiguidade na escrita do requisito? | alto/médio/baixo | |
 
 ## Tabela
 
@@ -96,3 +96,12 @@
   - Avaliado 2
     - Falha 1
     - Falha 2
+
+## Números:																																														
+|   | Resultado |
+| - | :---------: |
+| Número de Análises de priorizações: | |
+| Total de indicadores (Priorizações x Perguntas): |	|
+| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+<!-- https://aprender.ead.unb.br/pluginfile.php/348648/mod_resource/content/3/Requisitos%20-%20Aula%2007.pdf -->

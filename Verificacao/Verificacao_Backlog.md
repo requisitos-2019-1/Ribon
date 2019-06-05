@@ -3,35 +3,26 @@
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 | 04/06/2019 | 1.1 | Respondendo as perguntas | Henrique Martins |
 | 04/06/2019 | 1.2 | Verificando Qualidade das histórias de usuário | Henrique Martins |
+| 05/01/2019 | 1.3 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 
 # Verificação - Inspeção [Backlog de Produto](https://github.com/requisitos-2019-1/Ribon/wiki/Backlog-de-Produto)
 ## Perguntas
 
-1 - A história é separada por tema?
-
-2 - A história está em um único padrão de escrita?
-
-3 - A história apresenta épico?
-
-4 - A história apresenta features?
-
-5 - A história possui um ID de especificação enumerada em ordem crescente?
-
-6 - A história é pontuada de acordo com a sequência de Fibonacci?
-
-7 - A história é priorizada pelo modelo MoSCoW?
-
-8 - A descrição do tema e épico da história são coerentes?
-
-9 - A Sprint dessa história está pontuado?
-
-10 - A história especifica ao menos 1 critério de aceitação?
-
-11 - A história identifica o usuário principal?
-
-12 - A história apresenta um ou mais links dos seus respectivos rastreamentos?
-
-13 - "O que” e o “para que” estão definidos na descrição da história?
+| Questão | Impacto | Contexto |
+| ------- | :-----: | :------: |
+| 1 - A história é separada por tema? | alto/médio/baixo | |
+| 2 - A história está em um único padrão de escrita? | alto/médio/baixo | |
+| 3 - A história apresenta épico? | alto/médio/baixo | |
+| 4 - A história apresenta features? | alto/médio/baixo | |
+| 5 - A história possui um ID de especificação enumerada em ordem crescente? | alto/médio/baixo | |
+| 6 - A história é pontuada de acordo com a sequência de Fibonacci? | alto/médio/baixo | |
+| 7 - A história é priorizada pelo modelo MoSCoW? | alto/médio/baixo | |
+| 8 - A descrição do tema e épico da história são coerentes? | alto/médio/baixo | |
+| 9 - A Sprint dessa história está pontuado? | alto/médio/baixo | |
+| 10 - A história especifica ao menos 1 critério de aceitação? | alto/médio/baixo | |
+| 11 - A história identifica o usuário principal? | alto/médio/baixo | |
+| 12 - A história apresenta um ou mais links dos seus respectivos rastreamentos? | alto/médio/baixo | |
+| 13 - "O que” e o “para que” estão definidos na descrição da história? | alto/médio/baixo | |
 
 ## Tabela
 
@@ -117,3 +108,13 @@
   
  ### Qualidade Alta
   - Não houve argumentação com 1 reprovação ou menos
+
+## Números:																																														
+|   | Resultado |
+| - | :---------: |
+| Número de Análises de backlogs: | |
+| Total de indicadores (Backlogs x Perguntas): |	|
+| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+<!-- https://aprender.ead.unb.br/pluginfile.php/348662/mod_resource/content/5/Requisitos%20-%20Aula%2015a.pdf -->
+<!-- -->

@@ -1,17 +1,17 @@
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
+| 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 
 # Verificação - Inspeção [Léxicos](https://github.com/requisitos-2019-1/Ribon/wiki/L%C3%A9xicos)
 ## Perguntas
 
-1 - Os léxicos são classificados em: verbo, estado, objeto ou sujeito?
-
-2 - Os léxicos possuem títulos de acordo com seu tipo ?
-
-3 - Cada léxico possui uma noção e um impacto ?
-
-4 - Todos os sinônimos foram mencionados em pelo menos um cenário ou outro léxico?
+| Questão | Impacto | Contexto |
+| ------- | :-----: | :------: |
+| 1 - Os léxicos são classificados em: verbo, estado, objeto ou sujeito? | alto/médio/baixo | |
+| 2 - Os léxicos possuem títulos de acordo com seu tipo ? | alto/médio/baixo | |
+| 3 - Cada léxico possui uma noção e um impacto ? | alto/médio/baixo | |
+| 4 - Todos os sinônimos foram mencionados em pelo menos um cenário ou outro léxico? | alto/médio/baixo | |
 
 ## Tabela
 
@@ -79,3 +79,13 @@
   - Avaliado 2
     - Falha 1
     - Falha 2
+
+## Números:																																														
+|   | Resultado |
+| - | :---------: |
+| Número de Análises de lexicos: | |
+| Total de indicadores (Lexicos x Perguntas): |	|
+| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+
+<!-- https://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf -->

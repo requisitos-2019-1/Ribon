@@ -1,27 +1,22 @@
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
+| 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 
 # Verificação - Inspeção [Cenários](https://github.com/requisitos-2019-1/Ribon/wiki/Cen%C3%A1rios)
 ## Perguntas
 
-1 - Os cenários possuem títulos ?
-
-2 - Os cenários possuem um objetivo ?
-
-3 - Os cenários possuem um contexto ?
-
-4 - Os cenários possuem uma lista com os recursos utilizados por eles?
-
-5 - Os cenários estão linkados com o léxicos ?
-
-6 - Os atores estão linkados com léxicos ?
-
-7 - Os episódios descrevem a ação dos atores ?
-
-8 - Nos cenários que contêm restrições, elas representam requisitos que devem ser cumpridos para o cenário ocorrer?
-
-9 - Nos cenários que contêm exceções, elas representam alguma situação que foge ao cenário e o impede de acontecer?
+| Questão | Impacto | Contexto |
+| ------- | :-----: | :------: |
+| 1 - Os cenários possuem títulos ? | alto/médio/baixo | |
+| 2 - Os cenários possuem um objetivo ? | alto/médio/baixo | |
+| 3 - Os cenários possuem um contexto ? | alto/médio/baixo | |
+| 4 - Os cenários possuem uma lista com os recursos utilizados por eles? | alto/médio/baixo | |
+| 5 - Os cenários estão linkados com o léxicos ? | alto/médio/baixo | |
+| 6 - Os atores estão linkados com léxicos ? | alto/médio/baixo | |
+| 7 - Os episódios descrevem a ação dos atores ? | alto/médio/baixo | |
+| 8 - Nos cenários que contêm restrições, elas representam requisitos que devem ser cumpridos para o cenário ocorrer? | alto/médio/baixo | |
+| 9 - Nos cenários que contêm exceções, elas representam alguma situação que foge ao cenário e o impede de acontecer? | alto/médio/baixo | |
 
 ## Tabela
 
@@ -72,3 +67,13 @@
   - Avaliado 2
     - Falha 1
     - Falha 2
+
+## Números:																																														
+|   | Resultado |
+| - | :---------: |
+| Número de Análises de cenários: | |
+| Total de indicadores (cenários x Perguntas): |	|
+| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+
+<!-- https://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf -->

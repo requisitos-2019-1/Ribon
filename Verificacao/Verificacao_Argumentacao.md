@@ -1,40 +1,28 @@
 | Data | Versão | Descrição | Autor |
 | ---- | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
-| 31/05/2019 | 2.0 | Criação da Verificação de Argumentação | Henrique Martins |
-
+| 31/05/2019 | 1.1 | Criação da Verificação de Argumentação | Henrique Martins |
+| 05/01/2019 | 1.2 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 # Verificação - Inspeção [Argumentação](https://github.com/requisitos-2019-1/Ribon/wiki/Argumenta%C3%A7%C3%A3o)
 ## Perguntas
 
-1 - A escrita das proposições está coerente?
-
-2 - Todos os vértices possuem rótulo?
-
-3 - A argumentação possui mais de uma inferência?
-
-4 - A argumentação possui mais de um conflito?
-
-5 - A argumentação possui mais de uma preferência?
-
-6 - A escrita das inferências está coerente?
-
-7 - As inferências relacionam, no mínimo, duas proposições?
-
-8 - Os conflitos relacionam, no mínimo, duas proposições?
-
-9 - A escrita dos conflitos está coerente?
-
-10 - Os conflitos possuem solução?
-
-11 - Os conflitos entre preferências e conflitos também apontam para a proposição preferida?
-
-12 - As preferências relacionam duas proposições?
-
-13 - A argumentação possui conclusão?
-
-14 - O fluxo de inferência, conflito, preferência e conclusão está certo?
-
-15 - A argumentação possui rastreabilidade?
+| Questão | Impacto | Contexto |
+| ------- | :-----: | :------: |
+| 1 - A escrita das proposições está coerente? | alto/médio/baixo | |
+| 2 - Todos os vértices possuem rótulo? | alto/médio/baixo | |
+| 3 - A argumentação possui mais de uma inferência? | alto/médio/baixo | |
+| 4 - A argumentação possui mais de um conflito? | alto/médio/baixo | |
+| 5 - A argumentação possui mais de uma preferência? | alto/médio/baixo | |
+| 6 - A escrita das inferências está coerente? | alto/médio/baixo | |
+| 7 - As inferências relacionam, no mínimo, duas proposições? | alto/médio/baixo | |
+| 8 - Os conflitos relacionam, no mínimo, duas proposições? | alto/médio/baixo | |
+| 9 - A escrita dos conflitos está coerente? | alto/médio/baixo | |
+| 10 - Os conflitos possuem solução? | alto/médio/baixo | |
+| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição preferida? | alto/médio/baixo | |
+| 12 - As preferências relacionam duas proposições? | alto/médio/baixo | |
+| 13 - A argumentação possui conclusão? | alto/médio/baixo | |
+| 14 - O fluxo de inferência, conflito, preferência e conclusão está certo? | alto/médio/baixo | |
+| 15 - A argumentação possui rastreabilidade? | alto/médio/baixo | |
 
 ## Tabela
 
@@ -75,5 +63,13 @@
 
  ### Qualidade Alta
   - Não houve argumentação com 1 reprovação ou menos
+
+## Números:																																														
+|   | Resultado |
+| - | :---------: |
+| Número de Análises de argumentações: | |
+| Total de indicadores (Argumentações x Perguntas): |	|
+| Taxa de erro de perguntas (Erros / Total de indicadores): |	 |
+| Total de pontos de erro com impacto<br />(Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 <!-- https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf -->

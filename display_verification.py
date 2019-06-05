@@ -81,3 +81,5 @@ class App:
         self.canvas.itemconfig(self.current_image, image = self.img2)
 
 app = App()
+
+## passar argumentos pra func é: widget.after(10, self.runBackup, mybackup)
