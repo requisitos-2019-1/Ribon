@@ -22,8 +22,8 @@
 
 | i* | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | ---- | - | - | - | - | - | - | - | - | - |
-| SD01 - Coletar ribon diário |  |  |  |  |  |  |  |  |  |
-| SD02 - Comprar Ribon |  |  |  |  |  |  |  |  |  |
+| SD01 - Coletar ribon diário |  |  | &#10003; |  |  | &#10003; | &#10003; |  |  |
+| SD02 - Comprar Ribon |  | &#10003; | &#10003; |  |  | &#10003; | &#10003; |  |  |
 
 
 ## Qualidade do Modelo
