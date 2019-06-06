@@ -3,6 +3,7 @@
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 | 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 | 05/01/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+| 05/01/2019 | 1.3 | Adicionando mais perguntas (baseadas no grupo [Pinterest](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/pre_rastreabilidade_analise/))
 
 # Verificação - Inspeção [RichPicture](https://github.com/requisitos-2019-1/Ribon/wiki/Rich-picture)
 ## Perguntas
@@ -19,6 +20,13 @@
 | 8 - Não há restrições no conteúdo, com exceção do ambiente cultural? | alto/médio/baixo | | | |
 | 9 - Ele pode mostrar conflitos, emoções, políticas etc? | alto/médio/baixo | | | |
 | 10 - O modelo é capaz de fornecer uma base para comunicação e negociação? | alto/médio/baixo | | | |
+| 11 - A simbologia está coerente? | | | | |
+| 12 - Existe equilíbrio entre palavras e desenhos? | | | | |
+| 13 - Os atores estão bem definidos? | | | | |
+| 14 - O fluxo e as operações fazem sentido? | | | | |
+| 15 - Possui operações suficientes para atender a proposta? | | | | |
+| 16 - Usa linguagem compreensível? | | | | |
+| 17 - Possui rastreabilidade | | | | |
 
 ## Tabela
 ### Checklist

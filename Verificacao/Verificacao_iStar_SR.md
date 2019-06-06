@@ -3,6 +3,7 @@
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 | 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 | 05/01/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+| 05/01/2019 | 1.3 | Adicionando mais perguntas (baseadas no grupo [Pinterest](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/pre_rastreabilidade_analise/))
 
 # Verificação - Inspeção [i*](https://github.com/requisitos-2019-1/Ribon/wiki/iStar)
 ## Perguntas
@@ -27,7 +28,15 @@
 | 16 - O uso das softgoals estão corretas? | alto | | | |
 | 17 - A decomposição em tarefas está correta? | alto | | | |
 | 18 - Os links de contribuição estão corretos/foram utilizados? | médio | | | |
-
+| 19 - Está baseado em alguma documentação? | | | | |
+| 20 - Possui todos os elementos necessários (softgoal, meta, recurso, tarefas)? | | | | |
+| 21 - Os atores foram representados de forma correta? | | | | |
+| 22 - A ligações com 'and' e 'or' foram feitas corretamente? | | | | |
+| 23 - As ligações de 'and' e 'or' estão na ultima versão do framework? | | | | |
+| 24 - Está esteticamente padronizado com os demais diagramas? | | | | |
+| 25 - As ligações representadas de acordo com a sua função? | | | | |
+| 26 - Os hardgoals estão bem definidos(voz passiva)? | | | | |
+| 27 - Os hardgoals estão presentes no SD? | | | | |
 
 ## Tabela
 ### Checklist

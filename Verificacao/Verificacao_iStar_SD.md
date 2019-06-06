@@ -3,6 +3,7 @@
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
 | 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 | 05/01/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+| 05/01/2019 | 1.3 | Adicionando mais perguntas (baseadas no grupo [Pinterest](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/pre_rastreabilidade_analise/))
 
 # Verificação - Inspeção [i*](https://github.com/requisitos-2019-1/Ribon/wiki/iStar)
 ## Perguntas
@@ -26,6 +27,16 @@
 | 15 - Os termos especificos presentes no SD estão documentados em léxicos ? | alto/médio/baixo | | | |
 | 16 - A notação está padronizada? | alto/médio/baixo | | | |
 | 17 - As relações de dependência estão corretas? | alto/médio/baixo | | | |
+| 18 - Os atores mais importantes estão sendo representados ? | | | | |
+| 19 - Possui todos os elementos necessários? | | | | |
+| 20 - Os softgoals têm relação com os requisitos não funcionais levantados anteriormente? | | | | |
+| 21 - Todas as tarefas estão corretamente representadas ? | | | | |
+| 22 - As metas estão descritas na linguagem passiva? | | | | |
+| 23 - Os softgoals representam critérios de qualidade? | | | | |
+| 24 - As dependências estão no sentido correto? | | | | |
+| 25 - O diagrama está de acordo com a última versão do framework? | | | | |
+| 26 - Os elementos utilizados (meta, tarefa, recurso, agentes) foram escolhidos de forma correta (condizem com o seu objetivo no framework)? | | | | |
+| 27 - Os elementos metas estão descritos na voz passiva? | | | | |
 
 ## Tabela
 ### Checklist

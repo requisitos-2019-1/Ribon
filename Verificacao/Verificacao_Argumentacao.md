@@ -4,6 +4,7 @@
 | 31/05/2019 | 1.1 | Criação da Verificação de Argumentação | Henrique Martins |
 | 05/01/2019 | 1.2 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 | 05/01/2019 | 1.3 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+| 05/01/2019 | 1.4 | Adicionando mais perguntas (baseadas no grupo [Pinterest](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/pre_rastreabilidade_analise/))
 
 
 # Verificação - Inspeção [Argumentação](https://github.com/requisitos-2019-1/Ribon/wiki/Argumenta%C3%A7%C3%A3o)
@@ -26,6 +27,14 @@
 | 13 - A argumentação possui conclusão? | alto/médio/baixo | | | |
 | 14 - O fluxo de inferência, conflito, preferência e conclusão está certo? | alto/médio/baixo | | | |
 | 15 - A argumentação possui rastreabilidade? | alto/médio/baixo | | | |
+| 16 - Chegou a conclusão de forma verbal | Alta | | | |
+| 17 - Mais de uma pessoa participou da discussão | Alta | | | |
+| 18 - Teve uma inferência de argumentos | Alta | | | |
+| 19 - Argumentos diferentes geraram conflitos | Alta | | | |
+| 20 - Chegou-se a uma preferência para um dos argumentos | Alta | | | |
+| 21 - Outra discordância gerou um novo argumento | Baixa | | | |
+| 22 - O novo argumento gerou conflito com o argumento preferido | Alta | | | |
+| 23 - Os participantes chegaram a uma conclusão | Alta | | | |
 
 ## Tabela
 ### Checklist

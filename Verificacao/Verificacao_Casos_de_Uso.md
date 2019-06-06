@@ -19,6 +19,23 @@
 | 9. Quando existe um relacionamento de generalização, este é usado para funcionalidades que foram re-usadas? | baixo | | | |
 | 10. Possui descrição dos atores? | baixo | | | |
 | 11. Possui descrição dos casos de usos, com o fluxo<br />principal e os alternativos descritos? | médio | | | |
+| 12. A descrição de caso de uso é a de um caso de uso representado no diagrama? | alto | | | |
+| 13. A descrição de caso de uso contém nome do caso de uso, nome do autor, fluxo básico e alternativo?<br />(se não houver um fluxo alternativo definido, considerar se ele esta especificado dentro do fluxo básico)  | alto | | | |
+| 14. As frases representam um diâogo entre ator e sistema, evidenciando a ação do ator e a resposta do sistema? | médio | | | |
+| 15. As frases são construidas em voz ativa?<br />(ex.: "Sistema valida a quantia informada" em vez de "A quantia informada deve ser validada pelo sistema").  | baixo | | | |
+| 16. As frases utilizam o tempo presente? | baixo | | | |
+| 17. São evitados termos sem quantificação precisa, como "muito", "pouco°, "adequado", "claro", "fácil" "longo" "curto", "rápido" "etc"? | médio | | | |
+| 18. São evitados termos que indicam opção, como "possivelmente", "alternativamente", "no caso", "se", etc, sem especificar um fluxo alternativo? | médio | | | |
+| 19. Os termos passiveis de mas de uma interpretação constam em glossário, com clara definição? | alto | | | |
+| 20. Uma vez utilizado um termo, ele é mantido para referenciar-se ao mesmo elemento? | baixo | | | |
+| 21. São evitados termos que indicam a prematura especificação de interface, tais como "chcar. "botão" etc? | médio| | | |
+| 22. As funcionalidades se restringem ao quê o sistema deve fazer e não em como, evitando a definição explicita de código na especificação? | médio | | | |
+| 23. A descrição evita requisitos de negócio sem ação direta ao sistema? | médio | | | |
+| 24. Fia presença de breve descrição ou resumo no inicio da descrição de caso de uso, que especifique de forma clara o seu propósito? | baixo | | | |
+| 25. O fluxo básico está aparentemente completo, isto e, há inexistência de evidências claras de incompleteza na especificação? | alto | | | |
+| 26. As frases são numeradas para que possibilitem a rastreabilidade? | médio | | | |
+| 27. As frases procuram ser objetivas, evitando redundâncias ou presença de informações evidentemente desnecessárias? | médio | | | |
+
 
 ## Tabela
 ### Checklist
