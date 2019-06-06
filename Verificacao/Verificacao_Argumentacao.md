@@ -4,46 +4,43 @@
 | 31/05/2019 | 1.1 | Criação da Verificação de Argumentação | Henrique Martins |
 | 05/01/2019 | 1.2 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 | 05/01/2019 | 1.3 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
-| 05/01/2019 | 1.4 | Adicionando mais perguntas (baseadas no grupo [Pinterest](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/pre_rastreabilidade_analise/))
-
+| 05/01/2019 | 1.4 | Adicionando mais perguntas (baseadas no grupo [Pinterest](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/pre_rastreabilidade_analise/)) |
+| 06/01/2019 | 1.5 | Refinando perguntas, adicionando tipos e tabelas de verificação | Henrique Martins, Guilherme de Lyra, Victor Rodrigues |
 
 # Verificação - Inspeção [Argumentação](https://github.com/requisitos-2019-1/Ribon/wiki/Argumenta%C3%A7%C3%A3o)
 ## Perguntas
 
-| Questão | Impacto | Contexto | Justificativa | Tipo |
-| ------- | :-----: | :------: | :-----------: | :--: |
-| 1 - A escrita das proposições está coerente? | alto/médio/baixo | | | |
-| 2 - Todos os vértices possuem rótulo? | alto/médio/baixo | | | |
-| 3 - A argumentação possui mais de uma inferência? | alto/médio/baixo | | | |
-| 4 - A argumentação possui mais de um conflito? | alto/médio/baixo | | | |
-| 5 - A argumentação possui mais de uma preferência? | alto/médio/baixo | | | |
-| 6 - A escrita das inferências está coerente? | alto/médio/baixo | | | |
-| 7 - As inferências relacionam, no mínimo, duas proposições? | alto/médio/baixo | | | |
-| 8 - Os conflitos relacionam, no mínimo, duas proposições? | alto/médio/baixo | | | |
-| 9 - A escrita dos conflitos está coerente? | alto/médio/baixo | | | |
-| 10 - Os conflitos possuem solução? | alto/médio/baixo | | | |
-| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição preferida? | alto/médio/baixo | | | |
-| 12 - As preferências relacionam duas proposições? | alto/médio/baixo | | | |
-| 13 - A argumentação possui conclusão? | alto/médio/baixo | | | |
-| 14 - O fluxo de inferência, conflito, preferência e conclusão está certo? | alto/médio/baixo | | | |
-| 15 - A argumentação possui rastreabilidade? | alto/médio/baixo | | | |
-| 16 - Chegou a conclusão de forma verbal | Alta | | | |
-| 17 - Mais de uma pessoa participou da discussão | Alta | | | |
-| 18 - Teve uma inferência de argumentos | Alta | | | |
-| 19 - Argumentos diferentes geraram conflitos | Alta | | | |
-| 20 - Chegou-se a uma preferência para um dos argumentos | Alta | | | |
-| 21 - Outra discordância gerou um novo argumento | Baixa | | | |
-| 22 - O novo argumento gerou conflito com o argumento preferido | Alta | | | |
-| 23 - Os participantes chegaram a uma conclusão | Alta | | | |
+| Questão | Impacto | Contexto | Justificativa do Impacto | Tipo |
+| ------- | :-----: | :------: | :----------------------: | :--: |
+| 1 - A escrita das proposições está coerente? | Alto/Médio/Baixo | | Para que o entedimento do proposito do baguio seja melhor | Numérico |
+| 2 - Todos os vértices possuem rótulo? | Alto/Médio/Baixo | | | Binário |
+| 3 - A argumentação possui mais de uma inferência? | Alto/Médio/Baixo | | | Numérico |
+| 4 - A argumentação possui mais de um conflito? | Alto/Médio/Baixo | | | Numérico |
+| 5 - A argumentação possui mais de uma preferência? | Alto/Médio/Baixo | | | Numérico |
+| 6 - A escrita das inferências está coerente? | Alto/Médio/Baixo | | | Numérico |
+| 7 - As inferências relacionam, no mínimo, duas proposições? | Alto/Médio/Baixo | | | Numérico |
+| 8 - Os conflitos relacionam, no mínimo, duas proposições? | Alto/Médio/Baixo | | | Numérico |
+| 9 - A escrita dos conflitos está coerente? | Alto/Médio/Baixo | | | Numérico |
+| 10 - Os conflitos possuem solução? | Alto/Médio/Baixo | | | Binário |
+| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição preferida? | Alto/Médio/Baixo | | | Binário |
+| 12 - As preferências relacionam duas proposições? | Alto/Médio/Baixo | | | Binário |
+| 13 - A argumentação possui conclusão? | Alto/Médio/Baixo | | | Binário |
+| 14 - O fluxo de inferência, conflito, preferência e conclusão está certo? | Alto/Médio/Baixo | | | Numérico |
+| 15 - A argumentação possui rastreabilidade? | Alto/Médio/Baixo | | | Binário |
+| 16 - Chegou a conclusão de forma verbal | Alto | | | Binário |
+| 17 - Mais de uma pessoa participou da discussão | Alto | | | Numérico |
+| 18 - Outra discordância gerou um novo argumento | Baixo | | | Binário |
+| 19 - O novo argumento gerou conflito com o argumento preferido | Alto | | | Binário |
+| 20 - Os participantes chegaram a uma conclusão | Alto | "Uma das principais metas da argumentação é a resolução de conflitos" (Rahwan, 2005) | | Binário |
 
 ## Tabela
 ### Checklist
 
-| Argumentação | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| ---- | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| RichPicture | &#10003; | &#10003; |   | &#10003; |   |   |   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |
-| Empresarial | &#10003; | &#10003; |   |   |   | &#10003; | &#10003; |   |   |   |   |   | &#10003; |   |  |
-| Investidores | &#10003; | &#10003; |   | &#10003; |   |   |   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |   |  |
+| Argumentação      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| ----------------- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| A001_RichPicture  | &#10003; | &#10003; |   | &#10003; |   |   |   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |  |  |  |  |
+| A002_Empresarial  | &#10003; | &#10003; |   |   |   | &#10003; | &#10003; |   |   |   |   |   | &#10003; |   |  |  |  |  |  |  |
+| A003_Investidores | &#10003; | &#10003; |   | &#10003; |   |   |   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |   |  |  |  |  |  |  |
 
 ### Relevâncias
 
@@ -51,6 +48,37 @@
 | -------- | :-----: |
 | A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
 | A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+
+### Verificação
+#### Glossário
+
+| expressão | significado |
+| --- | --- |
+| & | se refere aos artefatos |
+| # | se refere às perguntas |
+| &todos | todos os artefatos foram analisados |
+| #todas | todas as perguntas foram analisadas |
+| &1..3  | todos os artefatos de 1 até 3 foram analisados |
+| #1..8 | todas as perguntas de 1 até 8 foram analisadas |
+
+#### Auditoria V1
+| Auditor | &Artefato (#Perguntas) |
+| --- | --- |
+| Henrique | &Richpicture (#todas) | &Investidores (#1..3) | 
+| Guilherme | &Investidores (#1..3) |
+
+#### Auditoria V2
+| Auditor | Artefato | Perguntas |
+| --- | --- | --- |
+| Henrique | Richpicture | todas |
+| Henrique | Investidores | 1, 2, 3 |
+| Guilherme | Investidores | 1, 2, 3 |
+
+#### Auditoria V3
+| Artefato     | Auditor (#Perguntas, Data) |
+| ------------ | ------- |
+| Richpicture  | Henrique (#todas, 31/05/2019) |
+| Investidores | Henrique (#1..3, 31/02/2019) <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(#5..8, 35/02/2019)<br />Guilherme (#1..3, 31/02/2019) |
 
 ## Qualidade do Modelo
 
