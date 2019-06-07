@@ -1,23 +1,25 @@
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
 | 31/05/2019 | 1.0 | Template Inicial | Henrique Martins |
-| 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
-| 05/01/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+| 05/06/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
+| 05/06/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+| 07/06/2019 | 1.3 | Adição de Impactos, Justificativas e Tipos | Henrique Martins, Victor Rodrigues |
 
 # Verificação - Inspeção [Cenários](https://github.com/requisitos-2019-1/Ribon/wiki/Cen%C3%A1rios)
 ## Perguntas
 
-| Questão | Impacto | Contexto | Justificativa | Tipo |
+| Questão | Impacto | Contexto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :------: | :-----------: | :--: |
-| 1 - Os cenários possuem títulos ? | alto/médio/baixo | | | |
-| 2 - Os cenários possuem um objetivo ? | alto/médio/baixo | | | |
-| 3 - Os cenários possuem um contexto ? | alto/médio/baixo | | | |
-| 4 - Os cenários possuem uma lista com os recursos utilizados por eles? | alto/médio/baixo | | | |
-| 5 - Os cenários estão linkados com o léxicos ? | alto/médio/baixo | | | |
-| 6 - Os atores estão linkados com léxicos ? | alto/médio/baixo | | | |
-| 7 - Os episódios descrevem a ação dos atores ? | alto/médio/baixo | | | |
-| 8 - Nos cenários que contêm restrições, elas representam requisitos que devem ser cumpridos para o cenário ocorrer? | alto/médio/baixo | | | |
-| 9 - Nos cenários que contêm exceções, elas representam alguma situação que foge ao cenário e o impede de acontecer? | alto/médio/baixo | | | |
+| 1 - Os cenários possuem títulos? | Alto | | É necessário para identificar os cenários | Binário |
+| 2 - Os cenários possuem um objetivo? | Alto | | É importante saber o objetivo do cenário | Binário |
+| 2.1 - Os objetivos estão coerentes? | Alto | | É importante ter um bom entendimento do objetivo do cenário | Numérico |
+| 3 - Os cenários possuem um contexto? | Alto | | Para descrever a situação em que aquele cenário ocorre | Binário |
+| 4 - A lista de recursos dos cenários possuem qualidade? | Alto | | Para que seja possível a reprodução dos episódios da maneira esperada | Numérico |
+| 5 - Os cenários estão linkados com o léxicos? | Médio | | A linkagem facilita o acesso aos léxicos | Numérico |
+| 6 - Os atores estão linkados com léxicos? | alto/médio/baixo | | | |
+| 7 - Os episódios descrevem a ação dos atores detalhadamente? | Alto | | É importante saber a ação dos atores | Numérico |
+| 8 - Nos cenários que contêm restrições, elas representam requisitos que devem ser cumpridos para o cenário ocorrer? | Alto | | As restrições podem ser usadas como rastreabilidade para requisitos | Binário |
+| 9 - Nos cenários que contêm exceções, elas representam alguma situação que foge ao cenário e o impede de acontecer? | Alto | | É importante que a exceção seja somente de situações que fogem ao cenário | Numérico |
 
 ## Tabela
 ### Checklist
