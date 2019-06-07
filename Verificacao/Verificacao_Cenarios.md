@@ -4,7 +4,7 @@
 | 05/06/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 | 05/06/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
 | 07/06/2019 | 1.3 | Adição de Impactos, Justificativas e Tipos | Henrique Martins, Victor Rodrigues |
-| 07/06/2019 | 1.4 | Adição de respostas às perguntas | Henrique Martins, Victor Rodrigues |
+| 07/06/2019 | 1.4 | Adição de respostas às perguntas | Henrique Martins |
 
 # Verificação - Inspeção [Cenários](https://github.com/requisitos-2019-1/Ribon/wiki/Cen%C3%A1rios)
 ## Perguntas
