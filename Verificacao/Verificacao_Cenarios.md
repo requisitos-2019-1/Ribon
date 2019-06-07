@@ -14,9 +14,9 @@
 | 2 - Os cenários possuem um objetivo? | Alto | | É importante saber o objetivo do cenário | Binário |
 | 2.1 - Os objetivos estão coerentes? | Alto | | É importante ter um bom entendimento do objetivo do cenário | Numérico |
 | 3 - Os cenários possuem um contexto? | Alto | | Para descrever a situação em que aquele cenário ocorre | Binário |
-| 4 - A lista de recursos dos cenários possuem qualidade? | Alto | | Para que seja possível a reprodução dos episódios da maneira esperada | Numérico |
+| 4 - A lista de recursos dos cenários possui qualidade? | Alto | | Para que seja possível a reprodução dos episódios da maneira esperada | Numérico |
 | 5 - Os cenários estão linkados com o léxicos? | Médio | | A linkagem facilita o acesso aos léxicos | Numérico |
-| 6 - Os atores estão linkados com léxicos? | alto/médio/baixo | | | |
+| 6 - Os atores estão linkados com léxicos? | Médio | | A linkagem facilita o acesso aos léxicos | Numérico |
 | 7 - Os episódios descrevem a ação dos atores detalhadamente? | Alto | | É importante saber a ação dos atores | Numérico |
 | 8 - Nos cenários que contêm restrições, elas representam requisitos que devem ser cumpridos para o cenário ocorrer? | Alto | | As restrições podem ser usadas como rastreabilidade para requisitos | Binário |
 | 9 - Nos cenários que contêm exceções, elas representam alguma situação que foge ao cenário e o impede de acontecer? | Alto | | É importante que a exceção seja somente de situações que fogem ao cenário | Numérico |
@@ -24,22 +24,22 @@
 ## Tabela
 ### Checklist
 
-| Cenários | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| Cenários (Henrique) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | ---- | - | - | - | - | - | - | - | - | - |
-| CN001 - Coletar Ribon Diário | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN002 - Comprar Ribons | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN003 - Convidar Amigos | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |  |
-| CN004 - Criar Conta | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN005 - Doar Fortificação Alimentar | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN006 - Doar Água Potável | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN007 - Doar Ribons | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN008 - Escolher Causa | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN009 - Ler Histórias | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN010 - Ver Causas | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN011 - Verificar Comprovantes | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |  |
-| CN012 - Visualizar ONGs | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN013 - Doar Medicamentos | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
-| CN014 - Doar Saúde Básica | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |
+| CN001 - Coletar Ribon Diário | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
+| CN002 - Comprar Ribons | &#10003; | &#10003; | &#10003; | 8 | 10 | 10 | 10 |  | 10 |
+| CN003 - Convidar Amigos | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
+| CN004 - Criar Conta | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 6 |  | 10 |
+| CN005 - Doar Fortificação Alimentar | &#10003; | &#10003; | &#10003; | 8 | 10 | 10 | 10 |  | 10 |
+| CN006 - Doar Água Potável | &#10003; | &#10003; | &#10003; | 8 | 10 | 10 | 10 |  | 10 |
+| CN007 - Doar Ribons | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 10 |  | 10 |
+| CN008 - Escolher Causa | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
+| CN009 - Ler Histórias | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
+| CN010 - Ver Causas | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
+| CN011 - Verificar Comprovantes | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
+| CN012 - Visualizar ONGs | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
+| CN013 - Doar Medicamentos | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
+| CN014 - Doar Saúde Básica | &#10003; | &#10003; | &#10003; | 7 | 10 | 10 | 8 |  | 10 |
 
 ### Relevâncias
 | Artefato | Ranking |

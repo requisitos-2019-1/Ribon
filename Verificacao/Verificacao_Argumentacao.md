@@ -48,7 +48,7 @@
 | A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   | x | 6   | 0   | x | 0   | x    | x    |&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 | A003_Investidores     | 5 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 
-| Consenso   | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
+| Argumentação Consenso   | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
 | -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
 | A001_RichPicture      | 6 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 | A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   | x | 6   | 0   | x | 0   | x    | x    |&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
@@ -67,29 +67,31 @@
 | Auditor | Artefato | Perguntas | Data |
 | --- | --- | --- | --- |
 | Henrique | Richpicture | todas | 07/06/2019 |
-| Henrique | Investidores | 1, 2, 3 | 07/06/2019 |
-| Guilherme | Investidores | 1, 2, 3 | 07/06/2019 |
+| Henrique | Empresarial | todas | 07/06/2019 |
+| Henrique | Investidores | todas | 07/06/2019 |
+| Victor | Richpicture | todas | 07/06/2019 |
+| Victor | Empresarial | todas | 07/06/2019 |
+| Victor | Investidores | todas | 07/06/2019 |
 
 ## Números:																																														
 |   | Resultado |
 | - | :---------: |
-| Número de argumentações: | |
-| Total de indicadores (Argumentações x Perguntas): |	|
+| Número de argumentações: | 3 |
+| Total de indicadores (Argumentações x Perguntas): | 60	|
 | Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
-- <Léxico X> [x]
-- <Léxico X> [x]
-- <Léxico X> [x]
+- [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
+- [Patrocinador](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX020_Patrocinador.md)
 
 
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado | Comentário |
 | -------- | :--------: | :----: | :-------: | :--------: | 
 | A001_Richpicture | 5.55 | MM | Reprovado |  Esse artefato tem os pontos x y e z positivos, mas peca em a b c d. |
-| Artefato02 | 4.44 | MI | Reprovado | |
-| Artefato03 | 7.77 | MS | Aprovado | |
+| A002_Empresarial | 4.44 | MI | Reprovado | |
+| A003_Investidores | 7.77 | MS | Aprovado | |
 
 ## Bibliografia
-> https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf
+> [Requisitos - Aula 04 (Maurício Serrano e Milene Serrano)](https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf)
