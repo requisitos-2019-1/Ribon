@@ -2,6 +2,7 @@
 | ---------- | ------ | ------------------ | ---------------- |
 | 18/04/2019 | 1.0    | Criação do cenario | Victor Rodrigues |
 | 06/05/2019 | 1.1    | Adicionando Ribon como recurso | Henrique Martins |
+| 07/06/2019 | 1.2    | Correção de erro na exceção | Henrique Martins |
 
 # Título: [Doar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX010_Doar.md) [Água potável](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX001_Agua_potavel.md)
 
@@ -50,4 +51,3 @@
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) trava 
 - Falha na internet 
 - Falha no [Sistema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) que realiza doações.
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) não sabe ler.
