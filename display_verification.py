@@ -20,21 +20,9 @@ class App:
         self.yscrollbar = Scrollbar(self.frame)
         self.yscrollbar.grid(row=0, column=1, sticky=N+S)
 
-        self.canvas = Canvas(self.frame, bd=0, xscrollcommand=self.xscrollbar.set,
-                        yscrollcommand=self.yscrollbar.set, width=1366, height=568)
-        self.canvas.grid(row=0, column=0, sticky=N+S+E+W)
-        File1 = "vis/Protocolo/protocolo.png"
-        File2 = "vis/Backlog/backlog_de_produto.png"
-        self.img1 = ImageTk.PhotoImage(Image.open(File1))
-        self.img2 = ImageTk.PhotoImage(Image.open(File2))
-        self.current_image = self.canvas.create_image(0, 0, image=self.img1, anchor="nw")
-        self.canvas.config(scrollregion=self.canvas.bbox(ALL))
-
-        self.xscrollbar.config(command=self.canvas.xview)
-        self.yscrollbar.config(command=self.canvas.yview)
-
         self.grade = 0;
         self.all_questions = [];
+        self.all_imgs = [];
         self.question = '';
         self.verifying = '';
 
@@ -77,7 +65,19 @@ class App:
         self.retrieve_questions()
         self.text_showed = Text(self.root) 
         self.text_showed.configure(background='#363636', spacing2=2, foreground='#FFFFDB', wrap=WORD, padx=10, pady=5, bd=2.5, relief=FLAT)
+
+        self.it_img = [0,0]
+        self.it_quest = [0,0]
+
+        self.canvas = Canvas(self.frame, bd=0, xscrollcommand=self.xscrollbar.set,
+                yscrollcommand=self.yscrollbar.set, width=1366, height=568)
+        self.canvas.grid(row=0, column=0, sticky=N+S+E+W)
+        self.img = ImageTk.PhotoImage(Image.open(self.all_imgs[self.it_img[0]][self.it_img[1]]))
+        self.current_image = self.canvas.create_image(0, 0, image=self.img, anchor="nw")
+        self.canvas.config(scrollregion=self.canvas.bbox(ALL))
         self.rsvp_display(self.all_questions[0][0])
+        self.xscrollbar.config(command=self.canvas.xview)
+        self.yscrollbar.config(command=self.canvas.yview)
         # print(json.dumps(ast.literal_eval(str(self.all_questions)), indent=4))
         # print(self.all_questions["Argumentacao"][0])
         # self.root.after(500, self.xd)
@@ -86,11 +86,9 @@ class App:
     def retrieve_questions(self, ext='.txt', base='vis/'):
         end = '/*/*'+ext
         for current_filename in glob.iglob(base+end, recursive=True):
-            self.verifying = current_filename.split('/')[-1].split('.txt')[0]
-            self.all_questions.append(open(current_filename).read().split('\n'))
-            # current_dir = '/'.join(current_filename.split('/')[:-1])+'/'
-            # glob.glob('./*.txt')
-
+            theme = current_filename.split('/')[-2]
+            self.all_questions.append(open(current_filename).read().split('\n')) # add all "perguntas.txt"
+            self.all_imgs.append([x.lstrip('./') for x in  glob.glob('./vis/{0}/*.png'.format(theme))])
 
         return
 
@@ -98,14 +96,28 @@ class App:
         self.begin_edit()
         self.text_showed.configure(font=Font(family="Helvetica", size=16))
         self.text_showed.insert(END, current_question)
-        self.text_showed.place(relwidth = 0.40, relheight = 0.07, relx = 0.5, rely = 0.85, anchor=CENTER)
+        self.text_showed.place(relwidth = 0.80, relheight = 0.07, relx = 0.5, rely = 0.85, anchor=CENTER)
         self.end_edit()
 
     def change_theme0(self):
         print('iae')
         return
     def apply_grade (self):
-        print('iai')
+        self.it_img[1]+=1
+        if len(self.all_imgs[self.it_img[0]]) == self.it_img[1]:
+            self.it_img[1]=0
+            self.it_quest[1]+=1
+
+        if self.it_quest[1] == len(self.all_questions[self.it_quest[0]]):
+            self.it_img[0]+=1
+            self.it_img[1]=0
+            self.it_quest[0]+=1
+            self.it_quest[1]=0
+
+        self.img = ImageTk.PhotoImage(Image.open(self.all_imgs[self.it_img[0]][self.it_img[1]]))
+        self.change_img()
+        self.rsvp_display(self.all_questions[self.it_quest[0]][self.it_quest[1]])
+
         return
 
     def begin_edit(self):
@@ -114,8 +126,8 @@ class App:
 
     def end_edit(self):
         self.text_showed.config(state=DISABLED)
-    def xd(self):
-        self.canvas.itemconfig(self.current_image, image = self.img2)
+    def change_img(self):
+        self.canvas.itemconfig(self.current_image, image = self.img)
 
 app = App()
 
