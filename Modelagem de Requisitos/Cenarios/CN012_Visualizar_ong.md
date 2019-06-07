@@ -2,6 +2,7 @@
 | ---------- | ------ | ------------------ | --------------- |
 | 17/04/2019 | 1.0    | Criação do cenario | Rafael Teodosio |
 | 22/04/2019 | 1.1    | Adicionando Pós-Condições | Rafael Teodosio |
+| 07/06/2019 | 1.2 | Correção de erro na restrição | Henrique Martins |
 
 # Título: Visualizar [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX019_Ong.md)
 
@@ -38,7 +39,6 @@
 ## Restrições:
 
 - Conexão com internet.
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) não sabe ler.
 
 ## Exceções:
 

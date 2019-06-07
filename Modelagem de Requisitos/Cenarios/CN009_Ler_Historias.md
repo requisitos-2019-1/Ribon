@@ -3,8 +3,10 @@
 | 17/04/2019 | 1.0 | Criação do cenario    | Victor Rodrigues |
 | 17/04/2019 | 1.1 | Consertando identação | Victor Rodrigues |
 | 20/04/2019 | 1.2 | Adicionando Espisódio | Victor Rodrigues |
+| 07/06/2019 | 1.3 | Correção de erro na restrição | Henrique Martins |
+| 07/06/2019 | 1.4 | Correção de erro no recurso | Henrique Martins |
 
-# Título: Ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)s
+# Título: Ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)
 
 ## Objetivo:
 
@@ -23,8 +25,6 @@
 
 - [Celular](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX029_Smartphone.md)
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md)
-- Conexão com a internet
-- Saber ler
 
 ## Episódios: 
 
@@ -40,7 +40,7 @@
   
 ## Restrições:
 
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) não sabe ler.
+- Conexão com a Internet
 
 ## Exceções:
 
