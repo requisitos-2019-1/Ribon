@@ -36,7 +36,7 @@
 
 ## Exceções:
 
-- [Problemas com o [Smartphone](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX029_Smartphone.md)](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX024_Problemas_com_o_LX029_Smartphone.md).
+- [Problemas com o Smartphone](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX024_Problemas_com_o_Smartphone.md).
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) não funciona.
 - Falta de Conexão com a Internet.
 - Pessoa não ter e-mail.
