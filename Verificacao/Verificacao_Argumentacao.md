@@ -73,7 +73,7 @@
 | Victor | Empresarial | todas | 07/06/2019 |
 | Victor | Investidores | todas | 07/06/2019 |
 
-## Números:																																														
+## Números:																		
 |   | Resultado |
 | - | :---------: |
 | Número de argumentações: | 3 |
