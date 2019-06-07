@@ -22,11 +22,11 @@
 | 8 - Os conflitos relacionam, no mínimo, duas proposições? | Alto/Médio/Baixo | | | Numérico |
 | 9 - A escrita dos conflitos está coerente? | Alto/Médio/Baixo | | | Numérico |
 | 10 - Os conflitos possuem solução? | Alto/Médio/Baixo | | | Binário |
-| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição preferida? | Alto/Médio/Baixo | | | Binário |
+| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição rejeitada? | Alto/Médio/Baixo | | | Binário |
 | 12 - As preferências relacionam duas proposições? | Alto/Médio/Baixo | | | Binário |
 | 13 - A argumentação possui conclusão? | Alto/Médio/Baixo | | | Binário |
 | 14 - O fluxo de inferência, conflito, preferência e conclusão está certo? | Alto/Médio/Baixo | | | Numérico |
-| 15 - A argumentação possui rastreabilidade? | Alto/Médio/Baixo | | | Binário |
+| 15 - A argumentação possui rastreabilidade? | Alto/Médio/Baixo | | | Numérico |
 | 16 - Chegou a conclusão de forma verbal | Alto | | | Binário |
 | 17 - Mais de uma pessoa participou da discussão | Alto | | | Numérico |
 | 18 - Outra discordância gerou um novo argumento | Baixo | | | Binário |
@@ -36,11 +36,18 @@
 ## Tabela
 ### Checklist
 
-| Argumentação      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| ----------------- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| A001_RichPicture  | &#10003; | &#10003; |   | &#10003; |   |   |   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |  |  |  |  |  |  |  |
-| A002_Empresarial  | &#10003; | &#10003; |   |   |   | &#10003; | &#10003; |   |   |   |   |   | &#10003; |   |  |  |  |  |  |  |
-| A003_Investidores | &#10003; | &#10003; |   | &#10003; |   |   |   | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; |   |  |  |  |  |  |  |
+| Argumentação Henrique | 1   | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
+| --------------------- | --- | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
+| A001_RichPicture      | 6   |&#10003;| 0   | 4   | 0   |     | 0   | 7   |     | 6   |&#10003;|&#10003;|&#10003;|7    | 6   |     | 7   |     |     |&#10003;|
+| A002_Empresarial      | 5   |&#10003;| 2   | 0   | 0   |     | 6   | 0   |     | 0   |        |        |&#10003;|7    | 6   |     | 7   |     |     |&#10003;|
+| A003_Investidores     | 6   |&#10003;| 0   | 4   | 0   |     | 0   | 7   |     | 6   |&#10003;|&#10003;|&#10003;|7    | 6   |     | 7   |     |     |&#10003;|
+
+| Argumentação Victor   | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
+| -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
+| A001_RichPicture      | 6 |&#10003;| 0   | 4   | 0   |     | 0   | 7   |     | 6   |&#10003;|&#10003;|&#10003;|10   | 4   |     | 5   |     |     |&#10003;|
+| A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   |     | 6   | 0   |     | 0   |     |  |        |&#10003;|10   | 4   |     | 5   |     |     |&#10003;|
+| A003_Investidores     | 5 |&#10003;| 0   | 4   | 0   |     | 0   | 7   |     | 6   |&#10003;|&#10003;|&#10003;|10   | 4   |     | 5   |     |     |&#10003;|
+
 
 ### Relevâncias
 
@@ -77,8 +84,9 @@
 #### Auditoria V3
 | Artefato     | Auditor (#Perguntas, Data) |
 | ------------ | ------- |
-| Richpicture  | Henrique (#todas, 31/05/2019) |
-| Investidores | Henrique (#1..3, 31/02/2019) <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(#5..8, 35/02/2019)<br />Guilherme (#1..3, 31/02/2019) |
+| Richpicture | Henrique (#todas, 07/06/2019) <br/> Victor (#todas, 07/06/2019)|
+| Empresarial | Henrique (#todas, 07/06/2019) <br/> Victor (#todas, 07/06/2019) |
+| Investidores | Henrique (#todas, 07/06/2019) <br/> Victor (#todas, 07/06/2019) |
 
 ## Qualidade do Modelo
 
