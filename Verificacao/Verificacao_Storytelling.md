@@ -1,19 +1,20 @@
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
-| 05/01/2019 | 1.0 | Template Inicial | Guilherme de Lyra |
-| 05/01/2019 | 1.1 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+| 05/06/2019 | 1.0 | Template Inicial | Guilherme de Lyra |
+| 05/06/2019 | 1.1 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
+| 07/06/2019 | 1.2 | Adição de Impactos, Justificativas e Tipos | Henrique Martins, Victor Rodrigues |
 
 # Verificação - Inspeção [StoryTelling](https://github.com/requisitos-2019-1/Ribon/blob/master/Elicitacao/StoryTelling/StoryTelling.md)
 ## Perguntas
 
 | Questão | Impacto | Contexto | Justificativa | Tipo |
 | ------- | :-----: | :------: | :-----------: | :--: |
-| 1 - As histórias foram acontecimentos reais vivenciados pelos usuários? | alto/médio/baixo | | | |
+| 1 - As histórias foram acontecimentos reais vivenciados pelos usuários? | Alto | | A veracidade da história contribui para a credibilidade do storytelling | Binário |
 | 2 - As histórias fazem parte do escopo do objetivo da análise? | alto/médio/baixo | | | |
-| 3 - As histórias foram documentadas de alguma forma? | alto/médio/baixo | | | |
+| 3 - As histórias foram documentadas de alguma forma? | Alto | | A documentação permite detalhamento maior das informações coletadas | Binário |
 | 4 - O acontecimento foi narrado em formato de história? | alto/médio/baixo | | | |
-| 5 - As histórias foram coletadas sob diferentes pontos de vistas? | alto/médio/baixo | | | |
-| 6 - Os requisitos levantados de cada história foram documentados?	 | alto/médio/baixo | | | |
+| 5 - As histórias foram coletadas sob diferentes pontos de vistas? | Alto | | A coleta de mais de um ponto de vista permite mais variedade | Numérico |
+| 6 - Os requisitos levantados de cada história foram documentados?	| Alto | | É importante usar o storytelling para levantar requisitos | Numérico |
 
 
 ## Tabela
