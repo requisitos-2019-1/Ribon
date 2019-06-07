@@ -1,6 +1,7 @@
 | Data       | Versão | Descrição          | Autor            |
 | ---------- | ------ | ------------------ | ---------------- |
 | 17/04/2019 | 1.0    | Criação do cenario | Henrique Martins |
+| 07/06/2019 | 1.1    | Correção de Erros | Henrique Martins |
 
 # Título: Criar Conta
 
@@ -15,7 +16,7 @@
 
 ## Atores:
 
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) e [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md).
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) e [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
 
 ## Recursos:
 
