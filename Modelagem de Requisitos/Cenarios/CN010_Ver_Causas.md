@@ -3,6 +3,7 @@
 | 21/04/2019 | 1.0    | Criação do cenario        | Henrique Martins |
 | 21/04/2019 | 1.1    | Adicionando Espisódios    | Victor Rodrigues |
 | 22/04/2019 | 1.2    | Adicionando Pós-Condições | Victor Rodrigues |
+| 07/06/2019 | 1.3 | Correção de erro na exceção | Henrique Martins |
 
 # Título: Ver [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)s
 
@@ -42,6 +43,6 @@
 
 ## Exceções:
 
-- [Problemas com o [Smartphone](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX029_Smartphone.md)](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX024_Problemas_com_o_LX029_Smartphone.md).
+- [Problemas com o Smartphone](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX029_Smartphone.md).
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) não funciona.
 - Falta de conexão com a internet.
