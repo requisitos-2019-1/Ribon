@@ -5,22 +5,24 @@
 | 05/06/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
 | 07/06/2019 | 1.3 | Adição de Impactos, Justificativas e Tipos | Henrique Martins, Victor Rodrigues |
 | 07/06/2019 | 1.4 | Adição de respostas às perguntas | Henrique Martins |
+| 08/06/2019 | 1.5 | Filtrando as perguntas e adicionando seus respectivos impactos, justificativas e tipos. | Henrique Martins, Guilherme de Lyra e Rafael Teodósio |
 
 # Verificação - Inspeção [Cenários](https://github.com/requisitos-2019-1/Ribon/wiki/Cen%C3%A1rios)
 ## Perguntas
 
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
-| 1 - Os cenários possuem títulos? | Alto | É necessário para identificar os cenários | Binário |
-| 2 - Os cenários possuem um objetivo? | Alto | É importante saber o objetivo do cenário | Binário |
-| 2.1 - Os objetivos estão coerentes? | Alto | É importante ter um bom entendimento do objetivo do cenário | Numérico |
-| 3 - Os cenários possuem um contexto? | Alto | Para descrever a situação em que aquele cenário ocorre | Binário |
-| 4 - A lista de recursos dos cenários possui qualidade? | Alto | Para que seja possível a reprodução dos episódios da maneira esperada | Numérico |
-| 5 - Os cenários estão linkados com o léxicos? | Médio | A linkagem facilita o acesso aos léxicos | Numérico |
-| 6 - Os atores estão linkados com léxicos? | Médio | A linkagem facilita o acesso aos léxicos | Numérico |
-| 7 - Os episódios descrevem a ação dos atores detalhadamente? | Alto | É importante saber a ação dos atores | Numérico |
-| 8 - Nos cenários que contêm restrições, elas representam requisitos que devem ser cumpridos para o cenário ocorrer? | Alto | As restrições podem ser usadas como rastreabilidade para requisitos | Binário |
-| 9 - Nos cenários que contêm exceções, elas representam alguma situação que foge ao cenário e o impede de acontecer? | Alto | É importante que a exceção seja somente de situações que fogem ao cenário | Numérico |
+| 1 - O título do cenário indica uma ação? | Alto | Regra do modelo | Binário |
+| 2 - O objetivo descreve a finalidade do cenário, em relação ao sistema? | Alto | Regra do modelo | Binário |
+| 3 - O contexto/pré-condições descreve o que deva ter sido atingido previamente para que se realize o objetivo proposto pelo cenário atual, sem espaço para dúvidas? | Alto | Regra off-model | Binário |
+| 4 - A lista de recursos realmente descrevem todos os recursos necessários para se atingir o objetivo do cenário? | Alto | Regra do modelo | Binário |
+| 6 - Os termos específicos estão linkados com léxicos? | Médio | A linkagem facilita o acesso à um maior entendimento, ou esclarecimento, sobre o termo em questão | Numérico |
+| 7 - As pós-condições explicam detalhadamente o que ocorre após os episódios se encerrarem? | Alto | Regra do modelo | Numérico |
+| 8 - Os episódios são claros o suficiente para não deixarem dúvidas e/ou livre para interpretações? | Alto | É importante que seja claro para o desenvolvedor conseguir seguir os passo-a-passos sem ter indagações internas (o que pode resultar em tomadas de decisões que não acordem com o que se esperava daquela feature)  | Numérico |
+| 9 - As restrições representam requisitos que devem ser cumpridos para o cenário ocorrer? | Alto | Regra do modelo | Binário |
+| 10 - As exceções representam alguma situação que atrapalha o usuário de atingir o objetivo inicial? | Alto | Regra do modelo | Binário |
+| 11 - O cenário está de acordo com o funcionamento real do produto? | Alta | Essa é a finalidade do modelo | Numérico |
+| 12 - O cenário ajuda no entendimento do sistema em geral ou de alguma funcionalidade em específico? | Alto | Finalidade do modelo | Numérico |
 
 ## Tabela
 ### Checklist
@@ -135,3 +137,4 @@
 
 ## Bibliografia
 > [Requisitos - Aula 10 (Maurício Serrano e Milene Serrano](https://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf)
+> [Discoverying Requirements - Ian Alexander, Ljerka Beus-Dukic](https://hientl.files.wordpress.com/2011/12/tnyc_discovering-require.pdf)
