@@ -116,7 +116,6 @@ Obs: "*" indica que pergunta é binária
 | CN013 - Doar Medicamentos           |   |   |   |   |   |   |   |   |   |    |    |
 | CN014 - Doar Saúde Básica           |   |   |   |   |   |   |   |   |   |    |    |
 
-
 | Cenários (Consenso)                 | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
 | ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
 | CN001 - Coletar Ribon Diário        |   |   |   |   |   |   |   |   |   |    |    |
