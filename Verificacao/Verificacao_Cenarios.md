@@ -31,73 +31,10 @@ Obs: Perguntas binárias implicam em nota 0 ou 10
 
 Obs: "*" indica que pergunta é binária
 
-| Cenários (Henrique)                 | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
-| ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
-| CN001 - Coletar Ribon Diário        |   |   |   |   |   |   |   |   |   |    |    |
-| CN002 - Comprar Ribons              |   |   |   |   |   |   |   |   |   |    |    |
-| CN003 - Convidar Amigos             |   |   |   |   |   |   |   |   |   |    |    |
-| CN004 - Criar Conta                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN005 - Doar Fortificação Alimentar |   |   |   |   |   |   |   |   |   |    |    |
-| CN006 - Doar Água Potável           |   |   |   |   |   |   |   |   |   |    |    |
-| CN007 - Doar Ribons                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN008 - Escolher Causa              |   |   |   |   |   |   |   |   |   |    |    |
-| CN009 - Ler Histórias               |   |   |   |   |   |   |   |   |   |    |    |
-| CN010 - Ver Causas                  |   |   |   |   |   |   |   |   |   |    |    |
-| CN011 - Verificar Comprovantes      |   |   |   |   |   |   |   |   |   |    |    |
-| CN012 - Visualizar ONGs             |   |   |   |   |   |   |   |   |   |    |    |
-| CN013 - Doar Medicamentos           |   |   |   |   |   |   |   |   |   |    |    |
-| CN014 - Doar Saúde Básica           |   |   |   |   |   |   |   |   |   |    |    |
-
-| Cenários (Rafael)                   | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
-| ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
-| CN001 - Coletar Ribon Diário        |   |   |   |   |   |   |   |   |   |    |    |
-| CN002 - Comprar Ribons              |   |   |   |   |   |   |   |   |   |    |    |
-| CN003 - Convidar Amigos             |   |   |   |   |   |   |   |   |   |    |    |
-| CN004 - Criar Conta                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN005 - Doar Fortificação Alimentar |   |   |   |   |   |   |   |   |   |    |    |
-| CN006 - Doar Água Potável           |   |   |   |   |   |   |   |   |   |    |    |
-| CN007 - Doar Ribons                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN008 - Escolher Causa              |   |   |   |   |   |   |   |   |   |    |    |
-| CN009 - Ler Histórias               |   |   |   |   |   |   |   |   |   |    |    |
-| CN010 - Ver Causas                  |   |   |   |   |   |   |   |   |   |    |    |
-| CN011 - Verificar Comprovantes      |   |   |   |   |   |   |   |   |   |    |    |
-| CN012 - Visualizar ONGs             |   |   |   |   |   |   |   |   |   |    |    |
-| CN013 - Doar Medicamentos           |   |   |   |   |   |   |   |   |   |    |    |
-| CN014 - Doar Saúde Básica           |   |   |   |   |   |   |   |   |   |    |    |
-
-| Cenários (Guilherme)                | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
-| ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
-| CN001 - Coletar Ribon Diário        |   |   |   |   |   |   |   |   |   |    |    |
-| CN002 - Comprar Ribons              |   |   |   |   |   |   |   |   |   |    |    |
-| CN003 - Convidar Amigos             |   |   |   |   |   |   |   |   |   |    |    |
-| CN004 - Criar Conta                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN005 - Doar Fortificação Alimentar |   |   |   |   |   |   |   |   |   |    |    |
-| CN006 - Doar Água Potável           |   |   |   |   |   |   |   |   |   |    |    |
-| CN007 - Doar Ribons                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN008 - Escolher Causa              |   |   |   |   |   |   |   |   |   |    |    |
-| CN009 - Ler Histórias               |   |   |   |   |   |   |   |   |   |    |    |
-| CN010 - Ver Causas                  |   |   |   |   |   |   |   |   |   |    |    |
-| CN011 - Verificar Comprovantes      |   |   |   |   |   |   |   |   |   |    |    |
-| CN012 - Visualizar ONGs             |   |   |   |   |   |   |   |   |   |    |    |
-| CN013 - Doar Medicamentos           |   |   |   |   |   |   |   |   |   |    |    |
-| CN014 - Doar Saúde Básica           |   |   |   |   |   |   |   |   |   |    |    |
-
-| Cenários (Lucas)                    | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
-| ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
-| CN001 - Coletar Ribon Diário        |   |   |   |   |   |   |   |   |   |    |    |
-| CN002 - Comprar Ribons              |   |   |   |   |   |   |   |   |   |    |    |
-| CN003 - Convidar Amigos             |   |   |   |   |   |   |   |   |   |    |    |
-| CN004 - Criar Conta                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN005 - Doar Fortificação Alimentar |   |   |   |   |   |   |   |   |   |    |    |
-| CN006 - Doar Água Potável           |   |   |   |   |   |   |   |   |   |    |    |
-| CN007 - Doar Ribons                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN008 - Escolher Causa              |   |   |   |   |   |   |   |   |   |    |    |
-| CN009 - Ler Histórias               |   |   |   |   |   |   |   |   |   |    |    |
-| CN010 - Ver Causas                  |   |   |   |   |   |   |   |   |   |    |    |
-| CN011 - Verificar Comprovantes      |   |   |   |   |   |   |   |   |   |    |    |
-| CN012 - Visualizar ONGs             |   |   |   |   |   |   |   |   |   |    |    |
-| CN013 - Doar Medicamentos           |   |   |   |   |   |   |   |   |   |    |    |
-| CN014 - Doar Saúde Básica           |   |   |   |   |   |   |   |   |   |    |    |
+[Inspeção Henrique](inspecoes/henrique-martins/inspecao_cenarios.md)
+[Inspeção Guilherme](inspecoes/guilherme-de-lyra/inspecao_cenarios.md)
+[Inspeção Lucas](inspecoes/lucas-kishima/inspecao_cenarios.md)
+[Inspeção Rafael](inspecoes/rafael-teodosio/inspecao_cenarios.md)
 
 | Cenários (Média)                    | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
 | ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
