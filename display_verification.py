@@ -32,7 +32,7 @@ class App:
         self.uncheck_btn.place(x=390, y=730, anchor=W)
 
         self.check = PhotoImage(file="check.png")
-        self.check_btn = Button(self.root, command=self.change_theme0)
+        self.check_btn = Button(self.root, command=self.apply_grade)
         self.check_btn.config(image=self.check, width="31", height="31", background='#363636', bd=0, highlightbackground='#232323')
         self.check_btn.place(x=480, y=730, anchor=W)
 
@@ -63,10 +63,17 @@ class App:
         
         self.frame.pack()
         self.retrieve_questions()
-        self.text_showed = Text(self.root) 
-        self.text_showed.configure(background='#363636', spacing2=2, foreground='#FFFFDB', wrap=WORD, padx=10, pady=5, bd=2.5, relief=FLAT)
+        self.question = Text(self.root) 
+        self.question.configure(background='#363636', spacing2=2, foreground='#FFFFDB', wrap=WORD, padx=10, pady=5, bd=2.5, relief=FLAT)
+        self.artifact = Text(self.root) 
+        self.artifact.configure(background='#FBFBFB', spacing2=2, foreground='#000', wrap=WORD, padx=10, pady=5, bd=2.5, relief=FLAT)
+        self.theme = Text(self.root) 
+        self.theme.configure(background='#FBFBFB', spacing2=2, foreground='#000', wrap=WORD, padx=10, pady=5, bd=2.5, relief=FLAT)
+
+
 
         self.it_img = [0,0]
+
         self.it_quest = [0,0]
 
         self.canvas = Canvas(self.frame, bd=0, xscrollcommand=self.xscrollbar.set,
@@ -75,7 +82,7 @@ class App:
         self.img = ImageTk.PhotoImage(Image.open(self.all_imgs[self.it_img[0]][self.it_img[1]]))
         self.current_image = self.canvas.create_image(0, 0, image=self.img, anchor="nw")
         self.canvas.config(scrollregion=self.canvas.bbox(ALL))
-        self.rsvp_display(self.all_questions[0][0])
+        self.display_text(self.question, self.all_questions[0][0])
         self.xscrollbar.config(command=self.canvas.xview)
         self.yscrollbar.config(command=self.canvas.yview)
         # print(json.dumps(ast.literal_eval(str(self.all_questions)), indent=4))
@@ -89,19 +96,15 @@ class App:
             theme = current_filename.split('/')[-2]
             self.all_questions.append(open(current_filename).read().split('\n')) # add all "perguntas.txt"
             self.all_imgs.append([x.lstrip('./') for x in  glob.glob('./vis/{0}/*.png'.format(theme))])
-
         return
 
-    def rsvp_display(self, current_question):
-        self.begin_edit()
-        self.text_showed.configure(font=Font(family="Helvetica", size=16))
-        self.text_showed.insert(END, current_question)
-        self.text_showed.place(relwidth = 0.80, relheight = 0.07, relx = 0.5, rely = 0.85, anchor=CENTER)
-        self.end_edit()
+    def display_text(self, text, current_question, wid=0.6, hei=0.10, x=0.585, y=0.85):
+        self.begin_edit(text)
+        text.configure(font=Font(family="Helvetica", size=16))
+        text.insert(END, current_question)
+        text.place(relwidth = wid, relheight = hei, relx = x, rely = y, anchor=CENTER)
+        self.end_edit(text)
 
-    def change_theme0(self):
-        print('iae')
-        return
     def apply_grade (self):
         self.it_img[1]+=1
         if len(self.all_imgs[self.it_img[0]]) == self.it_img[1]:
@@ -113,19 +116,23 @@ class App:
             self.it_img[1]=0
             self.it_quest[0]+=1
             self.it_quest[1]=0
-
-        self.img = ImageTk.PhotoImage(Image.open(self.all_imgs[self.it_img[0]][self.it_img[1]]))
+        current_img = self.all_imgs[self.it_img[0]][self.it_img[1]]
+        self.img = ImageTk.PhotoImage(Image.open(current_img))
         self.change_img()
-        self.rsvp_display(self.all_questions[self.it_quest[0]][self.it_quest[1]])
+        artifact = current_img.split('/')[-1].strip('.png')
+        theme = current_img.split('/')[-2]
+        self.display_text(self.question, self.all_questions[self.it_quest[0]][self.it_quest[1]])
+        self.display_text(self.artifact, artifact, x=0.125, hei=0.06, wid=0.20, y=0.90)
+        self.display_text(self.theme, theme, x=0.1, hei=0.06, wid=0.15, y=0.82)
 
         return
 
-    def begin_edit(self):
-        self.text_showed.config(state=NORMAL)
-        self.text_showed.delete(1.0, END)
+    def begin_edit(self, text):
+        text.config(state=NORMAL)
+        text.delete(1.0, END)
 
-    def end_edit(self):
-        self.text_showed.config(state=DISABLED)
+    def end_edit(self, text):
+        text.config(state=DISABLED)
     def change_img(self):
         self.canvas.itemconfig(self.current_image, image = self.img)
 

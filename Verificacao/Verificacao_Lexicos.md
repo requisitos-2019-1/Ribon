@@ -8,23 +8,23 @@
 # Verificação - Inspeção [Léxicos](https://github.com/requisitos-2019-1/Ribon/wiki/L%C3%A9xicos)
 ## Perguntas
 
-| Questão | Impacto | Contexto | Justificativa | Tipo |
-| ------- | :-----: | :------: | :-----------: | :--: |
-| 1 - Os léxicos são classificados em: verbo, estado, objeto ou sujeito? | alto/médio/baixo | | | |
-| 2 - Os léxicos possuem títulos de acordo com seu tipo ? | alto/médio/baixo | | | |
-| 3 - Cada léxico possui uma noção e um impacto ? | alto/médio/baixo | | | |
-| 4 - Todos os sinônimos foram mencionados em pelo menos um cenário ou outro léxico? | alto/médio/baixo | | | |
-| 5 - O nome do léxico é adequado? | alto | | | |
-| 6 - Exitem sinônimos? | alto | | | |
-| 7 - Os sinônimos são suficientes e adequados? | médio | | | |
-| 8 - A noção está presente? | alto | | | |
-| 9 - A noção consegue explicar o léxico suficientemente? | alto | | | |
-| 10 - Existe impacto? | alto | | | |
-| 11 - O impacto consegue explicar o léxico suficientemente? | alto | | | |
-| 12 - Possui classificação? | médio | | | |
-| 13 - A classificação está correta? | baixo | | | |
-| 14 - O léxico possui código identificador único? | baixo | | | |
-| 15 - Possui links para outros léxicos que interage? | médio | | | |
+| Questão | Impacto | Justificativa | Tipo |
+| ------- | :-----: | :-----------: | :--: |
+| 1 - Os léxicos são classificados em: verbo, estado, objeto ou sujeito? | alto/médio/baixo | | |
+| 2 - Os léxicos possuem títulos de acordo com seu tipo ? | alto/médio/baixo | | |
+| 3 - Cada léxico possui uma noção e um impacto ? | alto/médio/baixo | | |
+| 4 - Todos os sinônimos foram mencionados em pelo menos um cenário ou outro léxico? | alto/médio/baixo | | |
+| 5 - O nome do léxico é adequado? | alto | | |
+| 6 - Exitem sinônimos? | alto | | |
+| 7 - Os sinônimos são suficientes e adequados? | médio | | |
+| 8 - A noção está presente? | alto | | |
+| 9 - A noção consegue explicar o léxico suficientemente? | alto | | |
+| 10 - Existe impacto? | alto | | |
+| 11 - O impacto consegue explicar o léxico suficientemente? | alto | | |
+| 12 - Possui classificação? | médio | | |
+| 13 - A classificação está correta? | baixo | | |
+| 14 - O léxico possui código identificador único? | baixo | | |
+| 15 - Possui links para outros léxicos que interage? | médio | | |
 
 ## Tabela
 ### Checklist
