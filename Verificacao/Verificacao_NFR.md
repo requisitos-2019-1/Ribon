@@ -4,33 +4,35 @@
 | 05/01/2019 | 1.1 | Incrementando template com impacto de perguntas e Resultados numéricos | Guilherme de Lyra |
 | 05/01/2019 | 1.2 | Incrementando template com contexto, justificativa e tipo (para perguntas)<br />tabela de relevâncias<br />tabela de validação geral<br />e adição de bibliografia | Guilherme de Lyra |
 | 05/01/2019 | 1.3 | Adicionando mais perguntas (baseadas no grupo [Pinterest](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/pre_rastreabilidade_analise/))
+| 31/05/2019 | 1.4 | Removendo perguntas duplicadas | Lucas kishima |
+| 31/05/2019 | 1.5 | Melhorando perguntas | Lucas kishima |
+| 31/05/2019 | 1.6 | Adicionando novas perguntas | Lucas kishima |
+| 31/05/2019 | 1.7 | Adicionando justificativas dos impactos | Lucas kishima |
 
 
 # Verificação - Inspeção [NFR](https://github.com/requisitos-2019-1/Ribon/wiki/NFR-Softgoal)
 ## Perguntas
 
-| Questão | Impacto | Contexto | Justificativa | Tipo |
-| ------- | :-----: | :------: | :-----------: | :--: |
-| 1 - O foco do modelo é demonstrar como um NFR Softgoal é cumprido? | alto/médio/baixo | | | |
-| 2 - Os Operationalizing Softgoal constituem funcionalidades escritas com o uso de verbos? | alto/médio/baixo | | | |
-| 3 - Os NFR Softgoal constituem critérios de qualidade / Requisitos Não Funcionais? | alto/médio/baixo | | | |
-| 4 - O NFR contém mais que três níveis de contribuições? | alto/médio/baixo | | | |
-| 5 - As labels de cumprimento dos NFR Softgoal e Operationalizing Softgoal foram feitas? | alto/médio/baixo | | | |
-| 6 - O modelo contém Claim Softgoal? | alto/médio/baixo | | | |
-| 7 - Há separação no uso de contribuições OR e AND e contruibuições make, help, hurt e break? | alto/médio/baixo | | | |
-| 8 - As representações dos símbolos dos grafos estão de acordo com o padrão do Framework? | | | | |
-| 9 - A propagação de impactos foi estabelecida de acordo com a lógica do Framework, de forma que as correlações entre grafos influenciem conforme as labels dos niveis mais baixos? | | | | |
-| 10 - O modelo possui metas flexiveis (Softgoals)? | | | | |
-| 11 - O modelo possui argumentos (Claims)? | | | | |
-| 12 - O modelo possui operacionalizações? | | | | |
-| 13 - O modelo possui labels de descrição dos grafos? | | | | |
-| 14 - O modelo contem elos de contribuições com definição de intensidade (+ ou  entre Softgoals, operacionalizações  e Claims de acordo o Framework? | | | | |
-| 15 - Existem elos de correlação de forma que um Softgoal ou Operacionalização de determinada categoria influcia em algum nivel em Softgoal ou operacionalizações de outra categoria? | | | | |
-| 16 - Os Softgoals possuem representações de prioridade por meio de simbolos de criticalidade? | | | | |
-| 17 - A decomposição dos grafos no modelo estão dispostas em uma hierarquia AND/OR, permitindo uma distinção dos niveis e das representações de decomposições e impactos? | | | | |
-| 18 - Os grafos da representação foram descritos de acordo com as diretrizes do modelo permitindo uma distinção objetiva dos conceitos de Operacionalização, Softgoal e Claim em conformidade com a representação visual e escrita? | | | | |
-| 19 - A Linguagem utilizada na representação dos grafos está padronizada com uso de Linguagem natural para Claims, verbos de ação para operacionalizações e adjetivos e substantivos em Softgoals? | | | | |
-
+| Questão | Impacto | Justificativa do impacto | Tipo |
+| ------- | :-----: | :-----------: | :--: |
+| 1 - O foco do modelo é demonstrar o cumprimento do NFR Softgoal e as possíveis alternativas para o cumprimento do mesmo? | alto| É um dos principais objetivos do modelo | Binário |
+| 2 - Os NFR Softgoals são decompostos em sub-softgoals mais específicos?  | alto | Para facilitar o entendimento de um Softgoal é recomendado a decomposição dele em outros mais específicos | Binário |
+| 3 - No grafo de representação os conceitos do Framework, seus relacionamentos e priorizações estão em conformidade com a representação visual proposta pelo modelo?  | alto | O modelo proposto pelo Framework permite uma distinção objetiva dos conceitos, relacionamentos e priorizações | Binário |
+| 4 - O NFR contém pelo menos mais que três níveis de contribuições? | alto | Modelos muito rasos não possibilitam um bom entendimento do NFR softgoal e das alternativas para o cumprimento do mesmo | Binário |
+| 5 - As contribuições identificadas foram corretamente aplicadas?  | alto | Para possibilitar uma boa avaliação dos impactos das decisões | Numérico |
+| 6  - O conceito de softgoal foi aplicado corretamente, ou seja, eles são constituídos por requisitos não funcionais ou critérios de qualidade?  | alto | Os conceitos do framework devem ser utilizados de maneira correta | Numérico |
+| 7 -  No grafo de representação está padronizado o uso de adjetivos ou substantivos para os Softgoals?  | alto | estar em conformidade com os padrões estabelecidos pelo modelo | Numérico |
+| 8 - O conceito de Operacionalização foi aplicado corretamente, ou seja, eles são constituídos por técnicas de desenvolvimento ou requisitos funcionais?  | alto | Os conceitos do framework devem ser utilizados de maneira correta | Numérico |
+| 9 - No grafo de representação está padronizado o uso de verbos de ação paras as Operacionalizações?  | alto | estar em conformidade com os padrões estabelecidos pelo modelo | Numérico |
+| 10 - Foram identificadas argumentos(Claims)?  | médio | O não uso de claims não é suficiente para avaliar um modelo como ruim, porém o uso do mesmo agrega valor ao modelo | Binário |
+| 11 - O conceito de Claim foi aplicado corretamente, ou seja, eles são constituídos por argumentos, razões ou justificativas a favor ou contra as interdependências ?  | alto | Os conceitos do framework devem ser utilizados de maneira correta | Numérico |
+| 12 - No grafo de representação está padronizado o uso de Linguagem natural paras os Claims?  | alto | estar em conformidade com os padrões estabelecidos pelo modelo | Numérico |
+| 13 - Foram identificadas interdependências implícitas entre os softgoals?  | médio | O não uso de interdependências implícitas não é suficiente para avaliar um modelo como ruim, porém o uso do mesmo agrega valor ao modelo | Binário |
+| 14 - As interdependências implícitas entre os softgoals foram corretamente utilizadas?  | alto | Os conceitos do framework devem ser utilizados de maneira correta | Numérico |
+| 15 - Foram identificadas priorizações?  | médio | O não uso de priorizações não é suficiente para avaliar um modelo como ruim, porém o uso do mesmo agrega valor ao modelo | Binário |
+| 16 - Os Softgoals foram priorizados corretamente?  | alto | Os conceitos do framework devem ser utilizados de maneira correta | Numérico |
+| 17 - É possível identificar as decisões e suas alternativas?  | alto | é de extrema importância para o modelo poder visualizar as decisões tomadas e suas alternativas| Binário |
+| 18 - A propagação do impacto das decisões foi realizada corretamente, ou seja, respeitando as restrições impostas pelos tipos das contribuições?  | alto | Para determinar se o NFR Softgoal foi cumprido ou não | Numérico |
 ## Tabela
 ### Checklist
 
@@ -45,8 +47,8 @@
 ### Relevâncias
 | Artefato | Ranking |
 | -------- | :-----: |
-| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
-| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
+| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
 
 
 ## Qualidade do Modelo
@@ -80,12 +82,12 @@
     - Falha 1
     - Falha 2
 
-## Números:																																														
+## Números:                                                                                                                                                                                        
 |   | Resultado |
 | - | :---------: |
 | Número de NFRs: | |
-| Total de indicadores (NFRs x Perguntas): |	|
-| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
+| Total de indicadores (NFRs x Perguntas): |    |
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |     |
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
