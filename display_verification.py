@@ -18,7 +18,7 @@ def to_markdown(df):
     writer.table_name = "example_table"
     writer.header_list = list(df.columns.values)
     writer.value_matrix = df.values.tolist()
-    writer.write_table()
+    return writer.dumps()
 
 class AutoScrollbar(Scrollbar):
     """ A scrollbar that hides itself if it's not needed. Works only for grid geometry manager """
@@ -359,10 +359,10 @@ class MainWindow(Frame):
         self.master.columnconfigure(0, weight=1)
 
         self.frame_img = Frame(self.master, bg="gray")
-        self.frame_img.grid(row=0, column=0, rowspan=6, sticky=W+E+N+S)
+        self.frame_img.grid(row=0, column=0, rowspan=8, sticky=W+E+N+S)
 
         self.frame_content = Frame(self.master, bg="gray10")
-        self.frame_content.grid(row=6, column=0, rowspan=4, sticky=W+E+N+S)
+        self.frame_content.grid(row=8, column=0, rowspan=2, sticky=W+E+N+S)
         
         self.frame_img.rowconfigure(0, weight=1)  # make the CanvasImage widget expandable
         self.frame_img.columnconfigure(0, weight=1)
@@ -389,6 +389,7 @@ class MainWindow(Frame):
         self.all_imgs = [];
         self.all_dfs_checklist = []
         self.all_dfs_justifications = []
+        self.all_themes = []
 
         self.question = '';
         self.verifying = '';
@@ -433,11 +434,15 @@ class MainWindow(Frame):
         self.ss_btn.config(image=self.ss, width="31", height="31",   background='#363636', bd=0, highlightbackground='#232323')
         self.ss_btn.grid(row=0, column=7)
 
+        self.submit = PhotoImage(file=".imgs/submit/favicon-32x32.png")
+        self.submit_btn = Button(self.frame_texts, command=self.end_program)
+        self.submit_btn.config(image=self.submit, width="31", height="31",   background='#363636', bd=0, highlightbackground='#232323')
+        self.submit_btn.grid(row=0, column=0)
+
         self.retrieve_questions()
 
         self.question = Label(self.frame_texts) 
         self.question.configure(background='#363636', foreground='#FFFFDB', padx=10, pady=5, bd=2.5, relief=FLAT)
-        self.question.grid(row= 4,column= 3,columnspan= 3,rowspan=2)
         self.artifact = Label(self.frame_texts) 
         self.artifact.configure(background='#000', foreground='#fbfbfb', padx=10, pady=5, bd=2.5, relief=FLAT)
         self.artifact.grid(row= 1,column=4 ,columnspan=1 ,rowspan=1 )
@@ -477,6 +482,7 @@ class MainWindow(Frame):
         self.grade.bind('<Return>', self.get_val)
         self.grade_text = ''
         self.justify_text = ''
+        self.question.grid(row= 3,column= 3,columnspan= 3,rowspan=4)
         
     def retrieve_input(self):
         self.justify_text = self.justify.get("1.0",'end-1c')
@@ -488,15 +494,29 @@ class MainWindow(Frame):
         self.grade.delete('0', 'end')
         self.apply_grade(self.grade_text)
         
-        print(to_markdown(self.all_dfs_checklist[0].reset_index()))
-        for k, v in self.all_dfs_justifications[0].items():
-            print(self.all_dfs_justifications[0][k].to_string())
+        # print(to_markdown(self.all_dfs_checklist[0].reset_index()))
+        # for k, v in self.all_dfs_justifications[0].items():
+        #     print(self.all_dfs_justifications[0][k].to_string())
 
     def validate(self, action, index, value_if_allowed, prior_value, text, validation_type, trigger_type, widget_name):
         if text in '0123456789':
             return True
         else:
             return False
+
+    def end_program(self):
+        for i in range(len(self.all_dfs_checklist)):
+            f=open('.mds/'+self.all_themes[i]+'.md', 'a')
+            check=to_markdown(self.all_dfs_checklist[i].reset_index())
+            if check != None:
+                f.write(check)
+            for k, v in self.all_dfs_justifications[i].items():
+                justf = to_markdown(self.all_dfs_justifications[i][k].reset_index())
+                if justf != None:
+                    f.write(justf)
+            f.close()
+            break
+        self.master.destroy()
 
     def get_name(self, n):
         return n.split('/')[-1].strip('.png')
@@ -528,7 +548,7 @@ class MainWindow(Frame):
                 dfs[x]=df
                 
             self.all_dfs_justifications.append(dfs)
-
+            self.all_themes.append(theme)
             # xd = pd.DataFrame({'CN001':[2, 6, 11],'JUSTIFICATIVA':''})
             # xd.set_index('CN001')
             # xd.at[2,'JUSTIFICATIVA']='ola'
@@ -564,7 +584,7 @@ class MainWindow(Frame):
         self.change_img(current_img)
         artifact = self.get_name(current_img)
         theme = current_img.split('/')[-2]
-        self.display_text(self.question, self.all_questions[self.it_quest[0]][self.it_quest[1]])
+        self.display_text(self.question, self.all_questions[self.it_quest[0]][self.it_quest[1]].replace("\\n", '\n'))
         self.display_text(self.theme, theme)
         self.display_text(self.artifact, artifact)
 
