@@ -26,7 +26,7 @@
 | 14 - O fluxo e as operações fazem sentido? | | | | |
 | 15 - Possui operações suficientes para atender a proposta? | | | | |
 | 16 - Usa linguagem compreensível? | | | | |
-| 17 - Possui rastreabilidade | | | | |
+| 17 - Possui rastreabilidade? | | | | |
 
 ## Tabela
 ### Checklist

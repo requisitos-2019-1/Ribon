@@ -92,28 +92,69 @@ Obs: "*" indica que pergunta é binária
 
 | Auditor | Artefato | Perguntas | Data |
 | --- | --- | --- | --- |
-| Henrique | CN001 - Coletar Ribon Diário | todas | 07/06/2019 |
-| Henrique | CN002 - Comprar Ribons | todas | 07/06/2019 |
-| Henrique | CN003 - Convidar Amigos | todas | 07/06/2019 |
-| Henrique | CN004 - Criar Conta | todas | 07/06/2019 |
-| Henrique | CN005 - Doar Fortificação Alimentar | todas | 07/06/2019 |
-| Henrique | CN006 - Doar Água Potável | todas | 07/06/2019 |
-| Henrique | CN007 - Doar Ribons | todas | 07/06/2019 |
-| Henrique | CN008 - Escolher Causa | todas | 07/06/2019 |
-| Henrique | CN009 - Ler Histórias | todas | 07/06/2019 |
-| Henrique | CN010 - Ver Causas | todas | 07/06/2019 |
-| Henrique | CN011 - Verificar Comprovantes | todas | 07/06/2019 |
-| Henrique | CN012 - Visualizar ONGs | todas | 07/06/2019 |
-| Henrique | CN013 - Doar Medicamentos | todas | 07/06/2019 |
-| Henrique | CN014 - Doar Saúde Básica | todas | 07/06/2019 |
+| Henrique | CN001 - Coletar Ribon Diário | todas | 08/06/2019 |
+| Henrique | CN002 - Comprar Ribons | todas | 08/06/2019 |
+| Henrique | CN003 - Convidar Amigos | todas | 08/06/2019 |
+| Henrique | CN004 - Criar Conta | todas | 08/06/2019 |
+| Henrique | CN005 - Doar Fortificação Alimentar | todas | 08/06/2019 |
+| Henrique | CN006 - Doar Água Potável | todas | 08/06/2019 |
+| Henrique | CN007 - Doar Ribons | todas | 08/06/2019 |
+| Henrique | CN008 - Escolher Causa | todas | 08/06/2019 |
+| Henrique | CN009 - Ler Histórias | todas | 08/06/2019 |
+| Henrique | CN010 - Ver Causas | todas | 08/06/2019 |
+| Henrique | CN011 - Verificar Comprovantes | todas | 08/06/2019 |
+| Henrique | CN012 - Visualizar ONGs | todas | 08/06/2019 |
+| Henrique | CN013 - Doar Medicamentos | todas | 08/06/2019 |
+| Henrique | CN014 - Doar Saúde Básica | todas | 08/06/2019 |
+| Rafael | CN001 - Coletar Ribon Diário | todas | 08/06/2019 |
+| Rafael | CN002 - Comprar Ribons | todas | 08/06/2019 |
+| Rafael | CN003 - Convidar Amigos | todas | 08/06/2019 |
+| Rafael | CN004 - Criar Conta | todas | 08/06/2019 |
+| Rafael | CN005 - Doar Fortificação Alimentar | todas | 08/06/2019 |
+| Rafael | CN006 - Doar Água Potável | todas | 08/06/2019 |
+| Rafael | CN007 - Doar Ribons | todas | 08/06/2019 |
+| Rafael | CN008 - Escolher Causa | todas | 08/06/2019 |
+| Rafael | CN009 - Ler Histórias | todas | 08/06/2019 |
+| Rafael | CN010 - Ver Causas | todas | 08/06/2019 |
+| Rafael | CN011 - Verificar Comprovantes | todas | 08/06/2019 |
+| Rafael | CN012 - Visualizar ONGs | todas | 08/06/2019 |
+| Rafael | CN013 - Doar Medicamentos | todas | 08/06/2019 |
+| Rafael | CN014 - Doar Saúde Básica | todas | 08/06/2019 |
+| Guilherme | CN001 - Coletar Ribon Diário | todas | 08/06/2019 |
+| Guilherme | CN002 - Comprar Ribons | todas | 08/06/2019 |
+| Guilherme | CN003 - Convidar Amigos | todas | 08/06/2019 |
+| Guilherme | CN004 - Criar Conta | todas | 08/06/2019 |
+| Guilherme | CN005 - Doar Fortificação Alimentar | todas | 08/06/2019 |
+| Guilherme | CN006 - Doar Água Potável | todas | 08/06/2019 |
+| Guilherme | CN007 - Doar Ribons | todas | 08/06/2019 |
+| Guilherme | CN008 - Escolher Causa | todas | 08/06/2019 |
+| Guilherme | CN009 - Ler Histórias | todas | 08/06/2019 |
+| Guilherme | CN010 - Ver Causas | todas | 08/06/2019 |
+| Guilherme | CN011 - Verificar Comprovantes | todas | 08/06/2019 |
+| Guilherme | CN012 - Visualizar ONGs | todas | 08/06/2019 |
+| Guilherme | CN013 - Doar Medicamentos | todas | 08/06/2019 |
+| Guilherme | CN014 - Doar Saúde Básica | todas | 08/06/2019 |
+| Lucas | CN001 - Coletar Ribon Diário | todas | 08/06/2019 |
+| Lucas | CN002 - Comprar Ribons | todas | 08/06/2019 |
+| Lucas | CN003 - Convidar Amigos | todas | 08/06/2019 |
+| Lucas | CN004 - Criar Conta | todas | 08/06/2019 |
+| Lucas | CN005 - Doar Fortificação Alimentar | todas | 08/06/2019 |
+| Lucas | CN006 - Doar Água Potável | todas | 08/06/2019 |
+| Lucas | CN007 - Doar Ribons | todas | 08/06/2019 |
+| Lucas | CN008 - Escolher Causa | todas | 08/06/2019 |
+| Lucas | CN009 - Ler Histórias | todas | 08/06/2019 |
+| Lucas | CN010 - Ver Causas | todas | 08/06/2019 |
+| Lucas | CN011 - Verificar Comprovantes | todas | 08/06/2019 |
+| Lucas | CN012 - Visualizar ONGs | todas | 08/06/2019 |
+| Lucas | CN013 - Doar Medicamentos | todas | 08/06/2019 |
+| Lucas | CN014 - Doar Saúde Básica | todas | 08/06/2019 |
 
 ## Números:																																														
 |   | Resultado |
 | - | :---------: |
 | Número de cenários: | 14 |
-| Total de indicadores (cenários x Perguntas): | 126	|
-| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
-| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+| Total de indicadores (cenários x Perguntas): | 154	|
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): | 67/154 = 0.435 |
 
 ## Léxicos importantes identificados:
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md)

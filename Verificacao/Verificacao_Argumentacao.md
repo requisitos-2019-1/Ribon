@@ -42,7 +42,7 @@
 | A002_Empresarial      | 5   |&#10003;| 0   | 0   | 0   | x | 10  | 0   | x | 0   | x    | x    |&#10003;|10    | 4   | x | 0   | x | x |&#10003;|
 | A003_Investidores     | 6   |&#10003;| 0   | 4   | 0   | x | 0   | 10   | x | 10 |&#10003;|&#10003;|&#10003;|10    | 4   | x | 0   | x | x |&#10003;|
 
-[Justificativas - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_argumentacao.md)
+[Inspeção - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_argumentacao.md)
 
 | Argumentações (Victor)   | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
 | -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |

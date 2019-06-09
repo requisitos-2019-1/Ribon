@@ -24,7 +24,7 @@
 | -------- | - | - | - | - | - |
 | ST01 | &#10003; | &#10003; | &#10003; | 3 | 10 |
 
-[Justificativas - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_storytelling.md)
+[Inspeção - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_storytelling.md)
 
 | Storytelling (Consenso) | 1 | 2 | 3 | 4 | 5 |
 | -------- | - | - | - | - | - |
