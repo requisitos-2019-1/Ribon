@@ -10,10 +10,10 @@
 | 4 - As histórias foram coletadas sob diferentes pontos de vistas? | Alto | A coleta de mais de um ponto de vista permite mais variedade | Numérico |
 | 5 - Os requisitos levantados de cada história foram documentados?	| Alto | É importante usar o storytelling para levantar requisitos | Numérico |
 
-| Storytelling (Henrique) | 1*       | 2*       | 3*       | 4   | 5   |
-| ----------------------- | -------- | -------- | -------- | --- | --- |
-| ST01                    | &#10003; | &#10003; | &#10003; | 0   | 10  |
-
+| Storytelling | 1*       | 2*       | 3*       | 4   | 5   |
+| ------------ | -------- | -------- | -------- | --- | --- |
+| ST01         | &#10003; | &#10003; | &#10003; | 0   | 10  |
+'
 
 ## ST01
 
