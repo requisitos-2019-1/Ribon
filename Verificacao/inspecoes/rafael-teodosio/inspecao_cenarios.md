@@ -1,5 +1,5 @@
 # Justificativas Cenários
-# AUDITOR: RAFAEL
+# AUDITOR: RAFAEL TEODOSIO
 
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
