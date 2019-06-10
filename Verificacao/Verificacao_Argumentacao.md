@@ -36,19 +36,8 @@
 ## Tabela
 ### Checklist
 
-| Argumentações (Henrique) | 1   | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
-| --------------------- | --- | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
-| A001_RichPicture      | 6   |&#10003;| 0   | 4   | 0   | x | 0   | 10  | x | 10 |&#10003;|&#10003;|&#10003;|10    | 4   | x | 0   | x | x |&#10003;|
-| A002_Empresarial      | 5   |&#10003;| 0   | 0   | 0   | x | 10  | 0   | x | 0   | x    | x    |&#10003;|10    | 4   | x | 0   | x | x |&#10003;|
-| A003_Investidores     | 6   |&#10003;| 0   | 4   | 0   | x | 0   | 10   | x | 10 |&#10003;|&#10003;|&#10003;|10    | 4   | x | 0   | x | x |&#10003;|
-
-[Inspeção - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_argumentacao.md)
-
-| Argumentações (Victor)   | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
-| -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
-| A001_RichPicture      | 6 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
-| A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   | x | 6   | 0   | x | 0   | x    | x    |&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
-| A003_Investidores     | 5 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
+[Inspeção - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_argumentacao.md)<br>
+[Inspeção - Victor](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/victor-rodrigues/inspecao_argumentacao.md)
 
 | Argumentações (Consenso)   | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
 | -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
@@ -56,13 +45,15 @@
 | A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   | x | 6   | 0   | x | 0   | x    | x    |&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 | A003_Investidores     | 5 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 
+[Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/argumentacao.md)
+
 ### Relevâncias
 
 | Artefato | Ranking |
 | -------- | :-----: |
-| A001_RichPicture | <li>As regras do modelo foram devidamente atendidas</li> | 
-| A002_Empresarial | <li>As regras do modelo foram devidamente atendidas</li> | 
-| A003_Investidores | <li>As regras do modelo foram devidamente atendidas</li> |
+| A001_RichPicture | <li>As regras do modelo foram devidamente atendidas</li><li>A argumentação é de fácil compreensão</li> | 
+| A002_Empresarial | <li>As regras do modelo foram devidamente atendidas</li><li>A argumentação é de fácil compreensão</li> | 
+| A003_Investidores | <li>As regras do modelo foram devidamente atendidas</li><li>A argumentação é de fácil compreensão</li> |
 
 ### Auditoria
 
@@ -91,9 +82,9 @@
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado | Comentário |
 | -------- | :--------: | :----: | :-------: | :--------: | 
-| A001_Richpicture | 5.55 | MM | Reprovado |  Esse artefato tem os pontos x y e z positivos, mas peca em a b c d. |
-| A002_Empresarial | 4.44 | MI | Reprovado | |
-| A003_Investidores | 7.77 | MS | Aprovado | |
+| A001_Richpicture | 4.6 | MI | Reprovado |  Esse artefato tem os pontos x y e z positivos, mas peca em a b c d. |
+| A002_Empresarial | 3.1 | MI | Reprovado | |
+| A003_Investidores | 4.55 | MI | Aprovado | |
 
 ## Bibliografia
 > [Requisitos - Aula 04 (Maurício Serrano e Milene Serrano)](https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf)
