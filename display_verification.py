@@ -467,7 +467,7 @@ class MainWindow(Frame):
 
         self.canvas = CanvasImage(self.frame_img, current_img)  # create widget
         self.canvas.grid(row=0, column=0)  # show widget
-        self.display_text(self.question, self.all_questions[0][0])
+        self.display_text(self.question, self.all_questions[0][0].replace(r'\n', '\n'))
         self.display_text(self.artifact, artifact)
         self.display_text(self.theme, theme)
         
@@ -584,7 +584,7 @@ class MainWindow(Frame):
         self.change_img(current_img)
         artifact = self.get_name(current_img)
         theme = current_img.split('/')[-2]
-        self.display_text(self.question, self.all_questions[self.it_quest[0]][self.it_quest[1]].replace("\\n", '\n'))
+        self.display_text(self.question, self.all_questions[self.it_quest[0]][self.it_quest[1]].replace(r'\n', '\n'))
         self.display_text(self.theme, theme)
         self.display_text(self.artifact, artifact)
 
