@@ -10,7 +10,7 @@
 
 # Verificação - Inspeção [Léxicos](https://github.com/requisitos-2019-1/Ribon/wiki/L%C3%A9xicos)
 
-## Perguntas gerais:
+## Questões Avaliadoras
 
 | Questão | Impacto | Justificativa | Tipo |
 | ------- | :-----: | :-----------: | :--: |
@@ -62,8 +62,10 @@ De acordo com o tipo do léxico foram identificadas diferentes fatores que influ
 | E3 - Os impactos identificam outros estados possíveis? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
 | E4 - Os impactos identificam as possíveis ações que podem ocorrer a partir daquele estado? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
 
-## Tabela
-### Checklist
+Obs: Perguntas binárias implicam em nota 0 ou 10
+
+## Consenso das Avaliações
+Obs: "*" indica que pergunta é binária
 
 | Léxicos | 1 | 2 | 3 | 4 |
 | ---- | - | - | - | - |
@@ -98,43 +100,6 @@ De acordo com o tipo do léxico foram identificadas diferentes fatores que influ
 | LX029 - Smartphone | &#10003; | &#10003; | &#10003; |  |
 | LX030 - Tutorial | &#10003; | &#10003; | &#10003; |  |
 | LX031 - Usuário | &#10003; | &#10003; | &#10003; |  |
-
-### Relevâncias
-| Artefato | Ranking |
-| -------- | :-----: |
-| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
-| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
-
-## Qualidade do Modelo
-
-### Critérios de qualidade:
- - Reprovação em no máximo um critério - <b>Qualidade Alta</b>
- - Reprovação em 2 ou 3 critérios - <b>Qualidade Média</b>
- - Reprovação em mais de 3 critérios - <b>Qualidade Baixa</b>
-
- ## Análise dos Modelos:
-
- ### Qualidade Baixa
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
- ### Qualidade Média
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
- ### Qualidade Alta
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
 
 ## Números:                                                                                                                                                                                        
 |   | Resultado |

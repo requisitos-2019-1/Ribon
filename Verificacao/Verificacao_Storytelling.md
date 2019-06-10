@@ -6,7 +6,7 @@
 | 07/06/2019 | 1.3 | Adição de respostas às perguntas | Henrique Martins |
 
 # Verificação - Inspeção [StoryTelling](https://github.com/requisitos-2019-1/Ribon/blob/master/Elicitacao/StoryTelling/StoryTelling.md)
-## Perguntas
+## Questões Avaliadoras
 
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
@@ -16,29 +16,21 @@
 | 4 - As histórias foram coletadas sob diferentes pontos de vistas? | Alto | A coleta de mais de um ponto de vista permite mais variedade | Numérico |
 | 5 - Os requisitos levantados de cada história foram documentados?	| Alto | É importante usar o storytelling para levantar requisitos | Numérico |
 
+Obs: Perguntas binárias implicam em nota 0 ou 10
 
-## Tabela
-### Checklist
+## Auditorias Realizadas
 
 [Inspeção - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_storytelling.md)<br>
 [Inspeção - Victor](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/victor-rodrigues/inspecao_storytelling.md)
+
+## Consenso das Avaliações
+Obs: "*" indica que pergunta é binária
 
 | Storytelling (Consenso) | 1\*      | 2\*      | 3\*      | 4   | 5   |
 | ----------------------- | -------- | -------- | -------- | --- | --- |
 | ST01                    | &#10003; | &#10003; | &#10003; | 0   | 10  |
 
-[Justificativa](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/storyTelling.md)
-
-### Relevância
-| Artefato | Ranking |
-| -------- | :-----: |
-| ST01 | <li>Ponto 1</li> | 
-
-### Auditoria
-
-| Auditor | Artefato | Perguntas | Data |
-| --- | --- | --- | --- |
-| Henrique | ST01 | todas | 07/06/2019 |
+[Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/storyTelling.md)
 
 ## Números:																																														
 |   | Resultado |

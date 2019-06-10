@@ -34,6 +34,8 @@
 | 19 - O novo argumento gerou conflito com o argumento preferido? | Alto | | Binário |
 | 20 - Os participantes chegaram a uma conclusão? | Alto | "Uma das principais metas da argumentação é a resolução de conflitos" (Rahwan, 2005) | Binário |
 
+Obs: Perguntas binárias implicam em nota 0 ou 10
+
 ## Auditorias Realizadas
 
 [Inspeção - Henrique Martins](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_argumentacao.md)<br>
@@ -41,33 +43,15 @@
 
 
 ## Consenso das Avaliações
+Obs: "*" indica que pergunta é binária
 
-| Argumentações (Consenso)   | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
+| Argumentações | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
 | -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
 | A001_RichPicture      | 6 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 | A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   | x | 6   | 0   | x | 0   | x    | x    |&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 | A003_Investidores     | 5 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 
 [Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/argumentacao.md)
-
-## Relevâncias
-
-| Artefato | Ranking |
-| -------- | :-----: |
-| A001_RichPicture | <li>As regras do modelo foram devidamente atendidas</li><li>A argumentação é de fácil compreensão</li> | 
-| A002_Empresarial | <li>As regras do modelo foram devidamente atendidas</li><li>A argumentação é de fácil compreensão</li> | 
-| A003_Investidores | <li>As regras do modelo foram devidamente atendidas</li><li>A argumentação é de fácil compreensão</li> |
-
-## Auditoria
-
-| Auditor | Artefato | Perguntas | Data |
-| --- | --- | --- | --- |
-| Henrique | Richpicture | todas | 07/06/2019 |
-| Henrique | Empresarial | todas | 07/06/2019 |
-| Henrique | Investidores | todas | 07/06/2019 |
-| Victor | Richpicture | todas | 07/06/2019 |
-| Victor | Empresarial | todas | 07/06/2019 |
-| Victor | Investidores | todas | 07/06/2019 |
 
 ## Números:																		
 |   | Resultado |

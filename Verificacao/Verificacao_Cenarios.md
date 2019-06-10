@@ -8,7 +8,7 @@
 | 08/06/2019 | 1.5 | Filtrando as perguntas e adicionando seus respectivos impactos, justificativas e tipos. | Henrique Martins, Guilherme de Lyra e Rafael Teodósio |
 
 # Verificação - Inspeção [Cenários](https://github.com/requisitos-2019-1/Ribon/wiki/Cen%C3%A1rios)
-## Perguntas
+## Questões Avaliadoras
 
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
@@ -26,128 +26,34 @@
 
 Obs: Perguntas binárias implicam em nota 0 ou 10
 
-## Tabela
-### Checklist
+## Auditorias Realizadas
 
-Obs: "*" indica que pergunta é binária
-
-[Inspeção Henrique](inspecoes/henrique-martins/inspecao_cenarios.md)
-[Inspeção Guilherme](inspecoes/guilherme-de-lyra/inspecao_cenarios.md)
-[Inspeção Lucas](inspecoes/lucas-kishima/inspecao_cenarios.md)
+[Inspeção Henrique](inspecoes/henrique-martins/inspecao_cenarios.md)<br>
+[Inspeção Guilherme](inspecoes/guilherme-de-lyra/inspecao_cenarios.md)<br>
+[Inspeção Lucas](inspecoes/lucas-kishima/inspecao_cenarios.md)<br>
 [Inspeção Rafael](inspecoes/rafael-teodosio/inspecao_cenarios.md)
 
-| Cenários (Média)                    | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
-| ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
-| CN001 - Coletar Ribon Diário        |   |   |   |   |   |   |   |   |   |    |    |
-| CN002 - Comprar Ribons              |   |   |   |   |   |   |   |   |   |    |    |
-| CN003 - Convidar Amigos             |   |   |   |   |   |   |   |   |   |    |    |
-| CN004 - Criar Conta                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN005 - Doar Fortificação Alimentar |   |   |   |   |   |   |   |   |   |    |    |
-| CN006 - Doar Água Potável           |   |   |   |   |   |   |   |   |   |    |    |
-| CN007 - Doar Ribons                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN008 - Escolher Causa              |   |   |   |   |   |   |   |   |   |    |    |
-| CN009 - Ler Histórias               |   |   |   |   |   |   |   |   |   |    |    |
-| CN010 - Ver Causas                  |   |   |   |   |   |   |   |   |   |    |    |
-| CN011 - Verificar Comprovantes      |   |   |   |   |   |   |   |   |   |    |    |
-| CN012 - Visualizar ONGs             |   |   |   |   |   |   |   |   |   |    |    |
-| CN013 - Doar Medicamentos           |   |   |   |   |   |   |   |   |   |    |    |
-| CN014 - Doar Saúde Básica           |   |   |   |   |   |   |   |   |   |    |    |
+## Consenso das Avaliações
+Obs: "*" indica que pergunta é binária
 
 | Cenários (Consenso)                 | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
 | ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
-| CN001 - Coletar Ribon Diário        |   |   |   |   |   |   |   |   |   |    |    |
-| CN002 - Comprar Ribons              |   |   |   |   |   |   |   |   |   |    |    |
-| CN003 - Convidar Amigos             |   |   |   |   |   |   |   |   |   |    |    |
-| CN004 - Criar Conta                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN005 - Doar Fortificação Alimentar |   |   |   |   |   |   |   |   |   |    |    |
-| CN006 - Doar Água Potável           |   |   |   |   |   |   |   |   |   |    |    |
-| CN007 - Doar Ribons                 |   |   |   |   |   |   |   |   |   |    |    |
-| CN008 - Escolher Causa              |   |   |   |   |   |   |   |   |   |    |    |
-| CN009 - Ler Histórias               |   |   |   |   |   |   |   |   |   |    |    |
-| CN010 - Ver Causas                  |   |   |   |   |   |   |   |   |   |    |    |
-| CN011 - Verificar Comprovantes      |   |   |   |   |   |   |   |   |   |    |    |
-| CN012 - Visualizar ONGs             |   |   |   |   |   |   |   |   |   |    |    |
-| CN013 - Doar Medicamentos           |   |   |   |   |   |   |   |   |   |    |    |
-| CN014 - Doar Saúde Básica           |   |   |   |   |   |   |   |   |   |    |    |
+| CN001 - Coletar Ribon Diário        | &#10003; |     X    | &#10003; |    X     |    10    |    8    |  7 |    X     |    X     | 8  | &#10003; |
+| CN002 - Comprar Ribons              | &#10003; |     X    |     X    | &#10003; |    10    |    10   | 10 |    X     |    X     | 10 | &#10003; |
+| CN003 - Convidar Amigos             | &#10003; |     X    |     X    | &#10003; |    10    |    5    | 8  |    X     |    X     | 6  | &#10003; |
+| CN004 - Criar Conta                 | &#10003; |     X    | &#10003; | &#10003; |    10    |    0    | 0  |    X     |    X     | 5  | &#10003; |
+| CN005 - Doar Fortificação Alimentar | &#10003; | &#10003; |     X    | &#10003; |    10    |    8    | 10 |    X     |    X     | 10 | &#10003; |
+| CN006 - Doar Água Potável           | &#10003; | &#10003; |     X    | &#10003; |    10    |    8    | 10 |    X     |    X     | 10 | &#10003; |
+| CN007 - Doar Ribons                 | &#10003; | &#10003; |     X    | &#10003; |    10    |    8    | 10 |    X     |    X     | 10 | &#10003; |
+| CN008 - Escolher Causa              | &#10003; | &#10003; | &#10003; | &#10003; |    10    |    0    | 10 | &#10003; |    X     | 7  | &#10003; |
+| CN009 - Ler Histórias               | &#10003; |     X    |     X    |     X    |    10    |    6    | 8  | &#10003; |    X     | 6  | X |
+| CN010 - Ver Causas                  | &#10003; | &#10003; | &#10003; | &#10003; |    10    |    10   | 8  | &#10003; |    X     | 8  | &#10003; |
+| CN011 - Verificar Comprovantes      | &#10003; | &#10003; |     X    | &#10003; |    10    |    10   | 8  | &#10003; |    X     | 9  | X |
+| CN012 - Visualizar ONGs             | &#10003; |     X    | &#10003; | &#10003; |    10    |    10   | 9  | &#10003; |    X     | 9  | &#10003; |
+| CN013 - Doar Medicamentos           | &#10003; | &#10003; |     X    | &#10003; |    10    |    8    | 10 |    X     |    X     | 10 | &#10003; |
+| CN014 - Doar Saúde Básica           | &#10003; | &#10003; |     X    | &#10003; |    10    |    8    | 10 |    X     |    X     | 10 | &#10003; |
 
-### Relevâncias
-| Artefato | Ranking |
-| -------- | :-----: |
-| CN001 - Coletar Ribon Diário | <li></li> | 
-| CN002 - Comprar Ribons | <li></li> |
-| CN003 - Convidar Amigos | <li></li> |
-| CN004 - Criar Conta | <li></li> |
-| CN005 - Doar Fortificação Alimentar | <li></li> |
-| CN006 - Doar Água Potável | <li></li> |
-| CN007 - Doar Ribons | <li></li> |
-| CN008 - Escolher Causa | <li></li> |
-| CN009 - Ler Histórias | <li></li> |
-| CN010 - Ver Causas | <li></li> |
-| CN011 - Verificar Comprovantes | <li></li> |
-| CN012 - Visualizar ONGs | <li></li> |
-| CN013 - Doar Medicamentos | <li></li> |
-| CN014 - Doar Saúde Básica | <li></li> |
-
-### Auditoria
-
-| Auditor | Artefato | Perguntas | Data |
-| --- | --- | --- | --- |
-| Henrique | CN001 - Coletar Ribon Diário | todas | 08/06/2019 |
-| Henrique | CN002 - Comprar Ribons | todas | 08/06/2019 |
-| Henrique | CN003 - Convidar Amigos | todas | 08/06/2019 |
-| Henrique | CN004 - Criar Conta | todas | 08/06/2019 |
-| Henrique | CN005 - Doar Fortificação Alimentar | todas | 08/06/2019 |
-| Henrique | CN006 - Doar Água Potável | todas | 08/06/2019 |
-| Henrique | CN007 - Doar Ribons | todas | 08/06/2019 |
-| Henrique | CN008 - Escolher Causa | todas | 08/06/2019 |
-| Henrique | CN009 - Ler Histórias | todas | 08/06/2019 |
-| Henrique | CN010 - Ver Causas | todas | 08/06/2019 |
-| Henrique | CN011 - Verificar Comprovantes | todas | 08/06/2019 |
-| Henrique | CN012 - Visualizar ONGs | todas | 08/06/2019 |
-| Henrique | CN013 - Doar Medicamentos | todas | 08/06/2019 |
-| Henrique | CN014 - Doar Saúde Básica | todas | 08/06/2019 |
-| Rafael | CN001 - Coletar Ribon Diário | todas | 08/06/2019 |
-| Rafael | CN002 - Comprar Ribons | todas | 08/06/2019 |
-| Rafael | CN003 - Convidar Amigos | todas | 08/06/2019 |
-| Rafael | CN004 - Criar Conta | todas | 08/06/2019 |
-| Rafael | CN005 - Doar Fortificação Alimentar | todas | 08/06/2019 |
-| Rafael | CN006 - Doar Água Potável | todas | 08/06/2019 |
-| Rafael | CN007 - Doar Ribons | todas | 08/06/2019 |
-| Rafael | CN008 - Escolher Causa | todas | 08/06/2019 |
-| Rafael | CN009 - Ler Histórias | todas | 08/06/2019 |
-| Rafael | CN010 - Ver Causas | todas | 08/06/2019 |
-| Rafael | CN011 - Verificar Comprovantes | todas | 08/06/2019 |
-| Rafael | CN012 - Visualizar ONGs | todas | 08/06/2019 |
-| Rafael | CN013 - Doar Medicamentos | todas | 08/06/2019 |
-| Rafael | CN014 - Doar Saúde Básica | todas | 08/06/2019 |
-| Guilherme | CN001 - Coletar Ribon Diário | todas | 08/06/2019 |
-| Guilherme | CN002 - Comprar Ribons | todas | 08/06/2019 |
-| Guilherme | CN003 - Convidar Amigos | todas | 08/06/2019 |
-| Guilherme | CN004 - Criar Conta | todas | 08/06/2019 |
-| Guilherme | CN005 - Doar Fortificação Alimentar | todas | 08/06/2019 |
-| Guilherme | CN006 - Doar Água Potável | todas | 08/06/2019 |
-| Guilherme | CN007 - Doar Ribons | todas | 08/06/2019 |
-| Guilherme | CN008 - Escolher Causa | todas | 08/06/2019 |
-| Guilherme | CN009 - Ler Histórias | todas | 08/06/2019 |
-| Guilherme | CN010 - Ver Causas | todas | 08/06/2019 |
-| Guilherme | CN011 - Verificar Comprovantes | todas | 08/06/2019 |
-| Guilherme | CN012 - Visualizar ONGs | todas | 08/06/2019 |
-| Guilherme | CN013 - Doar Medicamentos | todas | 08/06/2019 |
-| Guilherme | CN014 - Doar Saúde Básica | todas | 08/06/2019 |
-| Lucas | CN001 - Coletar Ribon Diário | todas | 08/06/2019 |
-| Lucas | CN002 - Comprar Ribons | todas | 08/06/2019 |
-| Lucas | CN003 - Convidar Amigos | todas | 08/06/2019 |
-| Lucas | CN004 - Criar Conta | todas | 08/06/2019 |
-| Lucas | CN005 - Doar Fortificação Alimentar | todas | 08/06/2019 |
-| Lucas | CN006 - Doar Água Potável | todas | 08/06/2019 |
-| Lucas | CN007 - Doar Ribons | todas | 08/06/2019 |
-| Lucas | CN008 - Escolher Causa | todas | 08/06/2019 |
-| Lucas | CN009 - Ler Histórias | todas | 08/06/2019 |
-| Lucas | CN010 - Ver Causas | todas | 08/06/2019 |
-| Lucas | CN011 - Verificar Comprovantes | todas | 08/06/2019 |
-| Lucas | CN012 - Visualizar ONGs | todas | 08/06/2019 |
-| Lucas | CN013 - Doar Medicamentos | todas | 08/06/2019 |
-| Lucas | CN014 - Doar Saúde Básica | todas | 08/06/2019 |
+[Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/cenarios.md)
 
 ## Números:																																														
 |   | Resultado |
