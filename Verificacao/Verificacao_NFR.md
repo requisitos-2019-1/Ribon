@@ -9,9 +9,9 @@
 | 31/05/2019 | 1.6 | Adicionando novas perguntas | Lucas kishima |
 | 31/05/2019 | 1.7 | Adicionando justificativas dos impactos | Lucas kishima |
 
+# Verificação - Inspeção [NFR Softgoal](https://github.com/requisitos-2019-1/Ribon/wiki/NFR-Softgoal)
 
-# Verificação - Inspeção [NFR](https://github.com/requisitos-2019-1/Ribon/wiki/NFR-Softgoal)
-## Perguntas
+## Questões Avaliadoras
 
 | Questão | Impacto | Justificativa do impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
@@ -33,54 +33,35 @@
 | 16 - Os Softgoals foram priorizados corretamente?  | alto | Os conceitos do framework devem ser utilizados de maneira correta | Numérico |
 | 17 - É possível identificar as decisões e suas alternativas?  | alto | é de extrema importância para o modelo poder visualizar as decisões tomadas e suas alternativas| Binário |
 | 18 - A propagação do impacto das decisões foi realizada corretamente, ou seja, respeitando as restrições impostas pelos tipos das contribuições?  | alto | Para determinar se o NFR Softgoal foi cumprido ou não | Numérico |
-## Tabela
-### Checklist
 
-| NFR | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| ---- | - | - | - | - | - | - | - |
-| Usabilidade |  |  |  |  |  |  |  |  
-| Desempenho |  |  |  |  |  |  |  |   
-| Manutenibilidade |  |  |  |  |  |  |  |  
-| Privacidade |  |  |  |  |  |  |  |  
-| Suportabilidade |  |  |  |  |  |  |  |  
+
+## Auditorias Realizadas
+
+* [Inspeção Rafael Teodosio](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/rafael-teodosio/inpecao_NFR.md)
+* [Inspeção Lucas Kishima](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/lucas-kishima/inspeca_nfr.md)
+* [Inspeção Henrique Martins](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_NFR.md)
+
+
+## Consenso das Avaliações
+
+| NFR              | 1*     | 2*     | 3*     | 4*      |5 | 6|7 |8 |9 | 10*    | 11 | 12 | 13*      | 14 |15*| 16 | 17*     | 18 |
+| ---------------- | ------ | ------ | ------ | ------- |--|--|--|--|--| ------ | -- | -- | -------- | -- | - | -- | ------- | -- |
+| Usabilidade      |&#10003;|&#10003;|&#10003;|X        |2 |7 |10|1 |1 |X       | NA | NA | X        | NA | X | NA | &#10003;| 10 |
+| Desempenho       |&#10003;|&#10003;|&#10003;|X        |5 |6 |10|0 |0 |X       | NA | NA | &#10003; | 0  | X | NA | &#10003;|  5 |  
+| Manutenibilidade |&#10003;|&#10003;|&#10003;|X        |7 |7 |8 |5 |8 |&#10003;| 10 | 10 | X        | NA | X | NA | &#10003;| 5  |
+| Privacidade      |&#10003;|&#10003;|&#10003;|&#10003; |9 |8 |4 |9 |9 |X       | NA | NA | &#10003; | 10 | X | NA | &#10003;| 10 |
+| Suportabilidade  |&#10003;|&#10003;|&#10003;|&#10003; |10|8 |7 |7 |5 |&#10003;| 10 |10  | &#10003; | 10 | X | NA | &#10003;| 10 |
+
+[Justificativas das Avaliações (Consenso)](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/nfr.md)
+
 
 ### Relevâncias
+
 | Artefato | Ranking |
 | -------- | :-----: |
 | A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
 | A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
 
-
-## Qualidade do Modelo
-
-### Critérios de qualidade:
- - Reprovação em no máximo um critério - <b>Qualidade Alta</b>
- - Reprovação em 2 ou 3 critérios - <b>Qualidade Média</b>
- - Reprovação em mais de 3 critérios - <b>Qualidade Baixa</b>
-
- ## Análise dos Modelos:
-
- ### Qualidade Baixa
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
- ### Qualidade Média
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
- ### Qualidade Alta
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
 
 ## Números:                                                                                                                                                                                        
 |   | Resultado |
@@ -103,4 +84,6 @@
 | Artefato03 | 7.77 | MS | Aprovado |
 
 ## Bibliografia
-> https://aprender.ead.unb.br/pluginfile.php/348668/mod_resource/content/10/Requisitos%20-%20Aula%20020a.pdf
+> [Requisitos Aula 20, Mauricio e Milene Serrano](https://aprender.ead.unb.br/pluginfile.php/348668/mod_resource/content/10/Requisitos%20-%20Aula%20020a.pdf)
+
+> [Requisitos, Grupo Pinterest 2018.2](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/pre_rastreabilidade_analise/)

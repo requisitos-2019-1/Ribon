@@ -8,7 +8,8 @@
 | 06/01/2019 | 1.5 | Refinando perguntas, adicionando tipos e tabelas de verificação | Henrique Martins, Guilherme de Lyra, Victor Rodrigues |
 | 06/01/2019 | 1.6 | Adicionando impactos das perguntas, e justificando-os | Henrique Martins, Guilherme de Lyra |
 # Verificação - Inspeção [Argumentação](https://github.com/requisitos-2019-1/Ribon/wiki/Argumenta%C3%A7%C3%A3o)
-## Perguntas
+
+## Questões Avaliadoras
 
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :----------------------: | :--: |
@@ -33,11 +34,13 @@
 | 19 - O novo argumento gerou conflito com o argumento preferido? | Alto | | Binário |
 | 20 - Os participantes chegaram a uma conclusão? | Alto | "Uma das principais metas da argumentação é a resolução de conflitos" (Rahwan, 2005) | Binário |
 
-## Tabela
-### Checklist
+## Auditorias Realizadas
 
-[Inspeção - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_argumentacao.md)<br>
-[Inspeção - Victor](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/victor-rodrigues/inspecao_argumentacao.md)
+[Inspeção - Henrique Martins](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_argumentacao.md)<br>
+[Inspeção - Victor Rodrigues](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/victor-rodrigues/inspecao_argumentacao.md)
+
+
+## Consenso das Avaliações
 
 | Argumentações (Consenso)   | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
 | -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
@@ -47,7 +50,7 @@
 
 [Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/argumentacao.md)
 
-### Relevâncias
+## Relevâncias
 
 | Artefato | Ranking |
 | -------- | :-----: |
@@ -55,7 +58,7 @@
 | A002_Empresarial | <li>As regras do modelo foram devidamente atendidas</li><li>A argumentação é de fácil compreensão</li> | 
 | A003_Investidores | <li>As regras do modelo foram devidamente atendidas</li><li>A argumentação é de fácil compreensão</li> |
 
-### Auditoria
+## Auditoria
 
 | Auditor | Artefato | Perguntas | Data |
 | --- | --- | --- | --- |
