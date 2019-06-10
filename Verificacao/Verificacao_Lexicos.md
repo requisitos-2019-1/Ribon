@@ -126,4 +126,4 @@ Obs: "*" indica que pergunta é binária
 | Artefato03 | 7.77 | MS | Aprovado |
 
 ## Bibliografia
-> https://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf
+> [Requisitos - Aula 10 (Maurício Serrano e Milene Serrano)](https://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf)

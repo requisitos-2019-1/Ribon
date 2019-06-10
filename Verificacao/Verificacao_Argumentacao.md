@@ -57,7 +57,7 @@ Obs: "*" indica que pergunta é binária
 |   | Resultado |
 | - | :---------: |
 | Número de argumentações: | 3 |
-| Total de indicadores (Argumentações x Perguntas): | 60	|
+| Total de indicadores (Argumentações x Perguntas): | 60 |
 | Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
@@ -67,11 +67,11 @@ Obs: "*" indica que pergunta é binária
 
 
 ## Validação Geral:
-| Artefato | Nota Geral | Menção | Resultado | Comentário |
-| -------- | :--------: | :----: | :-------: | :--------: | 
-| A001_Richpicture | 4.6 | MI | Reprovado |  Esse artefato tem os pontos x y e z positivos, mas peca em a b c d. |
-| A002_Empresarial | 3.1 | MI | Reprovado | |
-| A003_Investidores | 4.55 | MI | Aprovado | |
+| Artefato | Nota Geral | Menção | Resultado |
+| -------- | :--------: | :----: | :-------: |
+| A001_Richpicture | 4.6 | MI | Reprovado |
+| A002_Empresarial | 3.1 | MI | Reprovado |
+| A003_Investidores | 4.55 | MI | Reprovado |
 
 ## Bibliografia
 > [Requisitos - Aula 04 (Maurício Serrano e Milene Serrano)](https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf)

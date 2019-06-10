@@ -36,8 +36,8 @@ Obs: "*" indica que pergunta é binária
 |   | Resultado |
 | - | :---------: |
 | Número de histórias: | 1 |
-| Total de indicadores (Histórias x Perguntas): |	5 |
-| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
+| Total de indicadores (Histórias x Perguntas): | 5 |
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): | 0.2 |
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
@@ -53,7 +53,7 @@ Obs: "*" indica que pergunta é binária
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |
 | -------- | :--------: | :----: | :-------: |
-| ST01 | 5.55 | MM | Reprovado |
+| ST01 | 8 | MS | Aprovado |
 
 ## Bibliografia:
 > [Requisitos - Aula 03 (Maurício Serrano e Milene Serrano](https://aprender.ead.unb.br/pluginfile.php/348648/mod_resource/content/3/Requisitos%20-%20Aula%2007.pdf)

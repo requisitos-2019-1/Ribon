@@ -114,4 +114,4 @@
 | Artefato03 | 7.77 | MS | Aprovado |
 
 ## Bibliografia
-> https://aprender.ead.unb.br/pluginfile.php/348662/mod_resource/content/5/Requisitos%20-%20Aula%2015a.pdf -->
+> [[Requisitos - Aula 15 (Maurício Serrano e Milene Serrano)]](https://aprender.ead.unb.br/pluginfile.php/348662/mod_resource/content/5/Requisitos%20-%20Aula%2015a.pdf)

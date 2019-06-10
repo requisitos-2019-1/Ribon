@@ -81,8 +81,8 @@
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
-- [Léxico LX026 - Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
-- [Léxico LX005 - Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)
+- [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
+- [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)
 
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |
@@ -92,4 +92,4 @@
 | Artefato03 | 7.77 | MS | Aprovado |
 
 ## Bibliografia:
-> https://aprender.ead.unb.br/pluginfile.php/348648/mod_resource/content/3/Requisitos%20-%20Aula%2007.pdf
+> [Requisitos - Aula 07 (Maurício Serrano e Milene Serrano)](https://aprender.ead.unb.br/pluginfile.php/348648/mod_resource/content/3/Requisitos%20-%20Aula%2007.pdf)
