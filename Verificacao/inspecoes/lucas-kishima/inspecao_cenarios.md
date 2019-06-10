@@ -1,4 +1,4 @@
-# Justificativas Agumentação
+# Justificativas Argumentação
 # AUDITOR: Lucas kishima
 
 ## Perguntas
@@ -115,7 +115,7 @@
 |9|O aplicativo trava???, estão mal escritas. Além disso erro no sistema de doação não é uma exceção|
 |10| pois falha em 7 perguntas |
 
-## A0010_
+## A0010_Ver Causas
 | | Justificativa |
 |-| ------------- |
 |3| não possui nenhuma pré-condição |
@@ -123,7 +123,7 @@
 |9| estão mal escritas |
 |10| pois falha em 3 perguntas |
 
-## A0011_
+## A0011_Verificar Comprovantes
 | | Justificativa |
 |-| ------------- |
 |3| Usuário desejar ler Histórias/notícias não é uma pré condição, abrir o arquivo é uma pré condição, possuir acesso a internet. |
@@ -131,7 +131,7 @@
 |9| O aplicativo trava???, estão mal escritas. Além disso erro no sistema de doação não é uma exceção |
 |10| pois falha em 3 perguntas |
 
-## A0012_
+## A0012_Visualizar ONGs
 | | Justificativa |
 |-| ------------- |
 |3|O usário possuir acesso a internet, o usuário clicar em info sobre a causa, ou clicar na causa na página de perfil|
@@ -139,14 +139,14 @@
 |9|  O aplicativo trava???, falha no app não seria a mesma coisa?, estão muito mal escritas. |
 |10| pois falha em 3 perguntas |
 
-## A0013_
+## A0013_Doar Medicamentos
 | | Justificativa |
 |-| ------------- |
 |3|O usuário deve possuir ribons, além disso ele deve desejar doar pra aquela causa específica.|
 |9|O aplicativo trava???, estão mal escritas.|
 |10| pois falha em 2 perguntas |
 
-## A0014_
+## A0014_Doar Saúde Básica  
 | | Justificativa |
 |-| ------------- |
 |3|O usuário deve possuir ribons, além disso ele deve desejar doar pra aquela causa específica.|
