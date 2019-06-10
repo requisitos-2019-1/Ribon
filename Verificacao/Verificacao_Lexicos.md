@@ -116,7 +116,6 @@ Obs: "*" indica que pergunta é binária
 | Número de léxicos: | 31 |
 | Total de indicadores (Léxicos x Perguntas): |    |
 | Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |     |
-| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |

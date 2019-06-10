@@ -60,7 +60,6 @@ Obs: "*" indica que pergunta é binária
 | Número de argumentações: | 3 |
 | Total de indicadores (Argumentações x Perguntas): | 60 |
 | Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |	 |
-| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
 - [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)

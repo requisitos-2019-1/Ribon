@@ -57,7 +57,8 @@ for c in checklists:
                 continue
             v = values[i]
             print(i, v)
-            res+=int(v)*int(imp[i])
+            if i in imp:
+                res+=int(v)*int(imp[i])
         print(values)
         res = (res/max_)
         row_name = values[0]

@@ -78,20 +78,24 @@ Obs: "*" indica que pergunta é binária
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |
 | -------- | :--------: | :----: | :-------: |
-| CN001 - Coletar Ribon Diário | 4.44 | MI | Reprovado | | 
-| CN002 - Comprar Ribons | 4.44 | MI | Reprovado | |
-| CN003 - Convidar Amigos | 4.44 | MI | Reprovado | |
-| CN004 - Criar Conta | 4.44 | MI | Reprovado | |
-| CN005 - Doar Fortificação Alimentar | 4.44 | MI | Reprovado | |
-| CN006 - Doar Água Potável | 4.44 | MI | Reprovado | |
-| CN007 - Doar Ribons | 4.44 | MI | Reprovado | |
-| CN008 - Escolher Causa | 4.44 | MI | Reprovado | |
-| CN009 - Ler Histórias | 4.44 | MI | Reprovado | |
-| CN010 - Ver Causas | 4.44 | MI | Reprovado | |
-| CN011 - Verificar Comprovantes | 4.44 | MI | Reprovado | |
-| CN012 - Visualizar ONGs | 4.44 | MI | Reprovado | |
-| CN013 - Doar Medicamentos | 4.44 | MI | Reprovado | |
-| CN014 - Doar Saúde Básica | 4.44 | MI | Reprovado | |
+| CN001 - Coletar Ribon Diário         | 5.59375 | MM |   Aprovado |
+| CN002 - Comprar Ribons               | 6.25000 | MM |   Aprovado |
+| CN003 - Convidar Amigos              | 5.21875 | MM |   Aprovado |
+| CN004 - Criar Conta                  | 4.84375 | MI |  Reprovado |
+| CN005 - Doar Fortificação Alimentar  | 7.00000 | MS |   Aprovado |
+| CN006 - Doar Água Potável            | 7.00000 | MS |   Aprovado |
+| CN007 - Doar Ribons                  | 7.00000 | MS |   Aprovado |
+| CN008 - Escolher Causa               | 7.84375 | MS |   Aprovado |
+| CN009 - Ler Histórias                | 4.37500 | MI |  Reprovado |
+| CN010 - Ver Causas                   | 8.68750 | MS |   Aprovado |
+| CN011 - Verificar Comprovantes       | 6.90625 | MM |   Aprovado |
+| CN012 - Visualizar ONGs              | 7.93750 | MS |   Aprovado |
+| CN013 - Doar Medicamentos            | 7.00000 | MS |   Aprovado |
+| CN014 - Doar Saúde Básica            | 7.00000 | MS |   Aprovado |
+
+
+![imagem](../cenarios_grade.png)
+
 
 ## Bibliografia
 > [Requisitos - Aula 10 (Maurício Serrano e Milene Serrano](https://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf)

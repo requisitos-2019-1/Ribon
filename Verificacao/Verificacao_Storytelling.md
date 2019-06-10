@@ -38,7 +38,6 @@ Obs: "*" indica que pergunta é binária
 | Número de histórias: | 1 |
 | Total de indicadores (Histórias x Perguntas): | 5 |
 | Taxa de erro de perguntas  (Σ Erros / Total de indicadores): | 0.2 |
-| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md)
