@@ -32,35 +32,35 @@ De acordo com o tipo do léxico foram identificadas diferentes fatores que influ
 
 | Questão | Impacto | Justificativa | Tipo |
 | ------- | :-----: | :-----------: | :--: |
-| S1 - As noções explicam quem é o sujeito dentro daquele meio social? | alto | É um conceito de noção de sujeito | numérico |
-| S2 - Os impactos mostram as ações aquele sujeito executa? | alto | É um conceito de impactos do sujeito no ambiente | numérico |
+| 9 - As noções explicam quem é o sujeito dentro daquele meio social? | alto | É um conceito de noção de sujeito | numérico |
+| 10 - Os impactos mostram as ações aquele sujeito executa? | alto | É um conceito de impactos do sujeito no ambiente | numérico |
 
 ### Caso o léxico seja um verbo:
 
 | Questão | Impacto | Justificativa | Tipo |
 | ------- | :-----: | :-----------: | :--: |
-| V1 - As noções explicam quem realiza aquela ação? | alto | É um conceito de noção de verbo | numérico |
-| V2 - As noções explicam quando aquela relação acontece? | médio| Ajuda no entendimento daquela ação |numérico |
-| V3 - As noções explicam quais os procedimentos envolvidos com aquele processo? | médio | Ajuda no entendimento daquela ação | numérico |
-| V4 - Os impactos mostram os possíveis reflexos daquela ação no domínio em questão? | alto |É um dos conceitos de impacto| numérico |
-| V5 - Caso os impactos causem uma mudança de estado essas mudanças foram identificadas corretamente? | média | Ajuda no entendimento dos impactos daquela ação  | numérico |
+| 9 - As noções explicam quem realiza aquela ação? | alto | É um conceito de noção de verbo | numérico |
+| 10 - As noções explicam quando aquela relação acontece? | médio| Ajuda no entendimento daquela ação |numérico |
+| 11 - As noções explicam quais os procedimentos envolvidos com aquele processo? | médio | Ajuda no entendimento daquela ação | numérico |
+| 12 - Os impactos mostram os possíveis reflexos daquela ação no domínio em questão? | alto |É um dos conceitos de impacto| numérico |
+| 13 - Caso os impactos causem uma mudança de estado essas mudanças foram identificadas corretamente? | média | Ajuda no entendimento dos impactos daquela ação  | numérico |
 
 ### Caso o léxico seja um objeto:
 
 | Questão | Impacto | Justificativa | Tipo |
 | ------- | :-----: | :-----------: | :--: |
-| O1 - As noções definem o objeto?| alto | É um conceito de noção de estado | numérico |
-| O2 - Caso o objeto se relacione com outros objetos, esses objetos foram identificados? | médio | ajuda no entendimento identificar com quais objetos ele se relaciona  | numérico |
-| O3 - Os impactos relatam as possíveis ações que podem ser aplicadas à aquele objeto? | médio | ajuda a identificar ações que podem ser aplicadas ao objeto em questão. | numérico |
+| 9 - As noções definem o objeto?| alto | É um conceito de noção de estado | numérico |
+| 10 - Caso o objeto se relacione com outros objetos, esses objetos foram identificados? | médio | ajuda no entendimento identificar com quais objetos ele se relaciona  | numérico |
+| 11 - Os impactos relatam as possíveis ações que podem ser aplicadas à aquele objeto? | médio | ajuda a identificar ações que podem ser aplicadas ao objeto em questão. | numérico |
 
 ### Caso o léxico seja um estado:
 
 | Questão | Impacto | Justificativa | Tipo |
 | ------- | :-----: | :-----------: | :--: |
-| E1 - As noções mostram o que aquele estado significa no meio social analisado? | alto | É um conceito de noção de estado  | numérico |
-| E2 - As noções indicam quais ações levaram ao estado em questão? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
-| E3 - Os impactos identificam outros estados possíveis? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
-| E4 - Os impactos identificam as possíveis ações que podem ocorrer a partir daquele estado? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
+| 9 - As noções mostram o que aquele estado significa no meio social analisado? | alto | É um conceito de noção de estado  | numérico |
+| 10 - As noções indicam quais ações levaram ao estado em questão? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
+| 11 - Os impactos identificam outros estados possíveis? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
+| 12 - Os impactos identificam as possíveis ações que podem ocorrer a partir daquele estado? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
 
 ## Tabela
 ### Checklist
