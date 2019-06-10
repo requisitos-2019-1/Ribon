@@ -67,7 +67,7 @@ Obs: Perguntas binárias implicam em nota 0 ou 10
 ## Consenso das Avaliações
 Obs: "*" indica que pergunta é binária
 
-| Léxicos de sujeito | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Léxicos de sujeito | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | S1 | S2 |
 | ---- | - | - | - | - | - | - | - | - | - | - |
 | LX009 - Comunidade | &#10003; | &#10003; | 10 | &#10003;| &#10003; |8|&#10003; | &#10003;|10 |-|
 | LX012 - Evidence Action | &#10003; | &#10003; | 10 | &#10003; |x |- |&#10003; | &#10003;|10|10|
@@ -79,14 +79,14 @@ Obs: "*" indica que pergunta é binária
 | LX031 - Usuário | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 8 |&#10003; |&#10003; | 10| 10 |
 
 
-| Léxicos de verbo | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| Léxicos de verbo | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | V1 | V2 | V3 | V4 | V5 |
 | ---- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | LX006 - Coletar | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 10 |&#10003; |&#10003; | 0|0 |0 |0 |0 |
 | LX007 - Comprar | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 8 |&#10003; | &#10003;| 10|10 |0 |10 |10 |
 | LX010 - Doar | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 10 | &#10003;|&#10003; |0 | 0 | 0 |10 | - |
 
 
-| Léxicos de objeto| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| Léxicos de objeto| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | O1| O2 | O3 |
 | ---- | - | - | - | - | - | - | - | - | - | - | - |
 | LX001 - Água Potável | &#10003; | &#10003; | 10 | &#10003; | &#10003;| 10 | &#10003;| &#10003; | &#10003;|x|6|
 | LX002 - Aplicativo | &#10003; | &#10003;  | 8 | &#10003; | &#10003; |10|&#10003;|&#10003;|&#10003;|x|6|
@@ -102,7 +102,7 @@ Obs: "*" indica que pergunta é binária
 | LX029 - Smartphone | &#10003; | &#10003; | 0 | &#10003; | &#10003; | 10 |&#10003; |&#10003; |9|10|10|
 | LX030 - Tutorial | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 10 |&#10003; |&#10003; |10|10|5|
 
-| Léxicos de estado | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| Léxicos de estado | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | E1 | E2 | E3 | E4 |
 | ---- | - | - | - | - | - | - | - | - | - | - | - | - |
 | LX003 - Aplicativo não Funciona | &#10003; | x | 10 | &#10003; | &#10003;  | 10 | &#10003; |&#10003;|10|0|0|10|
 | LX015 - História Coletada | &#10003; | &#10003; | 6 | &#10003; | &#10003; | 6 |&#10003; |&#10003; |&#10003;|10|10|0|5|
@@ -113,7 +113,7 @@ Obs: "*" indica que pergunta é binária
 ## Números:                                                                                                                                                                                        
 |   | Resultado |
 | - | :---------: |
-| Número de léxicos: | |
+| Número de léxicos: | 31 |
 | Total de indicadores (Léxicos x Perguntas): |    |
 | Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |     |
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |

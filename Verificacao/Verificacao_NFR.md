@@ -56,12 +56,11 @@
 
 
 ## Números:                                                                                                                                                                                        
-|   | Resultado |
+| Indicativos  | Resultado |
 | - | :---------: |
-| Número de NFRs: | |
-| Total de indicadores (NFRs x Perguntas): |    |
-| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |     |
-| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+| Número de NFRs: | 5 |
+| Total de indicadores (NFRs x Perguntas): |  90  |
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): | 33 / 90 = 0,366  |
 
 ## Léxicos importantes identificados:
 - [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
@@ -71,9 +70,11 @@
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |
 | -------- | :--------: | :----: | :-------: |
-| Artefato01 | 5.55 | MM | Reprovado |
-| Artefato02 | 4.44 | MI | Reprovado |
-| Artefato03 | 7.77 | MS | Aprovado |
+| Usabilidade | 0.00 | SR | Reprovado |
+| Desempenho | 0.00 | SR | Reprovado |
+| Manutenibilidade | 0.00 | SR | Aprovado |
+| Privacidade | 0.00 | SR | Aprovado |
+| Suportabilidade | 0.00 | SR | Aprovado |
 
 ## Bibliografia
 > [Requisitos Aula 20, Mauricio e Milene Serrano](https://aprender.ead.unb.br/pluginfile.php/348668/mod_resource/content/10/Requisitos%20-%20Aula%20020a.pdf)
