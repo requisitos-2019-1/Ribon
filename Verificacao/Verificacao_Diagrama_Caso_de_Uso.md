@@ -1,16 +1,13 @@
-| Data | Versão | Descrição | Autor |
-| - | - | - | - |
-| 09/06/2019 | 1.0 | Template Inicial | Guilherme de Lyra |
+# Verificação - Inspeção [Diagrama dos Casos de Uso](https://github.com/requisitos-2019-1/Ribon/wiki/Casos-de-uso)
 
+## Questões Avaliadoras
 
-# Verificação - Inspeção [Casos de Uso](https://github.com/requisitos-2019-1/Ribon/wiki/Casos-de-uso)
-## Perguntas
 
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :----------------------: | :--: |
 | 1. O nome do ator revela seu papel no sistema? | Alto | Como é um modelo, é necessário que os elementos atendam esse modelo e sigam suas diretrizes | Binário |
 | 2. Os nomes dos casos de uso são construidas em voz ativa, e utilizam o tempo presente? | Alto | Regra do modelo | Binário |
-| 3. Quando ocorre relacionamentos entre casos de usos, estes relacionamentos são:<br />Relacionamento de Inclusão ,<br />Relacionamento de Extensão ,<br />Relacionamento de Generalização? | Alto | Regra do modelo | Binário |
+| 3. Quando ocorre relacionamentos entre casos de usos, estes relacionamentos são: Relacionamento de Inclusão, Relacionamento de Extensão, Relacionamento de Generalização? | Alto | Regra do modelo | Binário |
 | 4. No diagrama, ao menos um caso de uso se relaciona com um ator? | Alto | Regra do modelo | Binário |
 | 5. Nos relacionamentos de inclusão, o caso base é incompleto sem o caso que está sendo incluído? | Alto | Regra do Modelo | Binário |
 | 6. Nos relacionamentos de extensão, o caso extendido (ou, caso base) é completo por si só? | Alto | Regra do modelo | Binário |
@@ -31,58 +28,21 @@
 | 21. A rastreabilidade está bem implementada? | Alto | É importante manter um acesso fácil aos termos-chaves, às origens e inspirações (baseadas em modelos anteriores) que levaram à construção do modelo analisado. | Numérico |
 | 22. Os nomes do casos de uso evitam termos condicionais (como "se" ou "mas")? | Alto | Deve-se sempre partir do pressuposto de que as condicionais foram cumpridas | Binário |
 
+## Auditorias Realizadas
 
-Obs: Perguntas binárias implicam em nota 0 ou 10
+* [Inspeção - Henrique Martins](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_diagrama_caso_de_uso.md)
+* [Inspeção - Guilherme de Lyra]()
 
-## Tabela
-### Checklist
+## Consenso das Avaliações
 
-Obs: "*" indica que pergunta é binária
- <!-- &#10003; -->
+| Diagrama Casos de Uso | 1*| 2*| 3*| 4*| 5*| 6*| 7*| 8*| 9 | 10 | 11 | 12* | 13*| 14*| 15*| 16*| 17*| 18 | 19 | 20*| 21 | 22*|
+| ------------ | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+|     UCD001    | &#10003; | x | &#10003; | &#10003; | x | x | &#10003; | &#10003; | 10 | 10 | 10 | &#10003; | &#10003; | &#10003; | &#10003; | x | x | 10 | 10 | &#10003; | 10 | &#10003; |
+|     UCD002    | &#10003; | x | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | 10 | 10 | 10 | &#10003; | &#10003; | &#10003; | &#10003; | x | x | 10 | 10 | &#10003; | 10 | &#10003; |
+|     UCD003    | &#10003; | x | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | 10 | 10 | 10 | &#10003; | &#10003; | &#10003; | x | x | x | 10 | 0 | &#10003; | 10 | &#10003; |
+|     UCD004    | &#10003; | x | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | &#10003; | 10 | 10 | 7 | &#10003; | &#10003; | x | x | x | x | 0 | 0 | &#10003; | 10 | &#10003; | 
 
-| Casos de Uso (Consenso) | 1*| 2*| 3*| 4*| 5*| 6*| 7*| 8*| 9 | 10 | 11 | 12 | 13*| 14*| 15*| 16*| 17*| 18 | 19 | 20*| 21 | 22*|
-| ------------ | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|     UCD001    |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|     UCD002    |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|     UCD003    |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|     UCD004    |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-
-### Relevâncias
-| Artefato | Ranking |
-| -------- | :-----: |
-| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
-| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
-
-## Qualidade do Modelo
-
-### Critérios de qualidade:
- - Reprovação em no máximo um critério - <b>Qualidade Alta</b>
- - Reprovação em 2 ou 3 critérios - <b>Qualidade Média</b>
- - Reprovação em mais de 3 critérios - <b>Qualidade Baixa</b>
-
- ## Análise dos Modelos:
-
- ### Qualidade Baixa
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
- ### Qualidade Média
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
- ### Qualidade Alta
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
+[Justificativas das Avaliações (Consenso)]()
 
 ## Números:																																														
 |   | Resultado |
@@ -93,9 +53,9 @@ Obs: "*" indica que pergunta é binária
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
-- <Léxico X> [x]
-- <Léxico X> [x]
-- <Léxico X> [x]
+- [Léxico LX026 - Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
+- [Léxico LX005 - Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)
+
 
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |

@@ -55,14 +55,6 @@
 [Justificativas das Avaliações (Consenso)](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/nfr.md)
 
 
-### Relevâncias
-
-| Artefato | Ranking |
-| -------- | :-----: |
-| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
-| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
-
-
 ## Números:                                                                                                                                                                                        
 |   | Resultado |
 | - | :---------: |
@@ -72,9 +64,9 @@
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
-- <Léxico X> [x]
-- <Léxico X> [x]
-- <Léxico X> [x]
+- [Léxico LX026 - Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
+- [Léxico LX031 - Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usu%C3%A1rio.md)
+
 
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |

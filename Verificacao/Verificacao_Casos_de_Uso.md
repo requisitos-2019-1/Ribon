@@ -69,14 +69,7 @@
 |    UC028   |&#10003;|&#10003;|10|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|x |10|&#10003;|10|10|10|10| 10 |&#10003;|&#10003;|&#10003;|10      |
 |    UC029   |&#10003;|&#10003;|10|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|x |10|&#10003;|10|10|10|10| 7  |x       |&#10003;|&#10003;|10      |
 
-[Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/argumentacao.md)
-
-
-### Relevâncias
-| Artefato | Ranking |
-| -------- | :-----: |
-| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
-| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> | 
+[Justificativas das Avaliações (Consenso)](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/argumentacao.md)
 
 
 ## Números:																																														
@@ -88,9 +81,8 @@
 | Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
 
 ## Léxicos importantes identificados:
-- <Léxico X> [x]
-- <Léxico X> [x]
-- <Léxico X> [x]
+- [Léxico LX026 - Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
+- [Léxico LX005 - Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)
 
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |
