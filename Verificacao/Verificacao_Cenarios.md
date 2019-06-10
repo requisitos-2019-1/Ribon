@@ -9,7 +9,7 @@
 
 # Verificação - Inspeção [Cenários](https://github.com/requisitos-2019-1/Ribon/wiki/Cen%C3%A1rios)
 ## Questões Avaliadoras
-
+<!-- questao -->
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
 | 1 - O título do cenário indica uma ação? | Alto | Regra do modelo | Binário |
@@ -21,9 +21,9 @@
 | 7 - Os episódios são claros o suficiente para não deixarem dúvidas e/ou livre para interpretações? | Alto | É importante que seja claro para o desenvolvedor conseguir seguir os passo-a-passos sem ter indagações internas (o que pode resultar em tomadas de decisões que não acordem com o que se esperava daquela feature)  | Numérico |
 | 8 - As restrições representam requisitos que devem ser cumpridos para o cenário ocorrer? | Alto | Regra do modelo | Binário |
 | 9 - As exceções representam alguma situação que atrapalha o usuário de atingir o objetivo inicial? | Alto | Regra do modelo | Binário |
-| 10 - O cenário está de acordo com o funcionamento real do produto? | Alta | Essa é a finalidade do modelo | Numérico |
+| 10 - O cenário está de acordo com o funcionamento real do produto? | Alto | Essa é a finalidade do modelo | Numérico |
 | 11 - O cenário ajuda no entendimento do sistema em geral ou de alguma funcionalidade em específico? | Alto | Finalidade do modelo | Numérico |
-
+<!-- fquestao -->
 Obs: Perguntas binárias implicam em nota 0 ou 10
 
 ## Auditorias Realizadas
@@ -36,6 +36,7 @@ Obs: Perguntas binárias implicam em nota 0 ou 10
 ## Consenso das Avaliações
 Obs: "*" indica que pergunta é binária
 
+<!-- inicio -->
 | Cenários (Consenso)                 | 1*| 2*| 3*| 4*| 5 | 6 | 7 | 8*| 9*| 10 | 11 |
 | ----------------------------------- | - | - | - | - | - | - | - | - | - | -- | -- |
 | CN001 - Coletar Ribon Diário        | &#10003; |     X    | &#10003; |    X     |    10    |    8    |  7 |    X     |    X     | 8  | &#10003; |
@@ -52,6 +53,7 @@ Obs: "*" indica que pergunta é binária
 | CN012 - Visualizar ONGs             | &#10003; |     X    | &#10003; | &#10003; |    10    |    10   | 9  | &#10003; |    X     | 9  | &#10003; |
 | CN013 - Doar Medicamentos           | &#10003; | &#10003; |     X    | &#10003; |    10    |    8    | 10 |    X     |    X     | 10 | &#10003; |
 | CN014 - Doar Saúde Básica           | &#10003; | &#10003; |     X    | &#10003; |    10    |    8    | 10 |    X     |    X     | 10 | &#10003; |
+<!-- fim -->
 
 [Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/cenarios.md)
 
