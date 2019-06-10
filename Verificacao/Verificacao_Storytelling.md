@@ -20,15 +20,14 @@
 ## Tabela
 ### Checklist
 
-| Storytelling (Henrique) | 1 | 2 | 3 | 4 | 5 |
-| -------- | - | - | - | - | - |
-| ST01 | &#10003; | &#10003; | &#10003; | 3 | 10 |
+[Inspeção - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_storytelling.md)<br>
+[Inspeção - Victor](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/victor-rodrigues/inspecao_storytelling.md)
 
-[Inspeção - Henrique](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_storytelling.md)
+| Storytelling (Consenso) | 1\*      | 2\*      | 3\*      | 4   | 5   |
+| ----------------------- | -------- | -------- | -------- | --- | --- |
+| ST01                    | &#10003; | &#10003; | &#10003; | 0   | 10  |
 
-| Storytelling (Consenso) | 1 | 2 | 3 | 4 | 5 |
-| -------- | - | - | - | - | - |
-| ST01 | <!-- &#10003; --> | <!-- &#10003; --> | <!-- &#10003; --> |  |  |
+[Justificativa](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/storyTelling.md)
 
 ### Relevância
 | Artefato | Ranking |
