@@ -46,10 +46,10 @@ Obs: Perguntas binárias implicam em nota 0 ou 10
 Obs: "*" indica que pergunta é binária
 <!-- inicio -->
 | Argumentações | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
-| -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
-| A001_RichPicture      | 6 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
-| A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   | x | 6   | 0   | x | 0   | x    | x    |&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
-| A003_Investidores     | 5 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
+| -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | --- |
+| A001_RichPicture      | 6 |&#10003;| 0   | 4   | 0   | X | 0   | 7   | X | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | X | 5   | X | X |&#10003;|
+| A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   | X | 6   | 0   | X | 0   | X    | X    |&#10003;|10   | 4   | X | 5   | X | X |&#10003;|
+| A003_Investidores     | 5 |&#10003;| 0   | 4   | 0   | X | 0   | 7   | X | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | X | 5   | X | X |&#10003;|
 <!-- fim -->
 
 [Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/argumentacao.md)
@@ -69,9 +69,11 @@ Obs: "*" indica que pergunta é binária
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |
 | -------- | :--------: | :----: | :-------: |
-| A001_Richpicture | 4.6 | MI | Reprovado |
-| A002_Empresarial | 3.1 | MI | Reprovado |
-| A003_Investidores | 4.55 | MI | Reprovado |
+| A001_Richpicture | 4.928571 | MI | Reprovado |
+| A002_Empresarial | 3.321429 | MI | Reprovado |
+| A003_Investidores | 4.875000 | MI | Reprovado |
+
+![img](../argumentacao_grade.png)
 
 ## Bibliografia
 > [Requisitos - Aula 04 (Maurício Serrano e Milene Serrano)](https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf)
