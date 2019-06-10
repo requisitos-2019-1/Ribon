@@ -47,7 +47,7 @@
 |8| O conceito de operacionalização foi usado de forma incorreta em quase todas as operacionalizações  |
 |9|  não foram utilizados verbos de ações para descrever as operacionalizações. |
 
-##NFR02 - Desempenho
+## NFR02 - Desempenho
 |-| Justificativa |
 |-| ------------- |
 |5|  Apenas 1 das 8 contribuições está incorreta |
