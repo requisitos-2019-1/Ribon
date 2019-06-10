@@ -2,22 +2,22 @@
 # AUDITOR: Henrique Martins
 
 
-| Questão | Impacto | Contexto | Justificativa do Impacto | Tipo |
-| ------- | :-----: | :------: | :-----------: | :--: |
-| 1 - A história é separada por tema? | Alto | | Para haver diferença clara entre Funcional e Não-Funcional | Binário |
-| 2 - A história está em um único padrão de escrita? | Alto | | Padronizar ajuda no entendimento dos casos de uso | Numérico |
-| 3 - A história apresenta épico? | alto/médio/baixo | | | |
-| 4 - A história apresenta features? | alto/médio/baixo | | | |
-| 5 - A história possui um ID de especificação enumerada em ordem crescente? | Médio | | A história possuir um ID único ajuda na visualização | Binário |
-| 6 - A história é pontuada de acordo com a sequência de Fibonacci? | Baixo | | A pontuação só é usada para representar a possível dificuldade de implementação do caso de uso | Binário |
-| 7 - A história é priorizada pelo modelo MoSCoW? | Alto | | Representa a importância do caso de uso na aplicação | Binário |
-| 8 - A descrição do tema e épico da história são coerentes? | alto/médio/baixo | | | |
-| 9 - A Sprint dessa história está pontuado? | alto/médio/baixo | | | |
-| 10 - A história especifica ao menos 1 critério de aceitação? | Alto | | Auxilia no entendimento do objetivo da história de usuário | Numérico |
-| 11 - A história identifica o usuário principal? | Alto | | Auxilia na identificação do ator envolvido na história | Binário |
-| 12 - A história apresenta um ou mais links dos seus respectivos rastreamentos? | alto/médio/baixo | | | |
-| 13 - "O que” e o “para que” estão definidos na descrição da história? | Alto | | São elementos de extrema importância para a confecção das histórias de usuário | Binário |
-| 14 - "O que” e o “para que” estão coerentes? | Alto | | São elementos de extrema importância para o entendimento das histórias de usuário | Numérico |
+| Questão | Impacto | Justificativa do Impacto | Tipo |
+| ------- | :-----: | :-----------: | :--: |
+| 1 - A história é separada por tema? | Alto | Para haver diferença clara entre Funcional e Não-Funcional | Binário |
+| 2 - A história está em um único padrão de escrita? | Alto | Padronizar ajuda no entendimento dos casos de uso | Numérico |
+| 3 - A história apresenta épico? | Alto | O épico clissifica melhor os casos de uso e ajuda no entendimento | Binário | 
+| 4 - A história apresenta features? | Baixo | Ajuda na identificação do caso de uso na aplicação | Binário | 
+| 5 - A história possui um ID de especificação enumerada em ordem crescente? | Médio  | A história possuir um ID único ajuda na visualização | Binário |
+| 6 - A história é pontuada de acordo com a sequência de Fibonacci? | Baixo |  A pontuação só é usada para representar a possível dificuldade de implementação do caso de uso | Binário |
+| 7 - A história é priorizada pelo modelo MoSCoW? | Alto |  Representa a importância do caso de uso na aplicação | Binário |
+| 8 - A descrição do tema e épico da história são coerentes? | Baixo  | Uma descrição detalhadas destes componentes ajuda na compreensão dos casos de uso | Numérico |
+| 9 - A Sprint dessa história está pontuado? | Baixo | A pontuação ajuda na compreensão da complexidade do caso de uso | Binário | 
+| 10 - A história especifica ao menos 1 critério de aceitação? | Alto  | Auxilia no entendimento do objetivo da história de usuário | Numérico |
+| 11 - A história identifica o usuário principal? | Alto  | Auxilia na identificação do ator envolvido na história | Binário |
+| 12 - A história apresenta um ou mais links dos seus respectivos rastreamentos? | Baixo  | Acrescenta maior praticidade na rastreabilidade | Numérico |
+| 13 - "O que” e o “para que” estão definidos na descrição da história? | Alto |  São elementos de extrema importância para a confecção das histórias de usuário | Binário |
+| 14 - "O que” e o “para que” estão coerentes? | Alto  | São elementos de extrema importância para o entendimento das histórias de usuário | Numérico |
 
 | Backlog de Produto | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 | ---- | - | - | - | - | - | - | - | - | - | - | - | - | - | - |

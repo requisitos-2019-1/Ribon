@@ -14,15 +14,15 @@
 | 8 - Os conflitos relacionam, no mínimo, duas proposições? | Alto | Não é permitido ter um conflito de uma proposição p1 sem que haja uma proposição p2 contrária | Binário |
 | 9 - A escrita dos conflitos está coerente? | Médio | Como é um modelo, é necessário que os elementos atendam esse modelo e sigam suas diretrizes | Numérico |
 | 10 - Os conflitos possuem solução? | Alto | É o propósito da argumentação | Binário |
-| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição rejeitada? | Alto | O conflito que aponta para a proposição que perdeu é a única forma de saber o resultado do conflito | Binário |
+| 11 - Os conflitos entre preferências e conflitos também apontam para a proposição preferida? | Alto | O conflito que aponta para a proposição que perdeu é a única forma de saber o resultado do conflito | Binário |
 | 12 - As preferências relacionam duas proposições? | Alto | Não é permitido ter uma preferência de uma proposição p1 sem que haja uma proposição p2 | Binário |
 | 13 - A argumentação possui conclusão? | Alto | É o propósito do modelo | Binário |
 | 14 - O fluxo de inferência, conflito, preferência e conclusão está certo? | Alto | É necessário que esteja sistematizadamente organizado de acordo com o modelo para que se possa extrair de forma flúida as informações do mesmo | Numérico |
-| 15 - A argumentação possui rastreabilidade? | Alto |  | Binário |
-| 16 - Chegou a conclusão de forma verbal? | Alto | | Binário |
-| 17 - Mais de uma pessoa participou da discussão? | Alto | | Numérico |
-| 18 - Outra discordância gerou um novo argumento? | Baixo | | Binário |
-| 19 - O novo argumento gerou conflito com o argumento preferido? | Alto | | Binário |
+| 15 - A argumentação possui rastreabilidade? | Alto | A rastreabilidade é necessária para que se possa guardar informações importantes sobre a argumentação | Binário |
+| 16 - Chegou a conclusão de forma verbal? | Alto | A conclusão verbal auxilia no entendimento da argumentação| Binário |
+| 17 - Mais de uma pessoa participou da discussão? | Alto | Para que uma argumentação seja de qualidade, é preciso muitas pessoas | Numérico |
+| 18 - Outra discordância gerou um novo argumento? | Baixo | Boa prática | Binário |
+| 19 - O novo argumento gerou conflito com o argumento preferido? | Alto | Boa prática | Binário |
 | 20 - Os participantes chegaram a uma conclusão? | Alto | "Uma das principais metas da argumentação é a resolução de conflitos" (Rahwan, 2005) | Binário |
 
 | Argumentações (Henrique) | 1   | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
