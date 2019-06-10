@@ -12,7 +12,7 @@
 # Verificação - Inspeção [NFR Softgoal](https://github.com/requisitos-2019-1/Ribon/wiki/NFR-Softgoal)
 
 ## Questões Avaliadoras
-
+<!-- questao -->
 | Questão | Impacto | Justificativa do impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
 | 1 - O foco do modelo é demonstrar o cumprimento do NFR Softgoal e as possíveis alternativas para o cumprimento do mesmo? | alto| É um dos principais objetivos do modelo | Binário |
@@ -33,7 +33,7 @@
 | 16 - Os Softgoals foram priorizados corretamente?  | alto | Os conceitos do framework devem ser utilizados de maneira correta | Numérico |
 | 17 - É possível identificar as decisões e suas alternativas?  | alto | é de extrema importância para o modelo poder visualizar as decisões tomadas e suas alternativas| Binário |
 | 18 - A propagação do impacto das decisões foi realizada corretamente, ou seja, respeitando as restrições impostas pelos tipos das contribuições?  | alto | Para determinar se o NFR Softgoal foi cumprido ou não | Numérico |
-
+<!-- fquestao -->
 
 ## Auditorias Realizadas
 
@@ -43,7 +43,7 @@
 
 
 ## Consenso das Avaliações
-
+<!-- inicio -->
 | NFR              | 1*     | 2*     | 3*     | 4*      |5 | 6|7 |8 |9 | 10*    | 11 | 12 | 13*      | 14 |15*| 16 | 17*     | 18 |
 | ---------------- | ------ | ------ | ------ | ------- |--|--|--|--|--| ------ | -- | -- | -------- | -- | - | -- | ------- | -- |
 | Usabilidade      |&#10003;|&#10003;|&#10003;|X        |2 |7 |10|1 |1 |X       | NA | NA | X        | NA | X | NA | &#10003;| 10 |
@@ -51,17 +51,16 @@
 | Manutenibilidade |&#10003;|&#10003;|&#10003;|X        |7 |7 |8 |5 |8 |&#10003;| 10 | 10 | X        | NA | X | NA | &#10003;| 5  |
 | Privacidade      |&#10003;|&#10003;|&#10003;|&#10003; |9 |8 |4 |9 |9 |X       | NA | NA | &#10003; | 10 | X | NA | &#10003;| 10 |
 | Suportabilidade  |&#10003;|&#10003;|&#10003;|&#10003; |10|8 |7 |7 |5 |&#10003;| 10 |10  | &#10003; | 10 | X | NA | &#10003;| 10 |
-
+<!-- fim -->
 [Justificativas das Avaliações (Consenso)](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/nfr.md)
 
 
 ## Números:                                                                                                                                                                                        
-|   | Resultado |
+| Indicativos  | Resultado |
 | - | :---------: |
-| Número de NFRs: | |
-| Total de indicadores (NFRs x Perguntas): |    |
-| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): |     |
-| Total de pontos de erro com impacto<br /> (Σ Erros/ (questão alta *3) + (questão média *2) + (questão baixa *1)):| |
+| Número de NFRs: | 5 |
+| Total de indicadores (NFRs x Perguntas): |  90  |
+| Taxa de erro de perguntas  (Σ Erros / Total de indicadores): | 33 / 90 = 0,366  |
 
 ## Léxicos importantes identificados:
 - [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
@@ -71,9 +70,11 @@
 ## Validação Geral:
 | Artefato | Nota Geral | Menção | Resultado |
 | -------- | :--------: | :----: | :-------: |
-| Artefato01 | 5.55 | MM | Reprovado |
-| Artefato02 | 4.44 | MI | Reprovado |
-| Artefato03 | 7.77 | MS | Aprovado |
+| Usabilidade | 0.00 | SR | Reprovado |
+| Desempenho | 0.00 | SR | Reprovado |
+| Manutenibilidade | 0.00 | SR | Aprovado |
+| Privacidade | 0.00 | SR | Aprovado |
+| Suportabilidade | 0.00 | SR | Aprovado |
 
 ## Bibliografia
 > [Requisitos Aula 20, Mauricio e Milene Serrano](https://aprender.ead.unb.br/pluginfile.php/348668/mod_resource/content/10/Requisitos%20-%20Aula%20020a.pdf)

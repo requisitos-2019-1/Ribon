@@ -2,7 +2,7 @@
 
 ## Questões Avaliadoras
 
-
+<!-- questao -->
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :----------------------: | :--: |
 | 1. O nome do ator revela seu papel no sistema? | Alto | Como é um modelo, é necessário que os elementos atendam esse modelo e sigam suas diretrizes | Binário |
@@ -27,22 +27,23 @@
 | 20. Há uma tabela com possíveis requisitos não funcionais ligados ao diagrama? | Baixo | Pode-se retirar informações úteis dessa forma | Binário |
 | 21. A rastreabilidade está bem implementada? | Alto | É importante manter um acesso fácil aos termos-chaves, às origens e inspirações (baseadas em modelos anteriores) que levaram à construção do modelo analisado. | Numérico |
 | 22. Os nomes do casos de uso evitam termos condicionais (como "se" ou "mas")? | Alto | Deve-se sempre partir do pressuposto de que as condicionais foram cumpridas | Binário |
-
+<!-- fquestao -->
 ## Auditorias Realizadas
 
 * [Inspeção - Henrique Martins](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_diagrama_caso_de_uso.md)
 * [Inspeção - Guilherme de Lyra](inspecoes/guilherme-de-lyra/inspecao_diagrama_caso_de_uso.md)
 
 ## Consenso das Avaliações
-
+<!-- inicio -->
 |Diagramas (Guilherme de Lyra)       |   1    |   3    |   4    |   5    |   6    |   7    |   8    | 9 |10 |11 |   12   |   2    |   14   |   13   |   16   |   17   |18 |19 |   20   |21 |   22   |   15   |
 |----------------------|--------|--------|--------|--------|--------|--------|--------|--:|--:|--:|--------|--------|--------|--------|--------|--------|--:|--:|--------|--:|--------|--------|
 |UCD002_Ler_Histórias  |&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;| 10|  8|  4|&#10003;|&#10003;|X       |&#10003;|&#10003;|X       | 10| 10|&#10003;|  9|&#10003;|X       |
 |UCD004_Receber_Ribons |&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|X       |  9|  9|  9|&#10003;|&#10003;|&#10003;|&#10003;|X       |X       |  0|  0|&#10003;|  9|&#10003;|X       |
 |UCD003_Visualizar_ONGs|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|X       |  9| 10| 10|&#10003;|&#10003;|&#10003;|&#10003;|X       |X       | 10|  0|&#10003;|  9|&#10003;|X       |
 |UCD001_Doar_Ribons    |&#10003;|&#10003;|&#10003;|&#10003;|X       |&#10003;|&#10003;| 10| 10| 10|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;| 10| 10|&#10003;|  9|&#10003;|&#10003;|
+<!-- fim -->
 
-[Justificativas das Avaliações (Consenso)]()
+[Justificativas das Avaliações (Consenso)](inspecoes/consenso/inspecao_diagrama_caso_de_uso.md)
 
 ## Números:																																														
 |   | Resultado |
