@@ -22,7 +22,6 @@
 | 16. São evitados termos que indicam a prematura especificação de interface, tais como "checar", "botão" etc? | Médio | É importante não entrar numa operacionalização excessiva já que foge um pouco do propósito do diagrama | Numérico |
 | 17. As funcionalidades se restringem ao quê o sistema deve fazer e não em como, evitando a definição explicita de código na especificação? | Médio | Boa prática, pois evita operacionalização excessiva | Binário |
 | 18. A descrição evita requisitos de negócio sem ação direta ao sistema? | Médio | Normalmente regras de negócio implicam em requisitos não-funcionais, e estes últimos não têm espaço no modelo. <br/> Logo, normalmente, é uma questão de regra de modelo. | Binário |
-<!-- | 24. Há presença de breve descrição ou resumo no inicio da descrição de caso de uso, que especifique de forma clara o seu propósito? | Baixo | | | -->
 | 19. Os nomes dos casos de uso são numeradas para que possibilitem a rastreabilidade? | Médio | Boa prática | Binário |
 | 20. Os nomes dos casos de uso procuram ser objetivas, evitando redundâncias ou presença de informações evidentemente desnecessárias? | Baixo | Boa prática | Numérico |
 
@@ -60,21 +59,21 @@
 
 ## UC001
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|Utilização do termo "botão"|
 
 ## UC002
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|Utilização do termo "botão"|
 
 ## UC003
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |3|O nome "Selecionar causa" pode não significar muito para uma pessoa não familiarizada com o app|
 |9|Não existe descrição dos atores|
@@ -82,7 +81,7 @@
 
 ## UC004
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "card" refencia  um elemento de interface|
@@ -90,159 +89,159 @@
 
 ## UC005
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "card" refencia  um elemento de interface|
 
 ## UC006
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "card" refencia  um elemento de interface|
 
 ## UC007
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "card" refencia  um elemento de interface|
 
 ## UC008
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC009
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC010
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC011
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "abrir menu" refencia interface|
 
 ## UC012
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "abrir menu" refencia interface|
 
 ## UC013
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "botão" refencia interface|
 
 ## UC014
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "botão" refencia interface|
 
 ## UC015
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo 2 do fluxo de eventos referencia interface|
 
 ## UC016
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "botão" refencia interface|
 
 ## UC018
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC019
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC020
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC021
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "botão" refencia interface|
 
 ## UC022
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "botão" refencia interface|
 
 ## UC023
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC024
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|"Ícone de presente" referencia interface|
 
 ## UC025
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|Os termos "botão" e "Página de pacotes" refenciam interface|
 
 ## UC026
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "botão" refencia interface|
 
 ## UC027
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC028
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 
 ## UC029
 
-| | Justificativa |
+| Questão | Justificativa |
 |-| ------------- |
 |9|Não existe descrição dos atores|
 |16|O termo "botão" refencia interface|
