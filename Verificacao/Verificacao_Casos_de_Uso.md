@@ -7,7 +7,7 @@
 # Verificação - Inspeção [Casos de Uso](https://github.com/requisitos-2019-1/Ribon/wiki/Casos-de-uso)
 
 ## Questões Avaliadoras
-
+<!-- questao -->
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :----------------------: | :--: |
 | 1. O nome do ator revela seu papel no sistema? | Alto | Como é um modelo, é necessário que os elementos atendam esse modelo e sigam suas diretrizes | Binário |
@@ -30,14 +30,14 @@
 | 18. A descrição evita requisitos de negócio sem ação direta ao sistema? | Médio | Normalmente regras de negócio implicam em requisitos não-funcionais, e estes últimos não têm espaço no modelo. Logo, normalmente, é uma questão de regra de modelo. | Binário |
 | 19. Os nomes dos casos de uso são numeradas para que possibilitem a rastreabilidade? | Médio | Boa prática | Binário |
 | 20. Os nomes dos casos de uso procuram ser objetivas, evitando redundâncias ou presença de informações evidentemente desnecessárias? | Baixo | Boa prática | Numérico |
-
+<!-- fquestao -->
 ## Auditorias Realizadas
 
 * [Inspeção - Henrique Martins](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_caso_de_uso.md)
 * [Inspeção - Victor Rodrigues](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/victor-rodrigues/inspecao_casos_de_uso.md)
 
 ## Consenso das Avaliações
-
+<!-- inicio -->
 |Casos de Uso| 1*     | 2*     | 3| 4*     | 5*     | 6*     | 7*     | 8*     |9*|10| 11*    |12|13|14|15| 16 | 17*    | 18*    | 19*    | 20     |
 |------------| -      | -      | -| -      | -      | -      | -      | -      |- |--| --     |--|--|--|--| -- | --     | --     | --     | --     |
 |    UC001   |&#10003;|&#10003;|10|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|x |10|&#10003;|10|10|10|10| 7  |x       |&#10003;|&#10003;|10      |
@@ -68,7 +68,7 @@
 |    UC027   |&#10003;|&#10003;|10|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|x |10|&#10003;|10|10|10|10| 10 |&#10003;|&#10003;|&#10003;|10      |
 |    UC028   |&#10003;|&#10003;|10|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|x |10|&#10003;|10|10|10|10| 10 |&#10003;|&#10003;|&#10003;|10      |
 |    UC029   |&#10003;|&#10003;|10|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|x |10|&#10003;|10|10|10|10| 7  |x       |&#10003;|&#10003;|10      |
-
+<!-- fim -->
 [Justificativas das Avaliações (Consenso)](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/argumentacao.md)
 
 

@@ -10,7 +10,7 @@
 # Verificação - Inspeção [Argumentação](https://github.com/requisitos-2019-1/Ribon/wiki/Argumenta%C3%A7%C3%A3o)
 
 ## Questões Avaliadoras
-
+<!-- questao -->
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :----------------------: | :--: |
 | 1 - A escrita das proposições está coerente? | Alto | O entendimento da argumentação é essencial para que se possa resolver de forma devida os conflitos  | Numérico |
@@ -33,7 +33,7 @@
 | 18 - Outra discordância gerou um novo argumento? | Baixo | Boa prática | Binário |
 | 19 - O novo argumento gerou conflito com o argumento preferido? | Alto | Boa prática | Binário |
 | 20 - Os participantes chegaram a uma conclusão? | Alto | "Uma das principais metas da argumentação é a resolução de conflitos" (Rahwan, 2005) | Binário |
-
+<!-- fquestao -->
 Obs: Perguntas binárias implicam em nota 0 ou 10
 
 ## Auditorias Realizadas
@@ -44,12 +44,13 @@ Obs: Perguntas binárias implicam em nota 0 ou 10
 
 ## Consenso das Avaliações
 Obs: "*" indica que pergunta é binária
-
+<!-- inicio -->
 | Argumentações | 1 | 2      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11     | 12     | 13     | 14  | 15  | 16  | 17  | 18  | 19  | 20     |
 | -------------------   | - | ---    | --- | --- | --- | --- | --- | --- | --- | --- | ---    | ---    | ---    | --- | --- | --- | --- | --- | --- | ---    |
 | A001_RichPicture      | 6 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 | A002_Empresarial      | 4 |&#10003;| 3   | 0   | 0   | x | 6   | 0   | x | 0   | x    | x    |&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
 | A003_Investidores     | 5 |&#10003;| 0   | 4   | 0   | x | 0   | 7   | x | 6   |&#10003;|&#10003;|&#10003;|10   | 4   | x | 5   | x | x |&#10003;|
+<!-- fim -->
 
 [Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/argumentacao.md)
 

@@ -9,7 +9,7 @@
 
 # Verificação - Inspeção [Backlog de Produto](https://github.com/requisitos-2019-1/Ribon/wiki/Backlog-de-Produto)
 ## Questões Avaliadoras
-
+<!-- questao -->
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
 | 1 - A história é separada por tema? | Alto | Para haver diferença clara entre Funcional e Não-Funcional | Binário |
@@ -26,14 +26,14 @@
 | 12 - A história apresenta um ou mais links dos seus respectivos rastreamentos? | Baixo  | Acrescenta maior praticidade na rastreabilidade | Numérico |
 | 13 - "O que” e o “para que” estão definidos na descrição da história? | Alto |  São elementos de extrema importância para a confecção das histórias de usuário | Binário |
 | 14 - "O que” e o “para que” estão coerentes? | Alto  | São elementos de extrema importância para o entendimento das histórias de usuário | Numérico |
-
+<!-- fquestao -->
 ## Auditorias Realizadas
 
 * [Inspeção - Henrique Martins](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_backlog.md)
 
 
 ## Consenso das Avaliações
-
+<!-- inicio -->
 | Backlog de Produto | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 | ---- | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | US001 | &#10003; | 10 | x | x | &#10003; | x | &#10003; | 5 | x | 10 | &#10003; | 0 | &#10003; | 10 |  
@@ -88,7 +88,7 @@
 | US052 | &#10003; | 10 | x | x | &#10003; | x | &#10003; | 5 | x | 0 | &#10003; | 0 | &#10003; | 10 |
 | US053 | &#10003; | 10 | x | x | &#10003; | x | &#10003; | 5 | x | 0 | &#10003; | 0 | &#10003; | 10 |
 | US054 | &#10003; | 10 | x | x | &#10003; | x | &#10003; | 5 | x | 0 | &#10003; | 0 | &#10003; | 10 |
-
+<!-- fim -->
 [Justificativas das Avaliações (Consenso)](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/henrique-martins/inspecao_backlog.md)
   
 ## Números:																																														

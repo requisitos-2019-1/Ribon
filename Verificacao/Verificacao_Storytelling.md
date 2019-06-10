@@ -7,7 +7,7 @@
 
 # Verificação - Inspeção [StoryTelling](https://github.com/requisitos-2019-1/Ribon/blob/master/Elicitacao/StoryTelling/StoryTelling.md)
 ## Questões Avaliadoras
-
+<!-- questao -->
 | Questão | Impacto | Justificativa do Impacto | Tipo |
 | ------- | :-----: | :-----------: | :--: |
 | 1 - As histórias foram acontecimentos reais vivenciados pelos usuários? | Alto | A veracidade da história contribui para a credibilidade do storytelling | Binário |
@@ -15,7 +15,7 @@
 | 3 - O acontecimento foi narrado em formato de história? | Alto | É essencial que o storytelling esteja no formato de história | Binário |
 | 4 - As histórias foram coletadas sob diferentes pontos de vistas? | Alto | A coleta de mais de um ponto de vista permite mais variedade | Numérico |
 | 5 - Os requisitos levantados de cada história foram documentados?	| Alto | É importante usar o storytelling para levantar requisitos | Numérico |
-
+<!-- fquestao -->
 Obs: Perguntas binárias implicam em nota 0 ou 10
 
 ## Auditorias Realizadas
@@ -25,11 +25,11 @@ Obs: Perguntas binárias implicam em nota 0 ou 10
 
 ## Consenso das Avaliações
 Obs: "*" indica que pergunta é binária
-
+<!-- inicio -->
 | Storytelling (Consenso) | 1\*      | 2\*      | 3\*      | 4   | 5   |
 | ----------------------- | -------- | -------- | -------- | --- | --- |
 | ST01                    | &#10003; | &#10003; | &#10003; | 0   | 10  |
-
+<!-- fim -->
 [Justificativas - Consenso](https://github.com/requisitos-2019-1/Ribon/blob/master/Verificacao/inspecoes/consenso/storyTelling.md)
 
 ## Números:																																														
