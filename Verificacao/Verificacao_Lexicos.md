@@ -10,7 +10,7 @@
 
 # Verificação - Inspeção [Léxicos](https://github.com/requisitos-2019-1/Ribon/wiki/L%C3%A9xicos)
 
-## Perguntas gerais:
+## Questões Avaliadoras
 
 | Questão | Impacto | Justificativa | Tipo |
 | ------- | :-----: | :-----------: | :--: |
@@ -62,79 +62,53 @@ De acordo com o tipo do léxico foram identificadas diferentes fatores que influ
 | E3 - Os impactos identificam outros estados possíveis? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
 | E4 - Os impactos identificam as possíveis ações que podem ocorrer a partir daquele estado? | médio | Ajuda no entendimento do estado mas não é de suma importância | numérico |
 
-## Tabela
-### Checklist
+Obs: Perguntas binárias implicam em nota 0 ou 10
 
-| Léxicos | 1 | 2 | 3 | 4 |
-| ---- | - | - | - | - |
-| LX001 - Água Potável | &#10003; | &#10003; | &#10003; |  |
-| LX002 - Aplicativo | &#10003; | &#10003; | &#10003; |  |
-| LX003 - Aplicativo não Funciona | &#10003; | &#10003; | &#10003; |  |
-| LX004 - Card | &#10003; | &#10003; | &#10003; |  |
-| LX005 - Causa | &#10003; | &#10003; | &#10003; |  |
-| LX006 - Coletar | &#10003; | &#10003; | &#10003; |  |
-| LX007 - Comprar | &#10003; | &#10003; | &#10003; |  |
-| LX008 - Comprovante de Doações | &#10003; | &#10003; | &#10003; |  |
-| LX009 - Comunidade | &#10003; | &#10003; | &#10003; |  |
-| LX010 - Doar | &#10003; | &#10003; | &#10003; |  |
-| LX011 - Doação | &#10003; | &#10003; | &#10003; |  |
-| LX012 - Evidence Action | &#10003; | &#10003; | &#10003; |  |
-| LX013 - Fortificação Alimentar | &#10003; | &#10003; | &#10003; |  |
-| LX014 - História | &#10003; | &#10003; | &#10003; |  |
-| LX015 - História Coletada | &#10003; | &#10003; | &#10003; |  |
-| LX016 - História Expirada | &#10003; | &#10003; | &#10003; |  |
-| LX017 - Living Goods | &#10003; | &#10003; | &#10003; |  |
-| LX018 - Medicamentos | &#10003; | &#10003; | &#10003; |  |
-| LX019 - ONG | &#10003; | &#10003; | &#10003; |  |
-| LX020 - Patrocinador | &#10003; | &#10003; | &#10003; |  |
-| LX021 - Perfil | &#10003; | &#10003; | &#10003; |  |
-| LX022 - Presente Diário | &#10003; | &#10003; | &#10003; |  |
-| LX023 - Presente Diário Coletado | &#10003; | &#10003; | &#10003; |  |
-| LX024 - Problemas com o Smartphone | &#10003; | &#10003; | &#10003; |  |
-| LX025 - Project Healthy Children | &#10003; | &#10003; | &#10003; |  |
-| LX026 - Ribon | &#10003; | &#10003; | &#10003; |  |
-| LX027 - Saúde Básica | &#10003; | &#10003; | &#10003; |  |
-| LX028 - Schistosomiasis Control Initiative | &#10003; | &#10003; | &#10003; |  |
-| LX029 - Smartphone | &#10003; | &#10003; | &#10003; |  |
-| LX030 - Tutorial | &#10003; | &#10003; | &#10003; |  |
-| LX031 - Usuário | &#10003; | &#10003; | &#10003; |  |
+## Consenso das Avaliações
+Obs: "*" indica que pergunta é binária
 
-### Relevâncias
-| Artefato | Ranking |
-| -------- | :-----: |
-| A01 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
-| A02 | <li>Ponto 1</li><br/><li>Ponto 2</li> |
+| Léxicos de sujeito | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| ---- | - | - | - | - | - | - | - | - | - | - |
+| LX009 - Comunidade | &#10003; | &#10003; | 10 | &#10003;| &#10003; |8|&#10003; | &#10003;|10 |-|
+| LX012 - Evidence Action | &#10003; | &#10003; | 10 | &#10003; |x |- |&#10003; | &#10003;|10|10|
+| LX017 - Living Goods | &#10003; | &#10003; | 10 | &#10003; |x |- |&#10003; |&#10003; |10 |10 |
+| LX019 - ONG | &#10003; | &#10003; | 10 | &#10003; |&#10003; |10| &#10003;| &#10003;|10|10|
+| LX020 - Patrocinador | &#10003; | &#10003; |10|&#10003;|&#10003;|10|&#10003; |&#10003; |10|10|
+| LX025 - Project Healthy Children | &#10003; | &#10003; |10 |&#10003; | x | -|&#10003; |&#10003; |10 |10 |
+| LX028 - Schistosomiasis Control Initiative | &#10003; | &#10003; | 10 | &#10003; | x | - |&#10003; |&#10003; |10 |10 |
+| LX031 - Usuário | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 8 |&#10003; |&#10003; | 10| 10 |
 
-## Qualidade do Modelo
 
-### Critérios de qualidade:
- - Reprovação em no máximo um critério - <b>Qualidade Alta</b>
- - Reprovação em 2 ou 3 critérios - <b>Qualidade Média</b>
- - Reprovação em mais de 3 critérios - <b>Qualidade Baixa</b>
+| Léxicos de verbo | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| ---- | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| LX006 - Coletar | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 10 |&#10003; |&#10003; | 0|0 |0 |0 |0 |
+| LX007 - Comprar | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 8 |&#10003; | &#10003;| 10|10 |0 |10 |10 |
+| LX010 - Doar | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 10 | &#10003;|&#10003; |0 | 0 | 0 |10 | - |
 
- ## Análise dos Modelos:
 
- ### Qualidade Baixa
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
- ### Qualidade Média
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
- ### Qualidade Alta
-  - Avaliado 1
-    - Falha 1
-    - Falha 2
-  - Avaliado 2
-    - Falha 1
-    - Falha 2
+| Léxicos de objeto| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| ---- | - | - | - | - | - | - | - | - | - | - | - |
+| LX001 - Água Potável | &#10003; | &#10003; | 10 | &#10003; | &#10003;| 10 | &#10003;| &#10003; | &#10003;|x|6|
+| LX002 - Aplicativo | &#10003; | &#10003;  | 8 | &#10003; | &#10003; |10|&#10003;|&#10003;|&#10003;|x|6|
+| LX004 - Card | x | &#10003; | &#10003; |&#10003; | &#10003; |5|&#10003; |&#10003; |10|0|5|
+| LX005 - Causa | &#10003; | &#10003; | 0 | &#10003; | &#10003; |5|&#10003; |&#10003; |0|10|10|
+| LX008 - Comprovante de Doações | &#10003; | &#10003; | 10 | &#10003; | &#10003;  | 10 | &#10003; |&#10003; |10|10|10|
+| LX011 - Doação | &#10003; | &#10003; | 0 | &#10003; |&#10003; |10|&#10003; |&#10003; |6|10|10|
+| LX013 - Fortificação Alimentar | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 10 |&#10003; |&#10003; |10|10|10|
+| LX014 - História | &#10003; | &#10003; | 10 | &#10003; |&#10003;  |10|&#10003; |&#10003; |10|-|10|
+| LX018 - Medicamentos | &#10003; | &#10003; | 10 | &#10003; |&#10003;  |10 |&#10003; |&#10003; |10|10|10|
+| LX022 - Presente Diário | &#10003; | &#10003; | 10 | &#10003; | &#10003;  | 10 |&#10003; |&#10003; |10|10|10|
+| LX026 - Ribon | &#10003; | &#10003; | 10 | &#10003; | &#10003;  | 10 |&#10003; | &#10003;|10|10|10|
+| LX029 - Smartphone | &#10003; | &#10003; | 0 | &#10003; | &#10003; | 10 |&#10003; |&#10003; |9|10|10|
+| LX030 - Tutorial | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 10 |&#10003; |&#10003; |10|10|5|
+
+| Léxicos de estado | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| ---- | - | - | - | - | - | - | - | - | - | - | - | - |
+| LX003 - Aplicativo não Funciona | &#10003; | x | 10 | &#10003; | &#10003;  | 10 | &#10003; |&#10003;|10|0|0|10|
+| LX015 - História Coletada | &#10003; | &#10003; | 6 | &#10003; | &#10003; | 6 |&#10003; |&#10003; |&#10003;|10|10|0|5|
+| LX016 - História Expirada | &#10003; | &#10003; | 8 | &#10003; | &#10003; | 10 |&#10003; |&#10003; |10|10|0|10|
+| LX023 - Presente Diário Coletado | &#10003; | &#10003; | 10 | &#10003; | &#10003; | 8 | &#10003; |&#10003; |10|10|10|10|
+| LX024 - Problemas com o Smartphone | &#10003; | &#10003; | 0 | &#10003; | &#10003; | 10 | &#10003;|&#10003; |0|10|0|10|
 
 ## Números:                                                                                                                                                                                        
 |   | Resultado |
