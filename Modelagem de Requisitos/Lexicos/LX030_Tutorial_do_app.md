@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 23/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
+| 14/06/2019 | 1.1 | Corrigindo erros encontrados através da verificação  | Lucas kishima |
 
 ## Título: Tutorial do [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md)
 
@@ -15,6 +16,8 @@
 
 ## Impacto:
 
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) visualiza o tutorial.
+- O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) pula o tutorial.
 - O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) aprende como o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) funciona.
 
 ## Sinônimos:

@@ -204,7 +204,6 @@ De acordo com o tipo do léxico foram identificadas diferentes fatores que influ
 | | Justificativa |
 |-| ------------- |
 |6|  poderia ter mais sinônimos. |
-|9|  não foram utilizados verbos de ações para descrever as operacionalizações. |
 
 
 ## Bibliografia

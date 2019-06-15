@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 23/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
+| 14/06/2019 | 1.1 | Corrigindo erros encontrados através da verificação  | Lucas kishima |
 
 ## Título: Comunidade
 
@@ -20,3 +21,4 @@
 ## Sinônimos:
 
 - População da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
+- Grupo de [Usuários](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md).

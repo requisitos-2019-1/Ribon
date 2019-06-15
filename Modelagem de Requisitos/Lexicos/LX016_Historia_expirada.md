@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 23/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
+| 14/06/2019 | 1.1 | Corrigindo erros encontrados através da verificação  | Lucas kishima |
 
 ## Título: [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) expirada
 
@@ -11,6 +12,7 @@
 ## Noção:
 
 - [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) cuja o tempo de publicação ultrapassa 10 dias.
+- [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) não coletada pelo usuário durante o tempo disponível.
 
 ## Impacto:
 

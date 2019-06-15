@@ -1,7 +1,8 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 17/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
-| 17/04/2019 | 2.0 | Juntando léxicos repetidos  | Victor Rodrigues |
+| 17/04/2019 | 1.1 | Juntando léxicos repetidos  | Victor Rodrigues |
+| 14/06/2019 | 1.2 | Corrigindo erros encontrados através da verificação  | Lucas kishima |
 
 
 ## Título: [Presente](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doação.md) diário
@@ -22,3 +23,4 @@
 ## Sinônimos:
 
 - Brinde diário.
+- Bônus diário.
