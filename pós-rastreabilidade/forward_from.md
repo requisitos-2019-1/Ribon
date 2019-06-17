@@ -1,51 +1,31 @@
 
 | ID   | Descrição | US | Épico | Funcionalidade  |
 | ---- | --------- | -- | ---------- | ---------- |
-| RF1  | O usuário deve poder criar conta ||||| 
-| RF2  | O usuário deve poder se conectar com facebook|||| 
-| RF3  | O usuário deve poder visualizar seu perfil||||
-| RF4  | O usuário deve poder vizualizar doações feitas||||
-| RF5  | O usuário deve poder vizualizar pra quais instituições são feitas as doações||||
-| RF6  | O usuário deve poder ler noticias|||||
-| RF7  | O usuário deve poder coletar Ribons||||
-| RF8  | O usuário deve poder doar Ribons||||
-| RF9  | O usuário deve poder escolher pra que causa ele estará doando||||
-| RF10 | O usuário deve poder visualizar o comprovante de doações||||
-| RF11 | O usuário deve poder comprar Ribons||||
-| RF12 | O usuário deve poder visualizar um tutorial sobre o uso do app||||
-| RF13 | O usuário deve poder conversar com a equipe||||
-| RF14 | O usuário deve poder visualizar as perguntas frequentes em relação ao app||||
-| RF15 | O usuário deve poder ler politica de privacidade ||||
-| RF16 | O usuário deve poder fazer login||||
-| RF17 | O aplicativo deve poder publicar notícias de terceiros|||| 
-| RF18 | O aplicativo deve ser capaz de coletar padrões de utilização, frequência e alcance do uso||||
-| RF19 | O aplicativo deve poder coletar o conteúdo que o usuário lê, usa ou cria e os anúncios clicados pelo usuário ||||
-| RF20 | O aplicativo deve poder coletar a duração das sessões do usuário||||
-| RF21 | O aplicativo deve poder criar um histórico de informação detalhada do usuário e ligar todas as informações com a sua conta||||
-| RF22 | O aplicativo deve poder determinar o tipo de navegador utilizado para acessar o app||||
-| RF23 | O aplicativo deve poder coletar data e hora de acesso ao app ||||
-| RF24 | O aplicativo deve poder coletar páginas acessadas através do app ||||
-| RF25 | O aplicativo deve poder coletar localização geográfica do usuário||||
-| RF26 | O aplicativo deve ser capaz de determinar se o app foi acessado através de um link e determinar o endereço deste site ||||
-| RF27 | O aplicativo deve ser capaz de Identificar o dispositivo utilizado  ||||
-| RF28 | O aplicativo deve ser capaz de proteger informações do usuário ||||
-| RF29 | O aplicativo deve ser capaz de repassar informações dos usuários ||||
-| RF30 | O aplicativo deve ser capaz de retornar o sucesso da doação feita pelo usuário||||
-| RF31 | O usuário deve ser esclarecido sobre como o app funciona pela primeira vez ||||
-| RF32 | O aplicativo deve possibilitar o compartilhamento de histórias |||| 
-| RF33 | O usuário deve poder ser comunicado a respeito de produtos, serviços, promoções e pesquisas do patrocinador||||
-| RF34 | O aplicativo deve poder redirecionar o usuário à página da notícia  ||||
-| RF35 | O aplicativo deve poder redirecionar o usuário ao site da bancorbrás||||
-| RF36 | O usuário deve poder coletar o presente diário||||
-| RF37 | O usuário deve poder coletar um presente diário |||||
-| RF38 | O usuário deve poder visualizar com quantos dias de ajuda a comunidade do Ribon já contribuiu ||||
-| RF39 | O usuário deve poder visualizar quantos ribons já foram doados pela comunidade do Ribon ||||
-| RF40 | O usuário deve poder compartilhar as histórias||||
-| RF41 | O usuário deve poder compartilhar as doações||||
-| RF42 | O usuário deve poder convidar amigos para usar o app ||||
-| RF43 | O usuário deve poder visualizar quantos ribons ele possui|||| 
-| RF44 | O usuário deve poder sair da sua conta ||||
-| RF45 | O usuário deve poder visualizar quem publicou a história||||
-| RF46 | O usuário deve poder visualizar a data de publicação da história|||| 
-| RF47 | O usuário deve poder clicar na história para ler a mesma por completo  ||||
-| RF48 | O usuário deve poder navegar por um feed de histórias||||
+| RF1  | O usuário deve poder criar conta |[US001](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us001--criar-conta)|-|[IMG01](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img01)| 
+| RF2  | O usuário deve poder se conectar com facebook|[US002](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us002--conectar-com-o-facebook)|-|[IMG02](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img02)| 
+| RF3  | O usuário deve poder visualizar seu perfil|[US003](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us003--visualizar-meu-perfil)|-|[IMG03](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img03)|
+| RF4  | O usuário deve poder vizualizar doações feitas|[US004](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us004--visualizar-as-doa%C3%A7%C3%B5es-feitas)|-|[IMG04](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img04)|
+| RF5  | O usuário deve poder vizualizar pra quais instituições são feitas as doações|[US005](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us005--visualizar-para-quais-institui%C3%A7%C3%B5es-s%C3%A3o-feitas-as-doa%C3%A7%C3%B5es)|-|[IMG05](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img05)|
+| RF6  | O usuário deve poder ler noticias|[US006](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us006--ler-not%C3%ADcias)|-|[IMG06](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img06)|
+| RF7  | O usuário deve poder coletar Ribons|[US007](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us007--coletar-ribons)|-|[IMG07](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img07)|
+| RF8  | O usuário deve poder doar Ribons|[US008](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us008--doar-ribons)|-|[IMG08](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img08)|
+| RF9  | O usuário deve poder escolher pra que causa ele estará doando|[US009](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us009--ter-liberdade-para-escolher-a-causa-que-estarei-ajudando)|-|[IMG09](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img09)|
+| RF10 | O usuário deve poder visualizar o comprovante de doações|[US010](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us010--visualizar-um-comprovante-de-doa%C3%A7%C3%B5es)|-|[IMG10](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img10)|
+| RF11 | O usuário deve poder comprar Ribons|[US011](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us011---comprar-ribons)|-|[IMG11](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img11)|
+| RF12 | O usuário deve poder visualizar um tutorial sobre o uso do app|[US012](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us012---visualizar-um-tutorial)|-|[IMG12](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img12)|
+| RF13 | O usuário deve poder conversar com a equipe|[US013](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us013---entrar-em-contato-com-a-equipe-do-app)|-|[IMG13](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img13)|
+| RF14 | O usuário deve poder visualizar as perguntas frequentes em relação ao app|[US014](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us014---ter-acesso-%C3%A0s-perguntas-frequentes)|-|[IMG14](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img14)|
+| RF15 | O usuário deve poder ler politica de privacidade |[US015](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us015---ler-a-pol%C3%ADtica-de-privacidade)|-|[IMG15](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img15)|
+| RF16 | O usuário deve poder fazer login|[US016](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us016---fazer-login)|-|[IMG16](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img16)|
+| RF17 | ser esclarecido sobre como o app funciona pela primeira vez|[US017](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us017---ser-esclarecido-sobre-como-o-app-funciona-pela-primeira-vez)|-|[IMG17](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img17)| 
+| RF18 | coletar o presente diário|[US018](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us018---coletar-o-presente-di%C3%A1rio)|-|[IMG18](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img18)|
+| RF19 | visualizar quantos ribons já foram doados pela comunidade do Ribon |[US019](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us019---visualizar-quantos-ribons-j%C3%A1-foram-doados-pela-comunidade-do-ribon)|-|[IMG19](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img19)|
+| RF20 | compartilhar as histórias |[US020](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us020--compartilhar-as-hist%C3%B3rias)|-|[IMG20](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img20)|
+| RF21 | compartilhar as doações |[US021](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us021--compartilhar-as-doa%C3%A7%C3%B5es)|-|[IMG21](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img21)|
+| RF22 | convidar amigos para usar o app |[US022](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us022--convidar-amigos-para-usar-o-app)|-|[IMG22](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img22)|
+| RF23 | navegar por um feed de histórias |[US023](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us023--navegar-por-um-feed-de-hist%C3%B3rias)|-|[IMG23](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img23)|
+| RF24 | visualizar quantos ribons possuo |[US024](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us024--visualizar-quantos-ribons-possuo)|-|[IMG24](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img24)|
+| RF25 | sair de minha conta |[US025](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us025--sair-de-minha-conta)|-|[IMG25](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img25)|
+| RF26 | visualizar quem publicou a história |[US026](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us026--visualizar-quem-publicou-a-hist%C3%B3ria)|-|[IMG26](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img26)|
+| RF27 |  visualizar a data de publicação da história |[US027](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us027--visualizar-a-data-de-publica%C3%A7%C3%A3o-da-hist%C3%B3ria)|-|[IMG27](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img27)|
+| RF28 | clicar na história para ler a mesma por completo |[US028](https://github.com/requisitos-2019-1/Ribon/wiki/Crit%C3%A9rios-de-aceita%C3%A7%C3%A3o#us028--clicar-na-hist%C3%B3ria-para-ler-a-mesma-por-completo)|-|[IMG28](https://github.com/requisitos-2019-1/Ribon/wiki/Imagens#img28)|
