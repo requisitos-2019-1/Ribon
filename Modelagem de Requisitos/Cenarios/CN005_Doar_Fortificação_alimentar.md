@@ -3,6 +3,7 @@
 | 18/04/2019 | 1.0    | Criação do cenario | Victor Rodrigues |
 | 06/05/2019 | 1.1    | Adicionando Ribon como recurso | Henrique Martins |
 | 07/06/2019 | 1.2    | Correção de erro na exceções | Henrique Martins |
+| 18/06/2018 | 1.3    | Adicionando Requisitos | Henrique Martins |
 
 # Título: [Doar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX010_Doar.md) [Fortificação alimentar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX013_Fortificacao_alimentar.md)
 
@@ -51,3 +52,10 @@
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) trava 
 - Falha na internet 
 - Falha no [Sistema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) que realiza doações.
+
+## Requisitos: 
+
+- [RF4](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF8](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF9](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF30](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)

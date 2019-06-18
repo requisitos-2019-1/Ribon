@@ -5,6 +5,7 @@
 | 20/04/2019 | 1.2 | Adicionando Espisódio | Victor Rodrigues |
 | 07/06/2019 | 1.3 | Correção de erro na restrição | Henrique Martins |
 | 07/06/2019 | 1.4 | Correção de erro no recurso | Henrique Martins |
+| 18/06/2018 | 1.5    | Adicionando Requisitos | Henrique Martins |
 
 # Título: Ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)
 
@@ -48,3 +49,12 @@
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) trava 
 - Falha na internet 
 - Falha no [Sistema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) que realiza doações.
+
+## Requisitos: 
+
+- [RF6](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF34](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF40](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF46](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF47](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF48](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)

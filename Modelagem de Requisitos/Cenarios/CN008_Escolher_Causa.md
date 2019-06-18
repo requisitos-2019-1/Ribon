@@ -2,6 +2,7 @@
 |---|---|---|---|
 | 21/04/2019 | 1.0 | Criação do cenario  | Henrique Martins |
 | 07/06/2019 | 1.1 | Correção de erro na exceção | Henrique Martins |
+| 18/06/2018 | 1.2    | Adicionando Requisitos | Henrique Martins |
 
 # Título: Esclher [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)
 
@@ -41,3 +42,7 @@
 - [Problemas com o Smartphone](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX029_Smartphone.md).
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) não funciona.
 - Falta de Conexão com a Internet.
+
+## Requisitos: 
+
+- [RF9](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)

@@ -2,6 +2,7 @@
 | ---------- | ------ | ------------------ | ---------------- |
 | 17/04/2019 | 1.0    | Criação do cenario | Henrique Martins |
 | 07/06/2019 | 1.1    | Correção de Erros | Henrique Martins |
+| 18/06/2018 | 1.2    | Adicionando Requisitos | Henrique Martins |
 
 # Título: Criar Conta
 
@@ -42,3 +43,7 @@
 - Falta de Conexão com a Internet.
 - Pessoa não ter e-mail.
 - Pessoa não ter conta no Google ou Facebook
+
+## Requisitos: 
+
+- [RF1](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)

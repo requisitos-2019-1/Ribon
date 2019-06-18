@@ -1,6 +1,7 @@
 | Data       | Versão | Descrição          | Autor            |
 | ---------- | ------ | ------------------ | ---------------- |
 | 20/04/2019 | 1.0    | Criação do cenario | Victor Rodrigues |
+| 18/06/2018 | 1.1    | Adicionando Requisitos | Henrique Martins |
 
 # Título: Verificar comprovantes de doações
 
@@ -47,3 +48,9 @@
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) trava 
 - Falha na internet 
 - Falha no [Sistema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) que realiza doações.
+
+## Requisitos: 
+
+- [RF10](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF38](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF39](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)

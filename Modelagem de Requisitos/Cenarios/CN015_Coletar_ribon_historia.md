@@ -1,6 +1,7 @@
 | Data       | Versão | Descrição          | Autor           |
 | ---------- | ------ | ------------------ | --------------- |
 | 07/05/2019 | 1.0    | Criação do cenario | Rafael Teodosio |
+| 18/06/2018 | 1.1    | Adicionando Requisitos | Henrique Martins |
 
 
 # Título: Coletar [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)
@@ -50,3 +51,7 @@ usuário.
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) trava
 - Falha na internet
 - Falha no [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
+
+## Requisitos: 
+
+- [RF7](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)

@@ -4,6 +4,7 @@
 | 21/04/2019 | 1.1    | Adicionando Espisódios    | Victor Rodrigues |
 | 22/04/2019 | 1.2    | Adicionando Pós-Condições | Victor Rodrigues |
 | 07/06/2019 | 1.3 | Correção de erro na exceção | Henrique Martins |
+| 18/06/2018 | 1.4    | Adicionando Requisitos | Henrique Martins |
 
 # Título: Ver [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)s
 
@@ -46,3 +47,7 @@
 - [Problemas com o Smartphone](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX029_Smartphone.md).
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) não funciona.
 - Falta de conexão com a internet.
+
+## Requisitos: 
+
+- [RF9](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
