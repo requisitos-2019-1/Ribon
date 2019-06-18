@@ -5,6 +5,7 @@
 | 22/04/2019 | 1.2    | Adiconando espisódios                  | Victor Rodrigues  |
 | 22/04/2019 | 1.3    | Modificando episódios e Pós-Condições  | Guilherme de Lyra |
 | 22/04/2019 | 2.0    | Absorvendo cenário 002.1               | Victor Rodrigues  |
+| 18/06/2018 | 2.1    | Adicionando Requisitos                 | Henrique Martins  |
 
 # Titulo: [Comprar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX007_Comprar.md) [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md).
 
@@ -63,3 +64,7 @@
 - Falha na internet
 - Falha no [Sistema](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) que realiza compra
 - Dados do [Cartão](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX004_Card.md) errados.
+
+## Requisitos:
+
+- [RF11](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
