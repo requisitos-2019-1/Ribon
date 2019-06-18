@@ -2,6 +2,7 @@
 | ---------- | ------ | ------------------------------------------ | --------------- |
 | 17/04/2019 | 1.0    | Criação do cenario                         | Rafael Teodosio |
 | 22/04/2019 | 1.1    | Modificação nos espisódios e pós-condições | Rafael Teodosio |
+| 18/06/2018 | 1.2    | Adicionando Requisitos                     | Henrique Martins  |
 
 # Título: Convidar amigos para o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md)
 
@@ -50,3 +51,7 @@
 - Falha na internet
 - Falha no [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
 - Falha nos [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md)s que foram compartilhados.
+
+## Requisitos:
+
+- [RF42](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
