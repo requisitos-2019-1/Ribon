@@ -1,7 +1,10 @@
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
 | 17/06/2019 | 1.0 | Template Inicial | Henrique Martins |
-| 19/06/2019 | 1.1 | Adicionando Legendas | Rafael Teodosio |
+| 18/06/2019 | 1.1 | Adicionando Cenários e Léxicos | Henrique Martins / Victor Rodrigues |
+| 19/06/2019 | 1.2 | Adicionando Legendas | Rafael Teodosio |
+| 19/06/2019 | 1.3 | Adicionando Casos de Uso e iStars | Henrique Martins |
+
 # Legendas
 | Sigla | Significado |
 | - | - |
