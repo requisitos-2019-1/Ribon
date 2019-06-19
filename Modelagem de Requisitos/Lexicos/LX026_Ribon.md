@@ -3,6 +3,7 @@
 | 22/04/2019 | 1.0    | Criação do léxico               | Lucas Kishima    |
 | 22/04/2019 | 1.1    | Adicionando noções              | Victor Rodrigues |
 | 22/04/2019 | 2.0    | incorporando léxico L26.1 | Victor Rodrigues |
+| 19/06/2019 | 2.1 | Adição dos Requisitos  | Henrique Martins |
 
 # Título: Ribon
 
@@ -28,3 +29,11 @@
 - [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX012_Evidence_Action.md)
 - [Moeda virtual](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX012_Evidence_Action.md).
 - [Dinheiro virtual](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX012_Evidence_Action.md).
+
+## Requisitos:
+
+- [RF07](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF07)
+- [RF08](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF08)
+- [RF11](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF11)
+- [RF39](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF39)
+- [RF43](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF43)

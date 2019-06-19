@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 23/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
+| 19/06/2019 | 1.1 | Adição dos Requisitos  | Henrique Martins |
 
 ## Título: Patrocinador
 
@@ -22,3 +23,7 @@
 
 - Apoiador
 - Anunciante
+
+## Requisitos:
+
+- [RF33](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF33)

@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 | ---- | - | - | - |
 | 18/06/2019 | 1.0 | Template Inicial | Henrique Martins |
+| 19/06/2019 | 1.1 | Adicionando Informações | Henrique Martins |
 
 # Lista de Requisitos Funcionais
 
@@ -8,11 +9,11 @@
 
 ### Requisito
 
-Inserir
+O usuário deve poder criar conta
 
 ### Descrição
 
-Inserir
+Como um usuário do app eu gostaria de poder criar uma conta para realizar doações
 
 
 
@@ -26,11 +27,11 @@ Inserir
 
 ### Requisito
 
-Inserir
+O usuário deve poder se conectar com facebook
 
 ### Descrição
 
-Inserir
+Como um usuário do app eu gostaria de poder me conectar com o Facebook para facilitar a criação de uma conta
 
 
 
@@ -44,11 +45,11 @@ Inserir
 
 ### Requisito
 
-Inserir
+O usuário deve poder visualizar seu perfil
 
 ### Descrição
 
-Inserir
+Como um usuário do app eu gostaria de poder visualizar meu perfil para ver minhas informações
 
 
 
@@ -62,11 +63,11 @@ Inserir
 
 ### Requisito
 
-Inserir
+O usuário deve poder vizualizar doações feitas
 
 ### Descrição
 
-Inserir
+Como um usuário do app eu gostaria poder visualizaras doações feitas para visualizar com quantas doaçõeseu já cotribuí
 
 
 
@@ -80,11 +81,11 @@ Inserir
 
 ### Requisito
 
-Inserir
+O usuário deve poder vizualizar pra quais instituições são feitas as doações
 
 ### Descrição
 
-Inserir
+Como um usuário gostaria de poder visualizar para quais instituições são feitas as doações
 
 
 
@@ -98,11 +99,11 @@ Inserir
 
 ### Requisito
 
-Inserir
+O usuário deve poder ler noticias
 
 ### Descrição
 
-Inserir
+Como um usuário gostaria de ler notícias para se sentir informado
 
 
 

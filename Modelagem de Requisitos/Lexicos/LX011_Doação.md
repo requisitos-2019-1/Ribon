@@ -2,6 +2,7 @@
 |---|---|---|---|
 | 21/04/2019 | 1.0 | Criação do léxico  | Henrique Martins |
 | 14/06/2019 | 1.1 | Corrigindo erros encontrados através da verificação  | Lucas kishima |
+| 19/06/2019 | 1.2 | Adição dos Requisitos  | Henrique Martins |
 
 ## Título: Doação
 
@@ -25,3 +26,10 @@
 
 - Dádiva
 - Presente
+
+## Requisitos:
+
+- [RF04](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF04)
+- [RF05](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF05)
+- [RF30](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF30)
+- [RF41](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF41)

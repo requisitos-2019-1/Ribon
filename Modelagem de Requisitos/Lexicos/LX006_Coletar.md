@@ -2,6 +2,7 @@
 |---|---|---|---|
 | 21/04/2019 | 1.0 | Criação do léxico  | Henrique Martins |
 | 14/06/2019 | 1.1 | Corrigindo erros encontrados através da verificação  | Lucas kishima |
+| 19/06/2019 | 1.2 | Adição dos Requisitos  | Henrique Martins |
 
 ## Título: Coletar
 
@@ -26,3 +27,8 @@
 
 - Recolher
 - Colher
+
+## Requisitos:
+
+- [RF07](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF07)
+- [RF37](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF37)

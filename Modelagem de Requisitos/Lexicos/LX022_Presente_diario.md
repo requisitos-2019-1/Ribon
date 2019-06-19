@@ -3,6 +3,7 @@
 | 17/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
 | 17/04/2019 | 1.1 | Juntando léxicos repetidos  | Victor Rodrigues |
 | 14/06/2019 | 1.2 | Corrigindo erros encontrados através da verificação  | Lucas kishima |
+| 19/06/2019 | 1.3 | Adição dos Requisitos  | Henrique Martins |
 
 
 ## Título: [Presente](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doação.md) diário
@@ -24,3 +25,7 @@
 
 - Brinde diário.
 - Bônus diário.
+
+## Requisitos:
+
+- [RF37](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF37)

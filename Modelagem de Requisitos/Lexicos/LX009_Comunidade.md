@@ -2,6 +2,7 @@
 |---|---|---|---|
 | 23/04/2019 | 1.0 | Criação do léxico  | Lucas Kishima |
 | 14/06/2019 | 1.1 | Corrigindo erros encontrados através da verificação  | Lucas kishima |
+| 19/06/2019 | 1.2 | Adição dos Requisitos  | Henrique Martins |
 
 ## Título: Comunidade
 
@@ -22,3 +23,7 @@
 
 - População da [Aplicação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
 - Grupo de [Usuários](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md).
+
+## Requisitos:
+
+- [RF39](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF39)
