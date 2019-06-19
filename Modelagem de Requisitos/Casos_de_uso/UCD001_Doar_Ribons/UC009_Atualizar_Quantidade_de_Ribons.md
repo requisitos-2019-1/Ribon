@@ -1,6 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
 | 28/4/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-bcbc4bd76ba198b44533680e23278b99) | Adicionando caso | Guilherme de Lyra |
+| 19/06/2019 | 1.1 | Adicionando Requisitos | Henrique Martins |
 
 
 # UC009 - Atualizar Quantidade de [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)s
@@ -32,3 +33,7 @@ Após [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelage
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) pode compartilhar sua [Doação](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doação.md).
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) pode conhecer mais sobre o Instituto Bancorbrás.
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) pode voltar para a página anterior e [Doar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX010_Doar.md) novamente.
+
+# Requisitos
+
+- [RF43](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF43)

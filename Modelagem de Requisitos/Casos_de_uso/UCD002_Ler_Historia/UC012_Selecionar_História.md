@@ -1,6 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
+| 28/04/2019 | 1.0 | Adicionando caso | Henrique Martins |
+| 19/06/2019 | 1.1 | Adicionando Requisitos | Henrique Martins |
 
 
 # [UC012](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Ler_Historias.md) - Selecionar [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)
@@ -27,3 +28,7 @@ Versão 1.0.
 
 # Pós-condições
 1. [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deve poder escolher alguma dentre as [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)s disponíveis para leitura.
+
+# Requisitos
+
+- [RF48](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF48)

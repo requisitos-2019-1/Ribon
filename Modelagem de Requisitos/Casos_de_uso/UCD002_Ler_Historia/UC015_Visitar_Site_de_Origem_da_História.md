@@ -1,6 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
+| 28/04/2019 | 1.0 | Adicionando caso | Henrique Martins |
+| 19/06/2019 | 1.1 | Adicionando Requisitos | Henrique Martins |
 
 
 # UC015 - Visitar Site de Origem da [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)
@@ -27,3 +28,7 @@ O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20
 
 # Pós-condições
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deve ter acesso ao site que publicou a [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)
+
+# Requisitos
+
+- [RF45](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF45)

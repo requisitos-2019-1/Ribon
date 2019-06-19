@@ -1,6 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
+| 28/04/2019 | 1.0 | Adicionando caso | Henrique Martins |
+| 19/06/2019 | 1.1 | Adicionando Requisitos | Henrique Martins |
 
 
 # [UC018](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Ver_Causas.md) - Ver [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)s
@@ -29,3 +30,7 @@ O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20
 # Pós-condições
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deve poder ver as [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)s disponíveis
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deve poder selecionar uma das [Causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md)s
+
+# Requisitos
+
+- [RF09](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF09)
