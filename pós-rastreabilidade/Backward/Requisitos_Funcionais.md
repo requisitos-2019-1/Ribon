@@ -65,7 +65,7 @@
 | RF33 | O usuário deve poder ser comunicado a respeito de produtos, serviços, promoções e pesquisas do patrocinador                | [RFIP03](https://github.com/requisitos-2019-1/Ribon/wiki/Introspec%C3%A7%C3%A3o)                                                                                                     | [LX020](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX020_Patrocinador.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | [E33](https://github.com/requisitos-2019-1/Ribon/blob/master/p%C3%B3s-rastreabilidade/Backward/Requisitos_Funcionais.md#e33) |
 | RF34 | O aplicativo deve poder redirecionar o usuário à página da notícia                                                         | [RFIP04](https://github.com/requisitos-2019-1/Ribon/wiki/Introspec%C3%A7%C3%A3o)                                                                                                     | [CN009](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN009_Ler_Historias.md), [LX014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX020_Patrocinador.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | [E34](https://github.com/requisitos-2019-1/Ribon/blob/master/p%C3%B3s-rastreabilidade/Backward/Requisitos_Funcionais.md#e34) |
 | RF35 | O aplicativo deve poder redirecionar o usuário ao site da bancorbrás                                                       | [RFIP05](https://github.com/requisitos-2019-1/Ribon/wiki/Introspec%C3%A7%C3%A3o)                                                                                                     | [LX014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX020_Patrocinador.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | [E35](https://github.com/requisitos-2019-1/Ribon/blob/master/p%C3%B3s-rastreabilidade/Backward/Requisitos_Funcionais.md#e35) |
-| RF36 | O usuário deve poder coletar o presente diário                                                                             | [RFIU01](https://github.com/requisitos-2019-1/Ribon/wiki/Introspec%C3%A7%C3%A3o)                                                                                                     | [CN001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN001_Coletar_ribon_diario.md), [UC024](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC024_Coletar_Presente_Di%C3%A1rio.md), [ISSR01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr01---coletar-ribon-di%C3%A1rio-20), [ISSD01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SD01---Coletar-Ribon-Diário-10)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | [E36](https://github.com/requisitos-2019-1/Ribon/blob/master/p%C3%B3s-rastreabilidade/Backward/Requisitos_Funcionais.md#e36) |
+| RF36 | O usuário deve poder coletar o presente diário                                                                             | [RFIU01](https://github.com/requisitos-2019-1/Ribon/wiki/Introspec%C3%A7%C3%A3o)                                                                                                     | [CN001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN001_Coletar_ribon_diario.md), [LX006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX006_Coletar.md), [LX022](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX022_Presente_diario.md), [LX023](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX023_Presente_diario_coletado.md), [UC024](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC024_Coletar_Presente_Di%C3%A1rio.md), [ISSR01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr01---coletar-ribon-di%C3%A1rio-20), [ISSD01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SD01---Coletar-Ribon-Diário-10)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | [E36](https://github.com/requisitos-2019-1/Ribon/blob/master/p%C3%B3s-rastreabilidade/Backward/Requisitos_Funcionais.md#e36) |
 | RF37 | O usuário deve poder coletar um presente diário                                                                            | [RFIU01](https://github.com/requisitos-2019-1/Ribon/wiki/Introspec%C3%A7%C3%A3o)                                                                                                     | [CN001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN001_Coletar_ribon_diario.md), [LX006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX006_Coletar.md), [LX022](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX022_Presente_diario.md), [LX023](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX023_Presente_diario_coletado.md), [UC024](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC024_Coletar_Presente_Di%C3%A1rio.md), [ISSR01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr01---coletar-ribon-di%C3%A1rio-20), [ISSD01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SD01---Coletar-Ribon-Diário-10)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | [E37](https://github.com/requisitos-2019-1/Ribon/blob/master/p%C3%B3s-rastreabilidade/Backward/Requisitos_Funcionais.md#e37) |
 | RF38 | O usuário deve poder visualizar com quantos dias de ajuda a comunidade do Ribon já contribuiu                              | [RFIU02](https://github.com/requisitos-2019-1/Ribon/wiki/Introspec%C3%A7%C3%A3o)                                                                                                     | [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | [E38](https://github.com/requisitos-2019-1/Ribon/blob/master/p%C3%B3s-rastreabilidade/Backward/Requisitos_Funcionais.md#e38) |
 | RF39 | O usuário deve poder visualizar quantos ribons já foram doados pela comunidade do Ribon                                    | [RFIU03](https://github.com/requisitos-2019-1/Ribon/wiki/Introspec%C3%A7%C3%A3o)                                                                                                     | [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md), [LX008](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX008_Comprovante_de_doa%C3%A7oes.md), [LX009](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX009_Comunidade.md), [LX026](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [E39](https://github.com/requisitos-2019-1/Ribon/blob/master/p%C3%B3s-rastreabilidade/Backward/Requisitos_Funcionais.md#e39) |
@@ -297,10 +297,17 @@ Desenvolvimento
 
 ### Elo
 
+<<<<<<< HEAD
+- Representação: X representa Y
+
+---
+
+=======
 - Agregação: O léxico [LX008](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX008_Comprovante_de_doa%C3%A7oes.md) agrega o cenário [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md)
 - Representação: O caso de uso [UC019](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD003_Visualizar_ONGs/UC019_Verificar_Comprovantes.md) representa o cenário [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md)
 - Representação: O iStar [ISSR07](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr07---verificar-comprovantes-10) representa o cenário [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md)
 ---
+>>>>>>> 6d5bd282654c3ecf5bcfb8511c9f42356bc96622
 ## E11
 
 ### Categoria
@@ -321,7 +328,14 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Representação: O iStar [ISSD02](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sd02----comprar-ribon-10) representa o caso de uso [UC025](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC025_Comprar_Ribons.md)
+- Representação: O iStar [ISSR02](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SR02---Comprar-Ribon-30) representa o caso de uso [UC025](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC025_Comprar_Ribons.md)
+- Agregação: O caso de uso [UC029](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC029_Finalizar_Compra.md) agrega o cenário [CN002](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN002_Comprar_Ribons.md)
+- Agregação: O caso de uso [UC027](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC027_Preencher_Dados_de_Cart%C3%A3o_de_Cr%C3%A9dito.md) agrega o cenário [CN002](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN002_Comprar_Ribons.md)
+- Agregação: O caso de uso [UC026](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC026_Escolher_Pacote_de_Contribui%C3%A7%C3%A3o.md) agrega o cenário [CN002](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN002_Comprar_Ribons.md)
+- Agregação: O léxico [LX007](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX007_Comprar.md) agrega o cenário [CN002](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN002_Comprar_Ribons.md)
+
+---
 
 ## E12
 
@@ -335,7 +349,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E13
 
@@ -345,11 +361,13 @@ Desenvolvimento
 
 ### Elementos Rastreáveis
 
-- [1]()
+- Não possui
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E14
 
@@ -363,7 +381,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E15
 
@@ -373,11 +393,13 @@ Desenvolvimento
 
 ### Elementos Rastreáveis
 
-- [1]()
+- Não possui
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E16
 
@@ -393,6 +415,8 @@ Desenvolvimento
 
 - Representação: X representa Y
 
+---
+
 ## E17
 
 ### Categoria
@@ -405,7 +429,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E18
 
@@ -419,7 +445,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E19
 
@@ -433,7 +461,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E20
 
@@ -449,6 +479,8 @@ Desenvolvimento
 
 - Representação: X representa Y
 
+---
+
 ## E21
 
 ### Categoria
@@ -461,7 +493,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E22
 
@@ -475,7 +509,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E23
 
@@ -489,7 +525,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E24
 
@@ -503,7 +541,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E25
 
@@ -513,11 +553,13 @@ Desenvolvimento
 
 ### Elementos Rastreáveis
 
-- [1]()
+- Não possui
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E26
 
@@ -527,11 +569,13 @@ Desenvolvimento
 
 ### Elementos Rastreáveis
 
-- [1]()
+- Não possui
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E27
 
@@ -541,11 +585,13 @@ Desenvolvimento
 
 ### Elementos Rastreáveis
 
-- [1]()
+- Não possui
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E28
 
@@ -555,11 +601,13 @@ Desenvolvimento
 
 ### Elementos Rastreáveis
 
-- [1]()
+- Não possui
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E29
 
@@ -573,7 +621,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui
+
+---
 
 ## E30
 
@@ -592,7 +642,13 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Representação: O léxico [LX011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doa%C3%A7%C3%A3o.md) representa o cenário [CN014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN014_Doar_saude_basica.md)
+- Representação: O léxico [LX011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doa%C3%A7%C3%A3o.md) representa o cenário [CN013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN013_Doar_medicamentos.md)
+- Representação: O léxico [LX011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doa%C3%A7%C3%A3o.md) representa o cenário [CN007](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN007_Doar_ribons.md)
+- Representação: O léxico [LX011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doa%C3%A7%C3%A3o.md) representa o cenário [CN006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN006_Doar_agua_potavel.md)
+- Representação: O léxico [LX011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doa%C3%A7%C3%A3o.md) representa o cenário [CN005](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN005_Doar_Fortifica%C3%A7%C3%A3o_alimentar.md)
+
+---
 
 ## E31
 
@@ -606,7 +662,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não posuui.
+
+---
 
 ## E32
 
@@ -621,7 +679,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Agregação:  O caso de uso [UC013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD002_Ler_Historia/UC013_Compartilhar_Hist%C3%B3ria.md) agrega o léxico [LX014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)
+
+---
 
 ## E33
 
@@ -635,7 +695,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui.
+
+---
 
 ## E34
 
@@ -650,7 +712,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não Possui
+
+---
 
 ## E35
 
@@ -664,7 +728,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui.
+
+---
 
 ## E36
 
@@ -675,13 +741,20 @@ Desenvolvimento
 ### Elementos Rastreáveis
 
 - [CN001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN001_Coletar_ribon_diario.md)
+- [LX006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX006_Coletar.md)
+- [LX022](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX022_Presente_diario.md)
+- [LX023](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX023_Presente_diario_coletado.md)
 - [UC024](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC024_Coletar_Presente_Di%C3%A1rio.md)
 - [ISSR01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr01---coletar-ribon-di%C3%A1rio-20)
 - [ISSD01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SD01---Coletar-Ribon-Diário-10)
 
 ### Elo
 
-- Representação: X representa Y
+- Representação: O iStar [ISSD01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SD01---Coletar-Ribon-Diário-10) representa o caso de uso [UC024](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC024_Coletar_Presente_Di%C3%A1rio.md)
+- Representação: O iStar [ISSD01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SD01---Coletar-Ribon-Diário-10) representa o cenário [CN001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN001_Coletar_ribon_diario.md)
+- Agregação: O caso de uso [UC024](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC024_Coletar_Presente_Di%C3%A1rio.md) agrega o léxico [LX022](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX022_Presente_diario.md)
+
+---
 
 ## E37
 
@@ -701,7 +774,11 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Representação: O iStar [ISSD01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SD01---Coletar-Ribon-Diário-10) representa o caso de uso [UC024](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC024_Coletar_Presente_Di%C3%A1rio.md)
+- Representação: O iStar [ISSD01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#SD01---Coletar-Ribon-Diário-10) representa o cenário [CN001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN001_Coletar_ribon_diario.md)
+- Agregação: O caso de uso [UC024](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC024_Coletar_Presente_Di%C3%A1rio.md) agrega o léxico [LX022](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX022_Presente_diario.md)
+
+---
 
 ## E38
 
@@ -715,7 +792,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui.
+
+---
 
 ## E39
 
@@ -732,7 +811,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Representação: O léxico [LX008](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX008_Comprovante_de_doa%C3%A7oes.md) representa o cenário [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md)
+
+---
 
 ## E40
 
@@ -748,7 +829,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Agregação: O léxico [LX014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) agrega o caso de uso [UC013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD002_Ler_Historia/UC013_Compartilhar_Hist%C3%B3ria.md)
+
+---
 
 ## E41
 
@@ -762,7 +845,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui.
+
+---
 
 ## E42
 
@@ -779,7 +864,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Representação: O cenário [CN003](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN003_Convidar_amigos.md) representa o caso de uso [UC022](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC022_Convidar_Amigos.md)
+  
+---
 
 ## E43
 
@@ -795,7 +882,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Agregação: O léxico [LX026](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md) agrega o caso de uso [UC001](https://github.com/requisitos-2019-1/Ribon/tree/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD001_Doar_Ribons/UC001_Visualizar_Quantidade_de_Ribons.md)
+
+---
 
 ## E44
 
@@ -809,7 +898,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não possui.
+
+---
 
 ## E45
 
@@ -824,7 +915,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Não Possui.
+  
+---
 
 ## E46
 
@@ -839,7 +932,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Agregação: O léxico [LX014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) agrega o cenário  [CN009](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN009_Ler_Historias.md)
+
+---
 
 ## E47
 
@@ -854,7 +949,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Agregação: O léxico [LX014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) agrega o cenário [CN009](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN009_Ler_Historias.md)
+
+---
 
 ## E48
 
@@ -871,4 +968,6 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Agregação: O Caso de Uso [UC011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD002_Ler_Historia/UC011_Abrir_Menu_de_Hist%C3%B3rias.md) agrega o cenário [CN009](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN009_Ler_Historias.md)
+
+- Agregação: O Caso de Uso [UC012](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD002_Ler_Historia/UC012_Selecionar_Hist%C3%B3ria.md) agrega o cenário [CN009](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN009_Ler_Historias.md)
