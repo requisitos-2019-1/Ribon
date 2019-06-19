@@ -1,0 +1,8 @@
+<g xmlns="http://www.w3.org/2000/svg" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:type="Shape" p:def="dgthanhan.AndroidNougatWireframe:card" p:sc="Card Raised" id="e50f4114b0aa4c6488fc0219ef30b9ec" transform="matrix(1,0,0,1,73.18749999999977,1075.25)" p:RelatedPage="8126b231a8794e6984dcc041d9c4fb56"><p:metadata><p:property name="box"><![CDATA[170.5625,49.0625]]></p:property><p:property name="fillColor"><![CDATA[#00000000]]></p:property><p:property name="shadowStyle"><![CDATA[0|4|5|0.4]]></p:property></p:metadata>
+      <defs xmlns="http://www.w3.org/2000/svg">
+        <filter x="-50%" width="200%" y="-50%" height="200%" p:name="rectangle0_shadowFilter" id="7a84d31f95a0495d8ee84adfcebc7891"><feGaussianBlur in="SourceAlpha" stdDeviation="5"/><feOffset dx="0" dy="4"/><feComponentTransfer><feFuncA type="linear" slope="0.4"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      </defs>
+      <g xmlns="http://www.w3.org/2000/svg" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:filter="url(#7a84d31f95a0495d8ee84adfcebc7891)" p:name="rectangle0_globalGroup" id="1ce2b22872e141ebb2c7d0eab5c7c6d4" filter="url(#7a84d31f95a0495d8ee84adfcebc7891)">
+        <rect p:filter="url(#16f769fdf557447d924ee29576d3d736)" rx="2.0846560846560847" ry="2.0846560846560847" style="fill: rgb(0, 0, 0); fill-opacity: 0; stroke: rgb(96, 96, 96); stroke-opacity: 1; stroke-width: 0;" width="171" height="49" p:name="rectangle0" id="54224faa6a304922832882bd583f64e0" x="0" y="0"/>
+      </g>
+    </g>
