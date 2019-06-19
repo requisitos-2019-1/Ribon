@@ -43,8 +43,9 @@ Após a reunião, viu-se necessária a inclusão da pergunta 11: "O nome do cen�
 |3| <ul><li><b>Comprar Ribons:</b><li>O ideal seria substituir "possuir limite (...)" por "operadora aprovar compra"</li></li><li><b>Doações (em geral):</b><li>Deve-se adicionar, como pré-condição, que o usuário escolha qual causa irá doar.</li></li></ul> |
 |4| <ul><li><b>Coletar Ribons Diários:</b><li>Ribon deveria ser um recurso</li></li><li><b>Ler Histórias:</b><li>História deveria ser um recurso não um ator</li></li></ul> |
 |5| Todos estavam de acordo em relação à nota. |
-|6|  |
-|7|           |
-|8|           |
-|9|           |
-|10|           |
+|6| Os Cenário CN004,CN008 não possuem pós-condições |
+|7| O cenário CN004 não possue episódios |
+|8| Somente os cenários CN008,CN009,CN010,CN011,CN012 possuem restrições quem representam requisitos necessários para a ocorrência do cenário |
+|9| Todas as exceções respeitam a regra |
+|10| Os cenários CN003,CN004,CN009 possuem falhas que dificultam o entendimento do sistema em geral |
+|11|Os Cenários CN009, CN011 não são funcionalidades

@@ -1,6 +1,22 @@
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
 | 17/06/2019 | 1.0 | Template Inicial | Henrique Martins |
+| 19/06/2019 | 1.1 | Adicionando Legendas | Rafael Teodosio |
+# Legendas
+| Sigla | Significado |
+| - | - |
+|Q XX| Questionário |
+|FTF XX|First-Things-First|
+|RFST XX|Story-Telling|
+|MSCW XX|MoSCoW|
+|RFI XX|Introspecção|
+|RFOAP XX|Análise de Protocolo|
+|RNF XX|Especificação Suplementar|
+|NFR XX| NFR-Softgoal|
+|US XX| Backlog|
+|CN XX|Cenários|
+|LX XX|Léxicos|
+|UC XX|Casos de uso|
 
 # Tabela
 
