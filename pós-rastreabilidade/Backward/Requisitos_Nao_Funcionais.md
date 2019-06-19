@@ -4,7 +4,24 @@
 | 17/06/2019 | 1.1 | Adição De Requisitos Não-Funcionais | Rafael Teodosio |
 | 18/06/2019 | 1.2 | Adição De Requisitos Não-Funcionais, e Elicitação | Rafael Teodosio |
 | 18/06/2019 | 1.3 | Elicitação e Modelagem | Rafael Teodosio |
+| 18/06/2019 | 1.3 | Legendas | Rafael Teodosio |
 
+#Legendas
+
+| Sigla | Significado |
+| - | - |
+|Q XX| Questionário |
+|FTF XX|First-Things-First|
+|RFST XX|Story-Telling|
+|MSCW XX|MoSCoW|
+|RFI XX|Introspecção|
+|RFOAP XX|Análise de Protocolo|
+|RNF XX|Especificação Suplementar|
+|NFR XX| NFR-Softgoal|
+|US XX| Backlog|
+|CN XX|Cenários|
+|LX XX|Léxicos|
+|UC XX|Casos de uso|
 
 # Tabela
 
