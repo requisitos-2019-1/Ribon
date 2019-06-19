@@ -94,8 +94,8 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
-
+- Representação: O iStar [ISSR04](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr04---criar-conta-20) representa o cenário [CN004](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN004_Criar_Conta.md)
+---
 ## E2
 
 ### Categoria
@@ -109,7 +109,7 @@ Desenvolvimento
 ### Elo
 
 - Representação: X representa Y
-
+---
 ## E3
 
 ### Categoria
@@ -123,8 +123,8 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
-
+- Representação: O caso de uso [UC021](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD004_Receber_Ribons/UC021_Abrir_Perfil.md) representa o léxico [LX021](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX021_Perfil.md)
+---
 ## E4
 
 ### Categoria
@@ -146,8 +146,13 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
+- Agregação: O léxico [LX001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX001_Agua_potavel.md) agrega o cenário [CN006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN006_Doar_agua_potavel.md)
+- Agregação: O léxico [LX011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX011_Doa%C3%A7%C3%A3o.md) agrega o cenário [CN007](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN007_Doar_ribons.md)
+- Agregação: O léxico [LX013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX013_Fortificacao_alimentar.md) agrega o cenário [CN005](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN005_Doar_Fortifica%C3%A7%C3%A3o_alimentar.md)
+- Agregação: O léxico [LX018](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX018_Medicamentos.md) agrega o cenário [CN013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN013_Doar_medicamentos.md)
+- Agregação: O léxico [LX027](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX027_Saude_basica.md) agrega o cenário [CN014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN014_Doar_saude_basica.md)
 
+---
 ## E5
 
 ### Categoria
@@ -166,8 +171,8 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
-
+- Representação: O caso de uso [UC002](https://github.com/requisitos-2019-1/Ribon/tree/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD001_Doar_Ribons/UC002_Abrir_Menu_de_Doa%C3%A7%C3%B5es.md) representa o cenário [CN012](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN012_Visualizar_ong.md)
+---
 ## E6
 
 ### Categoria
@@ -182,8 +187,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
-
+- Agregação: O léxico [LX014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) agrega o cenário [CN009](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN009_Ler_Historias.md)
+- Representação: O iStar [ISSR06](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr06---ler-hist%C3%B3ria-20) representa o cenário [CN009](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN009_Ler_Historias.md)
+---
 ## E7
 
 ### Categoria
@@ -201,8 +207,9 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
-
+- Representação: O iStar [ISSR01](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr01---coletar-ribon-di%C3%A1rio-20) representa o léxico [LX006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX006_Coletar.md)
+- Representação: O iStar [ISSR06](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr06---ler-hist%C3%B3ria-20) representa o caso de uso [UC014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD002_Ler_Historia/UC014_Coletar_100_Ribons.md)
+---
 ## E8
 
 ### Categoria
@@ -228,8 +235,12 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
-
+- Agregação: O léxico [LX001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX001_Agua_potavel.md) agrega o cenário [CN006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN006_Doar_agua_potavel.md)
+- Agregação: O léxico [LX013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX013_Fortificacao_alimentar.md) agrega o cenário [CN005](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN005_Doar_Fortifica%C3%A7%C3%A3o_alimentar.md)
+- Agregação: O léxico [LX018](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX018_Medicamentos.md) agrega o cenário [CN013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN013_Doar_medicamentos.md)
+- Agregação: O léxico [LX027](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX027_Saude_basica.md) agrega o cenário [CN014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN014_Doar_saude_basica.md)
+- Agregação: O léxico [LX010](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX010_Doar.md) agrega o cenário [CN007](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN007_Doar_ribons.md)
+---
 ## E9
 
 ### Categoria
@@ -259,8 +270,18 @@ Desenvolvimento
 
 ### Elo
 
-- Representação: X representa Y
-
+- Agregação: O léxico [LX001](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX001_Agua_potavel.md) agrega o cenário [CN006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN006_Doar_agua_potavel.md)
+- Agregação: O léxico [LX013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX013_Fortificacao_alimentar.md) agrega o cenário [CN005](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN005_Doar_Fortifica%C3%A7%C3%A3o_alimentar.md)
+- Agregação: O léxico [LX018](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX018_Medicamentos.md) agrega o cenário [CN013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN013_Doar_medicamentos.md)
+- Agregação: O léxico [LX027](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX027_Saude_basica.md) agrega o cenário [CN014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN014_Doar_saude_basica.md)
+- Agregação: O léxico [LX005](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md) agrega o cenário [CN010](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN010_Ver_Causas.md)
+- Representação: O caso de uso [UC003](https://github.com/requisitos-2019-1/Ribon/tree/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD001_Doar_Ribons/UC003_Selecionar_Causa.md) representa o cenário 
+- Representação: O caso de uso [UC004](https://github.com/requisitos-2019-1/Ribon/tree/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD001_Doar_Ribons/UC004_Selecionar_%C3%81gua_Pot%C3%A1vel.md) representa o cenário [CN006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN006_Doar_agua_potavel.md)
+- Representação: O caso de uso [UC005](https://github.com/requisitos-2019-1/Ribon/tree/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD001_Doar_Ribons/UC005_Selecionar_Fortifica%C3%A7%C3%A3o_alimentar.md) representa o cenário [CN005](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN005_Doar_Fortifica%C3%A7%C3%A3o_alimentar.md)
+- Representação: O caso de uso [UC006](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD001_Doar_Ribons/UC006_Selecionar_Sa%C3%BAde_B%C3%A1sica.md) representa o cenário [CN014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN014_Doar_saude_basica.md)
+- Representação: O caso de uso [UC007](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD001_Doar_Ribons/UC007_Selecionar_Medicamentos.md) representa o cenário [CN013](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN013_Doar_medicamentos.md)
+- Representação: O caso de uso [UC018](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD003_Visualizar_ONGs/UC018_Ver_Causas.md) representa o cenário [CN010](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN010_Ver_Causas.md)
+---
 ## E10
 
 ### Categoria
@@ -276,10 +297,17 @@ Desenvolvimento
 
 ### Elo
 
+<<<<<<< HEAD
 - Representação: X representa Y
 
 ---
 
+=======
+- Agregação: O léxico [LX008](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX008_Comprovante_de_doa%C3%A7oes.md) agrega o cenário [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md)
+- Representação: O caso de uso [UC019](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Casos_de_uso/UCD003_Visualizar_ONGs/UC019_Verificar_Comprovantes.md) representa o cenário [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md)
+- Representação: O iStar [ISSR07](https://github.com/requisitos-2019-1/Ribon/wiki/iStar#sr07---verificar-comprovantes-10) representa o cenário [CN011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/CN011_Verificar_comprovantes.md)
+---
+>>>>>>> 6d5bd282654c3ecf5bcfb8511c9f42356bc96622
 ## E11
 
 ### Categoria
