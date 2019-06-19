@@ -56,6 +56,6 @@
 
 ## Requisitos
 
-- [RF7](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
-- [RF36](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
-- [RF37](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF07](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF07)
+- [RF36](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF36)
+- [RF37](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF37)

@@ -50,4 +50,4 @@
 
 ## Requisitos: 
 
-- [RF9](https://github.com/requisitos-2019-1/Ribon/wiki/Backward-From)
+- [RF9](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF9)
