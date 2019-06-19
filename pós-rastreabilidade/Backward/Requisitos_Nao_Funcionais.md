@@ -6,7 +6,7 @@
 | 18/06/2019 | 1.3 | Elicitação e Modelagem | Rafael Teodosio |
 | 18/06/2019 | 1.3 | Legendas | Rafael Teodosio |
 
-#Legendas
+# Legendas
 
 | Sigla | Significado |
 | - | - |
