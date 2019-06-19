@@ -1,7 +1,8 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
-| 29/4/2019 | 1.1 | Complementando fluxo | Guilherme de Lyra |
+| 28/04/2019 | 1.0 | Adicionando caso | Henrique Martins |
+| 29/04/2019 | 1.1 | Complementando fluxo | Guilherme de Lyra |
+| 19/06/2019 | 1.2 | Adicionando Requisitos | Henrique Martins |
 
 # [UC011](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Ler_Historias.md) - Abrir Menu de [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)s
 
@@ -27,3 +28,7 @@ Abrindo o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Mo
 
 # Pós-condições
 1. [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deve poder visualizar as [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)s inspiradoras (tenham sido elas coletadas ou não).
+
+# Requisitos
+
+- [RF48](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF48)

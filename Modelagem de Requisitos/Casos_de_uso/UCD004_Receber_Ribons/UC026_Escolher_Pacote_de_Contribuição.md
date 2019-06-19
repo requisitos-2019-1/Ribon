@@ -1,6 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
 | 29/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
+| 19/06/2019 | 1.1 | Adicionando Requisitos | Henrique Martins |
 
 
 # [UC026](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Comprar_LX026_Ribon.md) - Escolher Pacote de Contribuição
@@ -26,4 +27,6 @@ O usuário pode escolher algum pacote de contribuição para comprar, sendo poss
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) é redirecionado para página onde deve preencher dados de seu cartão de crédito.
 
 
-# Garantias/Pós-condições (o que deve ser verdade apos o final do caso de uso)
+# Requisitos
+
+- [RF11](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF11)

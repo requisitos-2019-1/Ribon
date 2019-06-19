@@ -1,7 +1,7 @@
 | Data       | Versão  | Descrição       | Autor            |
 | ---------- | ------- | --------------- | ---------------- |
-| 29/4/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
-
+| 29/04/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
+| 19/06/2019 | 1.1 | Adicionando Requisitos | Henrique Martins |
 
 # UC021 - Abrir Perfil
 
@@ -35,3 +35,6 @@ Através do botão Perfil, o [Usuário](https://github.com/requisitos-2019-1/Rib
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deve poder visualizar quantos dias de [Saúde básica](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX027_Saude_basica.md) já doou
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deve poder visualizar quantos dias de [Medicamentos](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX018_Medicamentos.md) já doou
 
+# Requisitos
+
+- [RF03](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF03)
