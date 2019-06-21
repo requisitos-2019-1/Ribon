@@ -6,7 +6,7 @@
 
 # Lista de Requisitos Funcionais
 
- ## RF1  
+ ## RF01  
  ### Requisito
  O usuário deve poder criar conta                                                                                           
  ### Descrição
@@ -14,7 +14,7 @@
  
  ---
  
- ## RF2  
+ ## RF02  
  ### Requisito
  O usuário deve poder se conectar com facebook                                                                              
  ### Descrição
@@ -22,7 +22,7 @@
  
  ---
  
- ## RF3  
+ ## RF03  
  ### Requisito
  O usuário deve poder visualizar seu perfil                                                                                 
  ### Descrição
@@ -30,7 +30,7 @@
  
  ---
  
- ## RF4  
+ ## RF04  
  ### Requisito
  O usuário deve poder vizualizar doações feitas                                                                             
  ### Descrição
@@ -38,7 +38,7 @@
  
  ---
  
- ## RF5  
+ ## RF05  
  ### Requisito
  O usuário deve poder vizualizar pra quais instituições são feitas as doações                                               
  ### Descrição
@@ -46,7 +46,7 @@
  
  ---
  
- ## RF6  
+ ## RF06  
  ### Requisito
  O usuário deve poder ler noticias                                                                                          
  ### Descrição
@@ -54,7 +54,7 @@
  
  ---
  
- ## RF7  
+ ## RF07  
  ### Requisito
  O usuário deve poder coletar Ribons                                                                                        
  ### Descrição
@@ -62,7 +62,7 @@
  
  ---
  
- ## RF8  
+ ## RF08  
  ### Requisito
  O usuário deve poder doar Ribons                                                                                           
  ### Descrição
@@ -70,7 +70,7 @@
  
  ---
  
- ## RF9  
+ ## RF09  
  ### Requisito
  O usuário deve poder escolher pra que causa ele estará doando                                                              
  ### Descrição
