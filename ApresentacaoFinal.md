@@ -3,7 +3,8 @@
 ## Victor Rodrigues
 - Épicos adicionados ao backlog
 - Épicos adicionados ao Forward-From
-- Adaptação do backlog aos padrões da verificação.
+- (Vou fazer) Adaptação do backlog aos padrões da verificação.
+- (Vou fazer) Adpatação dos léxicos aos padrões da verificação.
 
 ## Henrique Martins
 - Adaptação dos cenários aos padrões da verificação
