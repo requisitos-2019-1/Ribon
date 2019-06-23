@@ -8,14 +8,14 @@
 
 ## Objetivo:
 
-- Descrever as etapas da coleta diária de Ribons por parte do
-usuário.
+- Descrever as etapas da coleta diária de [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md) por parte do
+[usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md).
 
 ## Contexto/Pré-condição:
 
-- Usuário deseja coletar Ribon.
-- Usuário possui histórias para serem coletadas
-- Usuário possui conexão com a internet.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deseja coletar [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md).
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) possui [histórias](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) para serem coletadas
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) possui conexão com a internet.
 
 ## Atores:
 
@@ -27,7 +27,7 @@ usuário.
 - [Celular](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX029_Smartphone.md)
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md)
 - Conexão com a internet
-- Possuir [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) não coletadas.
+- [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)
 
 ## Episódios:
 
@@ -36,14 +36,14 @@ usuário.
 
 ## Pós-Condições:
 
-- Usuário é notificado da realização da coleta
-- Usuário recebe os ribons.
-- Usuário pode coletar novos ribons.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) é notificado da realização da coleta
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) recebe os ribons.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) pode coletar novos ribons.
 
 ## Restrições:
 
 - Conexão com internet.
-- Usuário não possui histórias disponíveis.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) possui [histórias](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md) disponíveis.
 
 ## Exceções:
 

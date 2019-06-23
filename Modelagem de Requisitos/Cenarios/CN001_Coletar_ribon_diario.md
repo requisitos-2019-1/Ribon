@@ -58,6 +58,6 @@
 
 ## Requisitos
 
-- [RF07](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF07)
-- [RF36](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF36)
-- [RF37](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF37)
+- [RF07](https://github.com/requisitos-2019-1/Ribon/wiki/Tabela-Geral-de-Requisitos-Funcionais#rf7)
+- [RF36](https://github.com/requisitos-2019-1/Ribon/wiki/Tabela-Geral-de-Requisitos-Funcionais#rf36)
+- [RF37](https://github.com/requisitos-2019-1/Ribon/wiki/Tabela-Geral-de-Requisitos-Funcionais#rf37)

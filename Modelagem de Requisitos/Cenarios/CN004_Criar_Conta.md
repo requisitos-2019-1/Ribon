@@ -43,9 +43,7 @@
 - [Problemas com o Smartphone](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX024_Problemas_com_o_Smartphone.md).
 - [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) não funciona.
 - Falta de Conexão com a Internet.
-- Pessoa não ter e-mail.
-- Pessoa não ter conta no Google ou Facebook
 
 ## Requisitos: 
 
-- [RF1](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF01)
+- [RF1](https://github.com/requisitos-2019-1/Ribon/wiki/Tabela-Geral-de-Requisitos-Funcionais#rf1)

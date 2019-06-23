@@ -54,4 +54,4 @@
 
 ## Requisitos:
 
-- [RF42](https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md#RF42)
+- [RF42](https://github.com/requisitos-2019-1/Ribon/wiki/Tabela-Geral-de-Requisitos-Funcionais#rf42)
