@@ -3,6 +3,7 @@
 | 29/04/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
 | 29/04/2019 | 2.0 | Atualizando descrição e pós-condição | Henrique Martins |
 | 19/06/2019 | 2.1 | Adicionando Requisitos | Henrique Martins |
+| 23/06/2019 | 2.2 | Arrumando Erros | Henrique Martins |
 
 
 # [UC025](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Comprar_LX026_Ribon.md) - [Comprar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX007_Comprar.md) [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)s
@@ -26,7 +27,7 @@ O usuário pode contribuir mais para as causas comprando Ribon usando a moeda Re
 
 # Fluxo básico de eventos
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) realiza o caso "UC021 - Abrir Perfil"
-1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) seleciona o botão "Compre [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)s!"
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) seleciona o "Compre [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)s!"
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) é redirecionado para a página de pacotes.
 1. O caso de uso termina.
 

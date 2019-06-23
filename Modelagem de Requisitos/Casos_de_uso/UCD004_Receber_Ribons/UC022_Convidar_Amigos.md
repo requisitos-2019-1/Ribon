@@ -2,6 +2,7 @@
 | ---------- | ------- | --------------- | ---------------- |
 | 29/04/2019 | 1.0 | Adicionando caso | Guilherme de Lyra |
 | 19/06/2019 | 1.1 | Adicionando Requisitos | Henrique Martins |
+| 23/06/2019 | 1.2 | Arrumando Erros | Henrique Martins |
 
 # [UC022](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Convidar_amigos.md) - Convidar Amigos
 
@@ -21,7 +22,7 @@ Nenhuma.
 
 # Fluxo básico de eventos
 1. O caso se inicia quando o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) realiza o caso "UC021 - Abrir Perfil".
-1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) seleciona o botão "Convide amigos" ou "Compartilhar".
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) seleciona o "Convide amigos" ou "Compartilhar".
 1. O caso de uso termina.
 
 # Garantias/Pós-condições (o que deve ser verdade apos o final do caso de uso)

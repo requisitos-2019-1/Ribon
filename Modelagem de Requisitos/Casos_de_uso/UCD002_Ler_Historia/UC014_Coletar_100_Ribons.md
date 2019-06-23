@@ -3,6 +3,7 @@
 | 28/4/2019 | 1.0 | Adicionando caso | Henrique Martins |
 | 29/4/2019 | 1.1 | Modificando Fluxo | Guilherme de Lyra |
 | 19/06/2019 | 1.2 | Adicionando Requisitos | Henrique Martins |
+| 23/06/2019 | 1.3 | Arrumando Erros | Henrique Martins |
 
 
 # [UC014](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Coletar_ribon_diario.md) - [Coletar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX006_Coletar.md) 100 [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)s
@@ -13,7 +14,7 @@
 Versão 1.0.
 
 # Breve Descrição
-O usuário coleta 100 Ribons ao clicar no botão de "Coletar" em cada história
+O usuário coleta 100 Ribons ao "Coletar" uma história
 
 # Principal(is) Ator(es)
 [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md)

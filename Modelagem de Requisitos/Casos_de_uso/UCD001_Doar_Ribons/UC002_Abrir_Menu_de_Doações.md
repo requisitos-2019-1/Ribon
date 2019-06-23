@@ -2,6 +2,7 @@
 | ---------- | ------- | --------------- | ---------------- |
 | 27/04/2019 | [1.0](https://github.com/requisitos-2019-1/Ribon/commit/05339bf4c968ee9e9daebe6ffcdd1aa92436240d#diff-08909320c53979f8474d583cc5d47a66) | Adicionando caso  | Guilherme de Lyra |
 | 19/06/2019 | 1.1 | Adicionando Requisitos | Henrique Martins |
+| 23/06/2019 | 1.2 | Arrumando Erros | Henrique Martins |
 
 
 # [UC002](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Cenarios/Ver_Causas.md) - Abrir Menu de Doações
@@ -21,7 +22,7 @@ Através do botão Doações, o [Usuário](https://github.com/requisitos-2019-1/
 
 # Fluxo básico de eventos
 1. O caso se inicia quando o [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) inicia o [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md) e está no Menu Principal (de [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)s).
-1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) seleciona o botão Doações.
+1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) seleciona o menu de Doações.
 1. O [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) é redirecionado ao menu de Doações com sucesso.
 1. O caso de uso termina.
 
