@@ -6,10 +6,12 @@
 | 22/04/2019 | 1.3    | Modificando episódios e Pós-Condições  | Guilherme de Lyra |
 | 22/04/2019 | 2.0    | Absorvendo cenário 002.1               | Victor Rodrigues  |
 | 18/06/2018 | 2.1    | Adicionando Requisitos                 | Henrique Martins  |
+| 22/06/2019 | 1.2    | Arrumando Erros                     | Henrique Martins  |
 
 # Titulo: [Comprar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX007_Comprar.md) [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md).
 
-## Objetivo: Descrever as etapas da compra de [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md) por parte do [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md).
+## Objetivo:
+Descrever as etapas da compra de [Ribons](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md) por parte do [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md), para que ele possa [doar](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX010_Doar.md) para alguma [causa](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX005_Causa.md).
 
 ## Contexto/Pré-condição:
 
@@ -55,7 +57,7 @@
 
 ## Restrições:
 
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) não possui limite no [Cartão](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX004_Card.md) de crédito.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) possui limite no [Cartão](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX004_Card.md) de crédito.
 
 ## Exceções:
 
