@@ -4,12 +4,13 @@
 | 22/04/2019 | 1.1    | Adicionando Pós-Condições | Rafael Teodosio |
 | 07/06/2019 | 1.2 | Correção de erro na restrição | Henrique Martins |
 | 18/06/2018 | 1.3    | Adicionando Requisitos | Henrique Martins |
+| 22/06/2019 | 1.4    | Arrumando Erros                     | Henrique Martins  |
 
 # Título: Visualizar [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX019_Ong.md)
 
 ## Objetivo:
 
-- Descrever as etapas para visualizar [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX019_Ong.md).
+- Descrever as etapas para visualizar [ONG](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX019_Ong.md) para saber mais sobre a mesma.
 
 ## Contexto/Pré-condição:
 

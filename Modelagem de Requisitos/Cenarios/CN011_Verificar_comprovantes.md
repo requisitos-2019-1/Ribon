@@ -2,6 +2,7 @@
 | ---------- | ------ | ------------------ | ---------------- |
 | 20/04/2019 | 1.0    | Criação do cenario | Victor Rodrigues |
 | 18/06/2018 | 1.1    | Adicionando Requisitos | Henrique Martins |
+| 22/06/2019 | 1.2    | Arrumando Erros                     | Henrique Martins  |
 
 # Título: Verificar comprovantes de doações
 
@@ -12,7 +13,7 @@
 ## Contexto/Pré-condição: 
 
 - [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) instalou o [App](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
-- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deseja ler [História](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX014_Historia.md)s/notícias.
+- [Usuário](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX031_Usuário.md) deseja verificar os comprovantes de doação.
 
 ## Atores: 
 

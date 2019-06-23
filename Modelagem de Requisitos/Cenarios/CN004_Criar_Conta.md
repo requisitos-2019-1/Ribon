@@ -3,12 +3,13 @@
 | 17/04/2019 | 1.0    | Criação do cenario | Henrique Martins |
 | 07/06/2019 | 1.1    | Correção de Erros | Henrique Martins |
 | 18/06/2018 | 1.2    | Adicionando Requisitos | Henrique Martins |
+| 22/06/2019 | 1.3    | Arrumando Erros                     | Henrique Martins  |
 
 # Título: Criar Conta
 
 ## Objetivo:
 
-- Criar uma conta pessoal.
+- Criar uma conta pessoal para usar o [aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
 
 ## Contexto:
 
@@ -27,14 +28,15 @@
 
 ## Episódios:
 
-- A Pessoa escolhe se quer criar uma conta usando Google, Facebook ou criar uma nova no [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
-- Pessoa insere seu e-mail e senha.
+- A Pessoa escolhe se quer criar uma conta usando Facebook ou criar uma nova no [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md).
+
+## Pós-condições:
+
+- Pessoa deverá ter uma conta no [Aplicativo](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX002_Aplicativo.md)
 
 ## Restrições:
 
 - Pessoa escolher uma forma de criar conta.
-- Pessoa inserir e-mail válido.
-- Pessoa inserir senha válida.
 
 ## Exceções:
 
