@@ -6,7 +6,7 @@ soup = bs(soup)
 href_tags = soup.find_all(href=True)
 
 # convert RFS
-for a in soup.find_all('area', {'href':re.compile('rf')}):
+for a in soup.find_all('area', {'href':re.compile('\#rf')}):
     a['href']=r'https://github.com/requisitos-2019-1/Ribon/blob/master/Requisitos/Requisitos_Funcionais.md'+a['href'].replace('_page','')
     a['target']='_blank'
 
