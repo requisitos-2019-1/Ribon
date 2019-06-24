@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup as bs
 import re
-path='backward/index.html'
+path='index.html'
 soup = open(path).read()
 soup = bs(soup)
 href_tags = soup.find_all(href=True)
@@ -21,3 +21,5 @@ for a in soup.find_all('area', {'href':re.compile('artefatos')}):
 f=open(path, 'w')
 f.write(soup.prettify())
 f.close()
+
+# \d_\w
