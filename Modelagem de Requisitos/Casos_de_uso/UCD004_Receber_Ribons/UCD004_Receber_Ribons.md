@@ -3,7 +3,7 @@
 | 28/4/2019 | 1.0 | Adicionando diagrama | Guilherme de Lyra |
 
 
-# UCD002 - Receber [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)s
+# UCD004 - Receber [Ribon](https://github.com/requisitos-2019-1/Ribon/blob/master/Modelagem%20de%20Requisitos/Lexicos/LX026_Ribon.md)s
 
 ![diagrama](Receber_Ribons.png)
 
