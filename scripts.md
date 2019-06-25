@@ -14,10 +14,10 @@
 Depois de se definir quais são os arquivos dos léxicos, o programa passa por todos os arquivos markdowns desejados e, ao encontrar uma palavra que seja um léxico (ou um sinônimo de um léxico), automaticamente hyperlinka-a pro léxico
 
 ## MODIFY WRONG LINKS
-Após rodar o script acima com bugs, seria necessário consertar manualmente muitos arquivos. Para evitar-se isso, foi utilizar o script "modify_wrong_links" que consertou-os tranquilamente
+Após rodar o script acima com bugs, seria necessário consertar manualmente muitos arquivos. Para evitar-se isso, foi utilizado o script "modify_wrong_links" que consertou-os tranquilamente
 
 ## AUTO GENERATE TEMPLATE FROM PLANTUML
-Através do arquivo Plantuml, gera-se um arquivo markdown praticamente pronto (incluindo já a tabela de versionamento, com nome de quem fez o arquivo, data que foi criado
+Através do arquivo Plantuml, gera-se um arquivo markdown praticamente pronto (já incluindo a tabela de versionamento, com nome de quem fez o arquivo, data que foi criado etc)
 
 Exemplo de template gerado
 ![template gerado](https://github.com/requisitos-2019-1/Ribon/blob/master/vis/Casos_de_uso/UC001_Visualizar_Quantidade_de_Ribons.png)
@@ -57,7 +57,7 @@ Após isso tudo, pra não ficar uma imagem muito solta (ou seja, sem saber o que
 ![head](https://github.com/requisitos-2019-1/Ribon/blob/master/vis/Backlog/US005.png)
 
 ## PLOT VERIFICAÇÃO
-Para extrair dados relevantes, utilizei o script "plot_verificacao" para automaticamente bolar gráficos à partir das tabelas markdowns.
+Para extrair dados relevantes, utilizei o script "plot_verificacao" para automaticamente plotar gráficos à partir das tabelas markdowns e das regras de notas que definimos.
 ![plot](https://github.com/requisitos-2019-1/Ribon/blob/master/casos_grade.png)
 
 ## FIX HTML
