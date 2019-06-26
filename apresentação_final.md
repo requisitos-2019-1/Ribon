@@ -238,11 +238,47 @@ tempo total:
 
 ## guilherme
 
+### QUESTIONÁRIO
+#### ESTRUTURA BOA
+#### POUCA ADESAO
+#### SEM INSIGHT
 
+### CASOS DE USO
+#### MODULO INTERESSANTE
+#### UM TIME DE 5 EM VEZ DE 5 TIMES EM 1
+#### TEMPLATE QUALITATIVO
+#### DISTINÇÃO DIAGRAMA E CASO DE USO
+#### 30 CASOS DE USO
+#### 4 DIAGRAMAS
+#### DESENVOLVIDO COM PLANTUML
+#### SIMILAR À DOT DO GRAPHVIZ
+#### O ARQUIVO PLANTUML GERAVA O MARKDOWN DOS CASOS DE USO E DIAGRAMAS
+
+### VERIFICAÇÃO
+#### PEGAMOS PERGUNTAS DO AIRBNB UBER E PINTEREST
+#### REFATORAMOS REMOVEMOS E ADICIONAMOS PERGUNTAS
+#### PERGUNTAS SUPERFICIAIS
+#### ATESTAR QUALIDADE EM VEZ DE EXISTENCIA
+#### TABELA DE PERGUNTAS COM TIPO, IMPACTO E JUSTIFICATIVA
+#### VERIFICAÇÕES FEITAS INDIVIDUALMENTE
+#### TABELA CONSENSO
+#### DISPLAY INTERATIVO COM PRINT DOS MARKDOWNS DO GITHUB
+#### GERA AUTOMATICAMENTE TABELAS MARKDOWNS
+#### PLOT DOS GRÁFICOS DAS NOTAS PONDERADAS
+#### VERIFICAMOS DIFERENÇA ENTRE NOTA MEDIA E PONDERADA
+
+### PÓS RASTREABILIDADE
+#### PROTOTIPO DESENVOLVIDO
+#### BOTOES AZUIS VERMELHOS E AMARELOS
+#### NOVA FEATURE JOGO
+#### 198 TELAS
+#### GAMBIARRA NECESSARIA
 
 questionario
 
-    Embora a estrutura do questionario estivesse relativamente boa, não teve muita adesão -- apenas 14 pessoas responderam, portanto não deu
+    Embora a estrutura do questionario estivesse relativamente boa, não teve muita adesão -- 
+    
+    apenas 14 pessoas responderam, portanto não deu
 
     pra tirar muitos insights positivos dele
 
@@ -250,15 +286,23 @@ questionario
 
 casos de uso
 
-    foi um modulo bastante interessante. foi o primeiro modulo que começamos a trabalhar mais como um time inteiro (e nao 5 times em um, como 
+    foi um modulo bastante interessante. foi o primeiro modulo que começamos a trabalhar mais 
+    
+    como um time inteiro (e nao 5 times em um, como 
 
-    os proefssores disseram). nele, definimos um template qualitativo, para que houvesse uma padronização na qualidade (obviamente)
+    os proefssores disseram). nele, definimos um template qualitativo, para que houvesse uma 
+    
+    padronização na qualidade (obviamente)
 
-    além disso, fizemos 2 distinções importantes, que à priori nao parecia obvio: o que é Diagrama e o que é Caso de uso
+    além disso, fizemos 2 distinções importantes, que à priori nao parecia obvio: o que é 
+    
+    Diagrama e o que é Caso de uso
 
     foram aproximadamente 30 casos de uso distintos, e 4 diagramas.
 
-    além disso, pro desenvolvimento desse modulo, utilizamos uma ferramenta chamada Plantuml, bem similar ao Dot do Graphviz
+    além disso, pro desenvolvimento desse modulo, utilizamos uma ferramenta chamada Plantuml, 
+    
+    bem similar ao Dot do Graphviz
 
     e através do arquivo plantuml, ja geravamos um template praticamente pronto. 
 
@@ -266,21 +310,33 @@ casos de uso
 
 verificação
 
-    pegamos perguntas do airbnb, uber e pinterest; então, reunimo-nos os 5 membros e fomos refatorando e adicionando perguntas,
+    pegamos perguntas do airbnb, uber e pinterest; então, reunimo-nos os 5 membros e fomos 
+    
+    refatorando e adicionando perguntas,
 
-    pois varias delas eram superficiais. entao em vez de atestarmos se algo existia, atestavamos a qualidade da coisa que existia
+    pois varias delas eram superficiais. entao em vez de atestarmos se algo existia, atestavamos 
+    
+    a qualidade da coisa que existia
 
     à cada pergunta existia um impacto, uma justificativa do impacto e um 
 
-                                        tipo (sendo numerico [subjetivo] ou binario [objetivo, referenciando-se as regras do modelo])
+                                        tipo (sendo numerico [subjetivo] ou binario [objetivo, 
+                                        
+                                        referenciando-se as regras do modelo])
 
-    cada verificação foi feita individualmente, e, depois, faziamos a tabela consenso que seria o merge das opinioes. doravante
+    cada verificação foi feita individualmente, e, depois, faziamos a tabela consenso que seria 
+    
+    o merge das opinioes. doravante
 
-    nao existia voto vencido nem voto medio, alguma das partes haveria de se convencer o porque de nota X ser atribuida, e, depois, há
+    nao existia voto vencido nem voto medio, alguma das partes haveria de se convencer o porque de 
+    
+    nota X ser atribuida, e, depois, há
 
     a justificativa dessa mesma nota.
 
-    além disso, criei um display interativo cujo qual gerava automaticamente a tabela markdown, e, apos isso, um script que gerava
+    além disso, criei um display interativo cujo qual gerava automaticamente a tabela markdown, e, 
+    
+    apos isso, um script que gerava
 
     gráficos importantes.
 
@@ -288,17 +344,25 @@ verificação
 
 pós rastreabilidade
 
-    bom, foi na pós rastreabilidade que o protótipo foi desenvolvido. nele, botoes azuis indicam mudança de fluxo (troca de telas etc), 
+    bom, foi na pós rastreabilidade que o protótipo foi desenvolvido. nele, botoes azuis indicam 
+    
+    mudança de fluxo (troca de telas etc), 
 
-    vermelhos indicam dropdowns com os requisitos relacionados àquele botão, e amarelos indicam links externos (no github)
+    vermelhos indicam dropdowns com os requisitos relacionados àquele botão, e amarelos indicam 
+    
+    links externos (no github)
 
-    além disso, foi adicionado uma nova feature para levantarmos requisitos da mesma: um jogo, onde o usuário consumiria ads constantemente, e, portanto
+    além disso, foi adicionado uma nova feature para levantarmos requisitos da mesma: um jogo, 
+    
+    onde o usuário consumiria ads constantemente, e, portanto
 
     receberia ribons por isso
 
     ao total, foram 198 telas desenvolvidas.
 
-    vale ressaltar que uma gambiarra foi necessaria ja que a ferraamenta utrilizada nao permitia hyperlinks, então os hyperlinks eram gerados via
+    vale ressaltar que uma gambiarra foi necessaria ja que a ferraamenta utrilizada nao permitia 
+    
+    hyperlinks, então os hyperlinks eram gerados via
 
     script
 
