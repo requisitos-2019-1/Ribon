@@ -372,7 +372,43 @@ pós rastreabilidade
 
 ## bahia
 
+RICHPICTURE(MAX 10s): 
 
+    Junto com a argumentação os richpictures não estavam com uma qualidade aceitavel, 
+    mas como foi dito anteriormente, a prioridade foi para outros artefatos
+    cujo grupo acredita agregar mais valor.
+
+CENARIOS(MAX 50s): 
+
+    os Cenários foi um dos modelos selecionados para receber melhorias com base nas verificações 
+    realizadas foram identificados algums problemas recorrentes que eram propagados em todos eles que foram as Exceções e as Restrições
+    As exceções não estavam representando alguma situação que atrapalhava o usuário de atingir o objetivo inicial e 
+    As restrições não representavam requisitos que deveriam ser cumpridos para o cenário ocorrer alem disso foi definido que 
+    Os objetivos deveriam descrever a finalidade do cenário, EM RELAÇÃO AO SISTEMA. Isso tambem acarretou na modificação dos objetivos
+    da maioria dos cenários. Após a revisão dos trabalhos realizados, foram identificados mais 4 cenários.
+
+ESPECIFICAÇ O SUPLEMENTAR(MAX 15s): 
+   
+    A especificação suplementar nas versões anteriores estava incompleta e simples,
+    com base no feedback dos professores foi possivel incrementa-lá para que estivesse de acordo com a realidade dos requisitos não-funcionais
+    existentes na aplicação. (KISHIMA FALA).
+
+NFR DESEMPENHO E USABILIDADE(MAX 35s): 
+
+    O NFR Frameowork foi um dos trabalhos mais fracos, e com base na verificação estava nitida a qualidade baixa deles.
+
+    Usabilidade: a maior critica sobre eles eram que eles estavam muito rasos com poucos níveis de contribuição e o conceito de operacionalização estava errado.
+    nesse novo modelo fica nítido o avanço em relação aos niveis de comtribuição e operacionalizações.
+
+    Desempenho: Aqui é onde o impacto das versões é maior com conta da simplicidade da primeira versão, onde na versão atual possui um numero maior de
+    contribuições e operacionalizações porpocionando assim uma riquesa maior de detalhes.
+
+VERIFICAÇÃO (MAX 30s) :
+
+POS-RASTREABILIDADE???(MAX 30s):
+
+    O Backward-from dos requisitos não-funcionais estavam incompletos na parte de elicitação, algums estavam Modelados mas não Elicitados
+    então foi realizada a Elicitação desses requisitos e adicionados a tabela, deixando a tabela com ao menos um requisito elicitado e modelado.
 
 
 
