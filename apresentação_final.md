@@ -243,6 +243,18 @@ tempo total:
 ##### * POUCA ADESAO
 ##### * SEM INSIGHT
 
+### Elicitação
+#### dentre essas técnicas as mais importantes foram a análise de protocolo e a observação.
+#### posteriormente percebemos umas carência muito grande nos requisitos não funcionais.
+#### principalmente na pós-rastreabilidade que percebemos várias modelagens de requisitos que não foram elicitados
+
+### léxicos
+#### uma das nossas piores entregas foi a dos cenários e léxicos.
+#### Sabendo disso um dos artefatos que realizamos a verificação foram justamente os léxicos.
+#### baseado nessa verificação corrigimos todos os nossos léxicos.
+#### o interessante foi que como na verificação a gente tinha justificado cada pergunta de cada artefato, ajudou muito nesssa correção, pois a gente sabia exatamento o que tinhamos errado e como arrumar
+
+
 ### CASOS DE USO
 ##### * MODULO INTERESSANTE
 ##### * UM TIME DE 5 EM VEZ DE 5 TIMES EM 1
